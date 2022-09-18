@@ -31,7 +31,7 @@ animation0.pattern1,overlay,-1,100,0,0
 
 It may also look like this:
 
-```
+```c
 
 0interval,random,4
 0pattern0,100,0,overlay,0,0
