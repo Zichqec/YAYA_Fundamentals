@@ -8,3 +8,5 @@ I would really appreciate _all_ feedback, I want this guide to be as accurate an
 The formatting used in these text files is not complete, as I plan to replicate this guide in multiple places which each have their own formatting needs. I've used Discord's markdown formatting to indicate italics and bold, and any links in the text will be applied to appropriate words.
 
 In the future, this repository will probably be used to track any changes made to the guide over time.
+
+Oh yes, there will eventually be a companion ghost for this guide, but I can't set that up until the guide is complete, so. Coming Eventually!™
