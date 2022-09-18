@@ -7,12 +7,10 @@ This guide is up to date with YAYA Tc571-3. If you want to read more about YAYA 
 I will include boxes of sample code throughout this guide. I encourage you to copy sample code into Notepad++ (or your editor of choice) with the language set to C, so that you can see the syntax highlighting. They'll look like this:
 
 ```c
-
 request
 {
 	"Hello, world!"
 }
-
 ```
 
 (In Notepad++, you can change the language by clicking on the language tab at the top. Then go to the C category, and click C.)
