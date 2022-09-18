@@ -83,4 +83,4 @@ One final note. If you want to, you can change the name of the yaya.dll to whate
 
 [Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Tama%20and%20the%20SHIORI%20log.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
