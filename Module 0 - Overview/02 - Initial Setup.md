@@ -28,12 +28,12 @@ dicdir, dictionary
 
 Now everything in the folder "dictionary" will be read as YAYA code.
 
-Note that order the files are read in is unspecified by default. If you need to specify what order the files should be read in, you will have to include a file in the directory in question, called _loading_order.txt. In that file, list all of the names of the files in the directory, one per line, in the order you want them to be read.
+Note that order the files are read in is unspecified by default. If you need to specify what order the files should be read in, you will have to include a file in the directory in question, called `_loading_order.txt`. In that file, you can write the order the dic files should be loaded in, the same way you would write them in the yaya.txt.
 
 ```
-somefile.dic
-someotherfile.dic
-anotherfile.dic
+dic, somefile.dic
+dic, someotherfile.dic
+dic, anotherfile.dic
 ```
 
 With the above loading order, somefile.dic will be read first, then someotherfile.dic, and then anotherfile.dic.
