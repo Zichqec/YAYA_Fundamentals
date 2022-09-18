@@ -2,18 +2,18 @@ This guide is intended to make the YAYA programming language accessible to more 
 
 I have run this guide past a few people to check for errors and ensure things are explained clearly. But if you find something confusing, or an error of any kind, do reach out and I will clarify and/or update the guide.
 
-This guide is up to date with YAYA Tc571-3. If you want to read more about YAYA from the official source, check out AYAYA. http://emily.shillest.net/ayaya/index.php There are a couple of guides there https://emily.shillest.net/ayaya/index.php?%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E6%96%87%E6%B3%95, including one specifically for beginners that just want to know the basics. https://emily.shillest.net/ayaya/index.php?%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E5%9F%BA%E6%9C%AC You'll notice that it's entirely in Japanese, which is part of the reason I'm making this guide. It can be very difficult to understand programming concepts when run through a translator.
+This guide is up to date with YAYA Tc571-3. If you want to read more about YAYA from the official source, check out [AYAYA](http://emily.shillest.net/ayaya/index.php). There are a couple of [guides](https://emily.shillest.net/ayaya/index.php?%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E6%96%87%E6%B3%95) there, including [one specifically for beginners](https://emily.shillest.net/ayaya/index.php?%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E5%9F%BA%E6%9C%AC) that just want to know the basics. You'll notice that it's entirely in Japanese, which is part of the reason I'm making this guide. It can be very difficult to understand programming concepts when run through a translator.
 
 I will include boxes of sample code throughout this guide. I encourage you to copy sample code into Notepad++ (or your editor of choice) with the language set to C, so that you can see the syntax highlighting. They'll look like this:
 
----
+```c
 
 request
 {
 	"Hello, world!"
 }
 
----
+```
 
 (In Notepad++, you can change the language by clicking on the language tab at the top. Then go to the C category, and click C.)
 
