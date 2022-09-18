@@ -18,3 +18,5 @@ request
 You can also download the companion ghost that goes with this guide, and click the links under each of the code boxes to run the code in the ghost and see the output. I also highly encourage you to look inside that ghost's files and play with the code examples in there, and see what you can make happen! All the code for each lesson will be separated into different files, and extra copies of the original code will be available so that you can undo any changes.
 
 All that being said, I hope you have fun learning about YAYA! As a programming language it has some very strange features. But it is well adapted for creating ghosts, and a lot of the core concepts you learn here can be applied to other programming languages as well.
+
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
