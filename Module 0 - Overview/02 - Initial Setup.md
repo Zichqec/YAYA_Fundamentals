@@ -94,3 +94,7 @@ To use this mode, include a file called yaya_emerg.txt next to your yaya.txt. Th
 
 
 One final note. If you want to, you can change the name of the yaya.dll to whatever you want. You just have to keep the dll extension the same, and whatever name you change it to, you have to also change the name of yaya.txt and yaya_emerg.txt. So if you changed it to core.dll, you would need to change yaya.txt to core.txt, and yaya_emerg.txt to core_emerg.txt.
+
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Tama%20and%20the%20SHIORI%20log.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)

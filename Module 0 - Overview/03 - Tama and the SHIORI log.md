@@ -77,3 +77,7 @@ F:\SSP\ghost\my_ghost\ghost\master\somefile.dic(13) : warning W0008 : Missing ar
 As you can see above, these have the same format as the error messages.
 
 Knowing how to read the SHIORI log isn't 100% necessary for writing in YAYA, but it can make your life a whole lot easier if you do.
+
+Next module>>
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
