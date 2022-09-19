@@ -16,7 +16,7 @@ log, ayame.log
 
 This will output a log of every SHIORI request to the file `ayame.log`, though you can pick a different name if you'd like. This file will be written to as the ghost runs. Any errors or warning messages will also be written here. But remember to disable the SHIORI log by commenting or erasing it from yaya.txt when you're done, or the logs can get extremely long.
 
-If you don't want to fuss with reloading that file constantly, you can also use the debugging tool [Tama](https://github.com/YAYA-shiori/tama) to take a peek at the SHIORI log in real time. I highly recommend you pick it up, it will make your life much easier. Do note that it can make your ghost lag a little while it's running, especially if you open the right click menu. So only keep it open when you need it.
+If you don't want to fuss with reloading that file constantly, you can also use the debugging tool [Tama](https://github.com/YAYA-shiori/tama) to take a peek at the SHIORI log in real time. I highly recommend you pick it up, it will make your life much easier. Do note that it can make your ghost lag a little while it's running, especially if you open the right click menu, so only keep it open when you need it.
 
 So what does the log actually look like? This is what requests from the baseware look like in the SHIORI log:
 

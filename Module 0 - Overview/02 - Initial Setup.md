@@ -1,6 +1,6 @@
 In order to actually execute YAYA code, you will need a [yaya.dll](https://github.com/YAYA-shiori/yaya-shiori/releases), and a yaya.txt that points to the files containing your code.
 
-yaya.txt has multiple options you can specify. First, you should specify the charset. By default, the charset is set to SHIFT_JIS. (If you're from the Japanese community and you're reading this; hi! You can probably skip this part and use SHIFT_JIS.) SHIFT_JIS is not ideal unless you're writing in Japanese, so you'll want to change the charset, most likely to UTF-8. This can be done by adding this line to yaya.txt.
+yaya.txt has multiple options you can specify. First, you should specify the charset (character set). By default, the charset is set to SHIFT_JIS. (If you're from the Japanese community and you're reading this; hi! You can probably skip this part and use SHIFT_JIS.) SHIFT_JIS is not ideal unless you're writing in Japanese, so you'll want to change the charset, most likely to UTF-8. This can be done by adding this line to yaya.txt:
 
 ```
 charset, UTF-8
@@ -9,7 +9,7 @@ charset, UTF-8
 You can specify different charsets for different parts of your ghost, but we won't get into that here. If you want to see all the settings, take a look on the [AYAYA wiki](https://emily.shillest.net/ayaya/index.php?cmd=read&page=%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%2F%E6%96%87%E6%B3%95%2F1.%E5%9F%BA%E7%A4%8E%E8%A8%AD%E5%AE%9A).
 
 
-Next, you can include dic files for your ghost by writing lines like these. Note that the filepath is relative from the position of yaya.dll.
+Next, you can include dic (dictionary) files for your ghost by writing lines like these. Note that the filepath is relative from the position of yaya.dll.
 
 ```
 dic, somefile.dic
@@ -17,10 +17,24 @@ dic, somefile.dic
 
 Now anything in somefile.dic will be read as YAYA code. If the file does not exist, YAYA will throw an error and will not load.
 
+If you're not familiar with relative filepaths, here is a quick explanation. An absolute filepath is extremely specific, starting from name of the drive. For example:
+
+```
+F:\My_Stuff\SSP\ghost\my_ghost\ghost\master\somefile.dic
+```
+
+A relative filepath, however, will start from a different location. In this case, that will be the position of yaya.dll, which is usually in the `ghost/master/` folder. So, if we want to specify a file that is in the same folder as yaya.dll, we need only write its name. However, if we wanted to go up into a folder higher in the hierarchy, we need a special marker for that. `../` will take you up a folder. So, if we have a dic file in `ghost/other/`, we can access it with this filepath instead:
+
+```
+../other/somefile.dic
+```
+
+This is a relative filepath. It goes up one folder from where yaya.dll is placed, which takes us into the `ghost/` folder, and then down into the `other/` folder, where the dic file we want is placed.
+
+
 You can add as many of these as you need, for as many files as you have. They will be loaded in the order that they are listed.
 
-
-There are also a few other options. dicdir can be used to specify a folder, and all dic files in the specified folder will be loaded.
+There are also a few other options. dicdir (dictionary directory) can be used to specify a folder, and all dic files in the specified folder will be loaded.
 
 ```
 dicdir, dictionary
@@ -28,7 +42,7 @@ dicdir, dictionary
 
 Now everything in the folder "dictionary" will be read as YAYA code.
 
-Note that order the files are read in is unspecified by default. If you need to specify what order the files should be read in, you will have to include a file in the directory in question, called `_loading_order.txt`. In that file, you can write the order the dic files should be loaded in, the same way you would write them in the yaya.txt.
+Note that the order the files are read in is unspecified by default. If you need to specify what order the files should be read in, you will have to include a file in the directory you specified, called `_loading_order.txt`. In that file, you can write the order the dic files should be loaded in, the same way you would write them in the yaya.txt.
 
 ```
 dic, somefile.dic
@@ -39,7 +53,7 @@ dic, anotherfile.dic
 With the above loading order, somefile.dic will be read first, then someotherfile.dic, and then anotherfile.dic.
 
 
-Finally, there is dicif. dicif reads a file as YAYA code, but only if that file exists. Otherwise, the instruction is ignored.
+Finally, there is dicif (dictionary if). dicif reads a file as YAYA code, but only _if_ that file exists. Otherwise, the instruction is ignored.
 
 ```
 dicif, somefile.dic
@@ -57,7 +71,7 @@ include, system_config.txt
 Now system_config.txt can be used to write options the same way as yaya.txt.
 
 
-By default, YAYA outputs errors in Japanese. If you cannot read Japanese, you'll probably want to change that. To accomplish this, you can change the msglang like so:
+By default, YAYA outputs errors in Japanese. If you cannot read Japanese, you'll probably want to change that. To accomplish this, you can change the msglang (message language) like so:
 
 ```
 msglang,english
