@@ -9,7 +9,7 @@ Baseware is the program that runs the ghost. This guide will assume you are usin
 
 The baseware is responsible for sending SHIORI events to the ghost. These are events like OnMouseDoubleClick when the user double clicks on the ghost, or OnSecondChange which occurs every second. It then calls on the dll file of the SHIORI, in this case YAYA, and sends it information about the event.
 
-YAYA will refer to the code you have written in your dic files, and will run the code for appropriate event if it exists. If there is a script returned by the event, it will pass this back to the baseware, which will make your ghost speak/move/etc. according to the contents of that script.
+YAYA will refer to the code you have written in your dic files, and will run the code for the appropriate event if it exists. If there is a script returned by the event, it will pass this back to the baseware, which will make your ghost speak/move/etc. according to the contents of that script.
 
 
 YAYA code, as seen in the previous lesson, looks something like this:
