@@ -1,5 +1,5 @@
 # YAYA_Fundamentals
- Complete guide to the YAYA programming language
+ Complete(?) guide to the YAYA programming language
 
 This repository is for my WIP guide to YAYA. If you have access, congrats! I trust you enough to beta-read a project that is very important to me. You're welcome to submit issues here on GitHub, or DM me on Discord. I just figure it'll be easier to push changes here and keep everyone up to date that way.
 
