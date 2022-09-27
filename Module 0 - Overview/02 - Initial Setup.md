@@ -1,4 +1,4 @@
-In order to actually execute YAYA code, you will need a copy of [yaya.dll](https://github.com/YAYA-shiori/yaya-shiori/releases)—which is what actually parses your YAYA code—and a `yaya.txt` in the same folder that will point to the files containing your code.
+In order to actually execute YAYA code, you will need a copy of [yaya.dll](https://github.com/YAYA-shiori/yaya-shiori/releases)—which is what actually parses your YAYA code—and a `yaya.txt` in the same folder that will point to the files containing your code. (You can download the `yaya.zip` from the latest version listed on that page.)
 
 yaya.txt has multiple options you can specify. First, you should specify the charset (character set). By default, the charset is set to SHIFT_JIS. (If you're from the Japanese community and you're reading this; hi! You can probably skip this part and use SHIFT_JIS.) SHIFT_JIS is not ideal unless you're writing in Japanese, so you'll want to change the charset, most likely to UTF-8. This can be done by adding this line to yaya.txt:
 
@@ -23,7 +23,7 @@ If you're not familiar with relative filepaths, here is a quick explanation. An 
 F:/My_Stuff/SSP/ghost/my_ghost/ghost/master/somefile.dic
 ```
 
-A relative filepath, however, will start from a different location. In this case, that will be the position of `yaya.dll`, which is usually in the `ghost/master/` folder. So, if we want to specify a file that is in the same folder as `yaya.dll`, we can just write its name. If we want to go into a subfolder, we can write just the name of that folder, a slash, then the name of the file.
+A relative filepath, however, will start from a different location. In this case, that will be the position of yaya.dll, which is usually in the `ghost/master/` folder. So, if we want to specify a file that is in the same folder as yaya.dll, we can just write its name. If we want to go into a subfolder, we can write just the name of that folder, a slash, then the name of the file.
 
 ```
 special/somefile.dic
@@ -42,6 +42,6 @@ This is a relative filepath. It goes up one folder from where `yaya.dll` is plac
 You can add as many dic files as you need in yaya.txt. They will be loaded in the order they are listed, from top to bottom.
 
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Tama%20and%20the%20SHIORI%20log.md)
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
