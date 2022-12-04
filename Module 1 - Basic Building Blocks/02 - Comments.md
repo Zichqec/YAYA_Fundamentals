@@ -73,6 +73,6 @@ CalculateDistance
 
 There aren't any hard rules for how to come up with names for functions (other than the restrictions mentioned in the function structure lesson), just pick what makes the most sense to you and try to stick with it.
 
-[Next lesson>>]()
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/03%20-%20Data%20Types.md)
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)

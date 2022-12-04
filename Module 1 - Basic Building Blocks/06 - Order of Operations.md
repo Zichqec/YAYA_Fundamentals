@@ -85,6 +85,6 @@ Order of operations can be tricky. It took me a while of staring at the AYAYA wi
 
 I don't really have a good context example at this point, because most of what I do doesn't involve operations this complicated. But, we will see order of operations come up again soon! But next time, it'll be without the tricky math.
 
-[Next lesson>>]()
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/05%20-%20Operators.md)

@@ -171,4 +171,4 @@ Anyways, in relation to this lesson, you can see this is a way to use the && ope
 
 [Next Module>>]()
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)

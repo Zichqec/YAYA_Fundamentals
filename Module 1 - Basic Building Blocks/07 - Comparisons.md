@@ -123,6 +123,6 @@ else
 
 Well, whether the inclusive operator makes more sense here is up to individual preference, I'm sure. But for me, I definitely prefer seeing the round number 100 there instead of having to write `if friendship > 99`. It just makes the numbers easier to work with in my head!
 
-[Next lesson>>]()
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/08%20-%20Logical%20Operators.md)
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)

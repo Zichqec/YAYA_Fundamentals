@@ -198,6 +198,6 @@ I'll be honest, I would be shocked if you used more than strings and integers on
 
 I really do mean it when I say you should reread over parts of this guide if you're new to coding. As you learn more, some of this stuff will start to make more and more sense.
 
-[Next lesson>>]()
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
