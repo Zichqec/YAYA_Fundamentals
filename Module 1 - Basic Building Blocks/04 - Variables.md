@@ -1,3 +1,5 @@
+# Lesson 04 - Variables
+
 Variables are one of the most important building blocks of coding, and you should be well versed in them. Essentially, a variable is a like a bucket with a name which you can store bits of data in. To store a value in a variable, you assign the value with a single equals sign.
 
 ```c

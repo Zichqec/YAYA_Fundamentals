@@ -1,3 +1,5 @@
+#Lesson 06 - Order of Operations
+
 Different operations have different levels of priority. Multiplication, division, and modulus have higher priority than addition and subtraction, which have higher priority than assignment.
 
 ```c

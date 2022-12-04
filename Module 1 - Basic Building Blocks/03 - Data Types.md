@@ -1,3 +1,5 @@
+# Lesson 03 - Data Types
+
 YAYA supports 4 data types, which we will cover here. There are different **types** of information, which affects what operations can be performed on them. In general; number types can be used for math, while string types hold text. More on this when we learn how to actually do stuff with this data.
 
 First of all, there are integers. Integers are whole numbers, and can be positive or negative. Versions of YAYA from Tc566-1 and later use 64-bit integers, but older versions used 32-bit.

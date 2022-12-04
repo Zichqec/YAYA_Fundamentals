@@ -1,3 +1,5 @@
+# Lesson 00 - Function Structure
+
 Alright, on to actually writing some code! First of all, we will learn about functions. Functions are blocks of code that will be executed when they are called by their name. This could be anything; from a menu, to some kind of mathematical calculation, to a list of words that will be picked from randomly. Anything and everything happens inside of functions, the sky is the limit.
 
 You can create functions in any dic file that you've included in your ghost, in any order. However, you cannot nest a function inside of a function; each function must stand apart from the rest. Each function must also have a unique name.

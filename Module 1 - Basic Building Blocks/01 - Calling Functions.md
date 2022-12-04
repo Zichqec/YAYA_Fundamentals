@@ -1,3 +1,5 @@
+# Lesson 01 - Calling Functions
+
 Most programming languages have a `main` function, which is called when the program starts. YAYA does not have a main function, and instead it needs 3 functions to be able to run; `load`, which is called when YAYA loads; `unload`, which is called when YAYA unloads; and `request`, which is called anytime the baseware sends a SHIORI request.
 
 If you're writing for a ghost using YAYA's base dic files, or with another library, these functions will already be in use. So, you won't be able to use them yourself (unless you want to play around with that existing code).

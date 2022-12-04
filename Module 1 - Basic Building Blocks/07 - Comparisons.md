@@ -1,3 +1,5 @@
+# Lesson 07 - Comparisons
+
 Next, we need to know about comparison operators. These are operators that compare two values, and tell you if their comparison is true or not. The most basic of these is the equality operator, `==`.
 
 Before, we saw that writing a single equals sign performs an **assignment** operation. There is also the double equals sign, `==`, which performs a **comparison** operation. If the operands on both sides of the double equals sign are equal, then the result will be `1` (True). If they are not equal, then the result will be `0` (False).
