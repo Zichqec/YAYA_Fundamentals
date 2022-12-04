@@ -1,3 +1,10 @@
+# Lesson 03 - Basic Error Messages
+
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/X%20-%20Footnotes.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
+
+
 By default, YAYA outputs errors in Japanese. If you cannot read Japanese, you'll probably want to change that. You can change the msglang (message language) by adding this line to your yaya.txt:
 
 ```

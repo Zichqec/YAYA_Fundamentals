@@ -1,3 +1,9 @@
+# Lesson 01 - What is YAYA
+
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/00%20-%20What%20is%20this%20guide.md)
+
 YAYA is a simplified programming language based on C for the purpose of creating Ukagaka, also known as Ghosts. It is a continuation of the AYA language. If you're looking for a guide on general ghost making, try Zarla's guide [right here.](http://ashido.com/ukagaka/) It's a great resource to get you started.
 
 Ghosts have many different moving parts; this guide exists to focus on YAYA specifically, and basic computer science concepts.

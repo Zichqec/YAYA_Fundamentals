@@ -1,3 +1,8 @@
+# Lesson 00 - What is this guide
+
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
+
+
 This guide is intended to make the YAYA programming language accessible to more people. Whether you're completely new to programming and need to learn the basics of computer science, or you're experienced in programming but new to YAYA, or even if you have some experience in YAYA and want to learn more advanced features, I hope this guide will have something for you.
 
 I have run this guide past a few people to check for errors and ensure things are explained clearly. But if you find something confusing, or an error of any kind, do reach out and I will clarify and/or update the guide.

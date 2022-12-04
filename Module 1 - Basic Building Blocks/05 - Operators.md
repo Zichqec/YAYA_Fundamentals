@@ -1,5 +1,9 @@
 # Lesson 05 - Operators
 
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
+
 To make good use of variables, we need to be able to do more than just directly assign values to them. YAYA comes with a list of different operators, most of which are pretty straightforward. Note: operators are not just for variables! They're also often used for checks, or with functions/plain numbers instead of variables.
 
 We'll go over the + operator first. This simply adds two values together. If you write `_var = 1 + 1`, `_var` will now store the value `2`. If you write `_var = _var + 1`, you've added `1` to whatever value was stored in `_var`, incrementing it.

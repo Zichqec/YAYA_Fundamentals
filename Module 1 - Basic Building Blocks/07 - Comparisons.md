@@ -1,5 +1,9 @@
 # Lesson 07 - Comparisons
 
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/08%20-%20Logical%20Operators.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+
 Next, we need to know about comparison operators. These are operators that compare two values, and tell you if their comparison is true or not. The most basic of these is the equality operator, `==`.
 
 Before, we saw that writing a single equals sign performs an **assignment** operation. There is also the double equals sign, `==`, which performs a **comparison** operation. If the operands on both sides of the double equals sign are equal, then the result will be `1` (True). If they are not equal, then the result will be `0` (False).

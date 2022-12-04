@@ -1,5 +1,9 @@
 # Lesson 08 - Logical Operators
 
+[Next Module>>]()
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)
+
 Now then, we know all of the comparison operators, but right now they are very simple. What if we need to check multiple things at once? There are a few additional operators to help with this.
 
 First of all, we want to may check if more than one thing is true. We can do this by chaining comparisons together with the AND operator, `&&`.

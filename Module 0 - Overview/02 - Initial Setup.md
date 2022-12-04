@@ -1,3 +1,10 @@
+# Lesson 02 - Initial Setup
+
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
+
+
 In order to actually execute YAYA code, you will need a copy of [yaya.dll](https://github.com/YAYA-shiori/yaya-shiori/releases)—which is what actually parses your YAYA code—and a `yaya.txt` in the same folder that will point to the files containing your code. (You can download the `yaya.zip` from the latest version listed on that page.)
 
 yaya.txt has multiple options you can specify. First, you should specify the charset (character set). By default, the charset is set to SHIFT_JIS. (If you're from the Japanese community and you're reading this; hi! You can probably skip this part and use SHIFT_JIS.) SHIFT_JIS is not ideal unless you're writing in Japanese, so you'll want to change the charset, most likely to UTF-8. This can be done by adding this line to yaya.txt:

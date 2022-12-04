@@ -1,5 +1,9 @@
 # Lesson 02 - Comments
 
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/03%20-%20Data%20Types.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
+
 Comments are a simple concept, but they are an important one. Comments are text in the code that is not executed, but instead is there for your reference. They are also important for helping others understand your code. YAYA has two different kinds of comments; single line comments and block comments.
 
 Single line comments start with two forward slashes. Anything on a line after two forward slashes is considered a comment, no matter where on the line the comment starts. The only exception is if the slashes are inside of a string.

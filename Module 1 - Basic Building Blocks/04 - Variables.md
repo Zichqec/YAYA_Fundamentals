@@ -1,5 +1,9 @@
 # Lesson 04 - Variables
 
+[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/05%20-%20Operators.md)
+
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/03%20-%20Data%20Types.md)
+
 Variables are one of the most important building blocks of coding, and you should be well versed in them. Essentially, a variable is a like a bucket with a name which you can store bits of data in. To store a value in a variable, you assign the value with a single equals sign.
 
 ```c
