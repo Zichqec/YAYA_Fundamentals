@@ -1,10 +1,10 @@
 # Footnotes
 
-## More options in yaya.txt
-
 [Next module>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
 
 [<<Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+
+## More options in yaya.txt
 
 There are a few other options for loading dic files. dicdir (dictionary directory) can be used to specify a folder, and all dic files in the specified folder will be loaded.
 
