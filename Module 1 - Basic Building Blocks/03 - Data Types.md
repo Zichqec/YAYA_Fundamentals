@@ -163,7 +163,7 @@ OnDoubleQuoteHeredocument
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.DoubleQuoteHeredocument)
 
-The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, ` in the companion ghost, see below.)
+The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, `  in the companion ghost, see below.)
 
 ```c
 OnSingleQuoteHeredocument
@@ -177,7 +177,7 @@ OnSingleQuoteHeredocument
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.SingleQuoteHeredocument)
 
-The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, ` in the companion ghost, see below.)
+The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, `  in the companion ghost, see below.)
 
 Note that the (CR) and (LF) for the above two functions are representative of the CR and LF characters, which are invisible.
 
