@@ -29,7 +29,7 @@ SomeOtherFunction
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L1.CallAnotherFunction)
 
-The above function will output `"Hello, world!"`
+The above function will output `Hello, world!`
 
 When SomeOtherFunction is called, it **returns** the value "Hello, world!" to the function that called it, in this case "OnCallAnotherFunction". OnCallAnotherFunction can then make use of that value.
 

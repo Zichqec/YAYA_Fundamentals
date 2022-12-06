@@ -180,7 +180,7 @@ The output of both of these functions would be `Hello, (CR)(LF)world!` Note that
 Note that, no matter which type of string you use here, you can write single quotes or double quotes freely without breaking the string.
 
 ```c
-SomeFunction
+OnHereDocumentQuotes
 {
 	<<"
 	Hello, 
@@ -188,6 +188,9 @@ SomeFunction
 	">>
 }
 ```
+
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.HereDocumentQuotes)
+
 
 The above function will output `Hello, (CR)(LF)"world"!`
 

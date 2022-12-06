@@ -17,6 +17,8 @@ OnSingleLineComment
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L2.SingleLineComment)
 
+The above function will output `Hello, world!`
+
 Block comments have both a starting and ending tag. You start one with `/*` and end it with `*/`. Anything between those tags will be considered a comment, no matter how many lines it spans across.
 
 ```c
@@ -31,6 +33,8 @@ OnMultiLineComment
 ```
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L2.SingleLineComment)
+
+The above function will output `Hello, world!`
 
 As an important note, you cannot nest block comments inside each other. The outer comment will end as soon as it hits the `*/` tag of the inner comment, which will lead to all kinds of errors since text you intended to be commented is now being read as code.
 

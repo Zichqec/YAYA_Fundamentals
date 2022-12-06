@@ -75,6 +75,8 @@ OnUninitializedLocal
 }
 ```
 
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L4.UninitializedLocal)
+
 The above function will not output anything, because the `_dialogue` variable was erased when the nested set of brackets ended.
 
 Remembering to initialize your variables is very important for local variables. If you need to calculate something with a local variable inside a set of nested brackets, but you need the result outside of the brackets, you can define the local variable at the highest point in the hierarchy where you need it.
