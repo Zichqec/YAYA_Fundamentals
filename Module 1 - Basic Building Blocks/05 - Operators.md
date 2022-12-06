@@ -1,6 +1,6 @@
 # Lesson 05 - Operators
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
 
@@ -217,6 +217,6 @@ OnMouseMove
 
 Here, we have added an extra check. If we divide the stroke variable by 40, we get the number of total pets that the user has performed in a row (since stroke resets when the mouse leaves the hitbox). So, we check if that number is 5 or higher, and if so, we give an alternative comment. A very simple implementation of a continuous-petting feature!
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)

@@ -1,6 +1,6 @@
 # Lesson 01 - What is YAYA
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/00%20-%20What%20is%20this%20guide.md)
 
@@ -47,6 +47,6 @@ SakuraScript is a system of tags, which you can use in your scripts to make the 
 
 We will have to go over a little SakuraScript at some points, but I'll explain it when we get there. For now, just know that text within double quotes `"` or single quotes `'` can contain SakuraScript.
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/00%20-%20What%20is%20this%20guide.md)

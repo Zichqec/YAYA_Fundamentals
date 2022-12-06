@@ -1,6 +1,6 @@
 # Lesson 03 - Data Types
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
 
@@ -163,6 +163,8 @@ OnDoubleQuoteHeredocument
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.DoubleQuoteHeredocument)
 
+The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, ` in the companion ghost, see below.)
+
 ```c
 OnSingleQuoteHeredocument
 {
@@ -175,7 +177,9 @@ OnSingleQuoteHeredocument
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.SingleQuoteHeredocument)
 
-The output of both of these functions would be `Hello, (CR)(LF)world!` Note that the (CR) and (LF) here are representative of the CR and LF characters, which are invisible.
+The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, ` in the companion ghost, see below.)
+
+Note that the (CR) and (LF) for the above two functions are representative of the CR and LF characters, which are invisible.
 
 Note that, no matter which type of string you use here, you can write single quotes or double quotes freely without breaking the string.
 
@@ -194,7 +198,7 @@ OnHereDocumentQuotes
 
 The above function will output `Hello, (CR)(LF)"world"!`
 
-It is worth noting that, if you try to run these strings in a ghost as they are, you will only see the top line. This is because SHIORI requests have their information separated by CRLF, so the baseware will only see the first line as the response that should be output in the ghost's balloon. You can manipulate these strings if you want and replace the CRLF with a tag like \n, to make them work as a linebreak for your ghost's dialogue.
+If you try to run these strings in a ghost as they are, you will only see the first line. This is because SHIORI requests have their information separated by CRLF, so the baseware will only see the first line as the response that should be output in the ghost's balloon. You can manipulate these strings if you want and replace the CRLF with a tag like \n, to make them work as a linebreak for your ghost's dialogue. We'll learn how to do that later.
 
 
 The final data type that YAYA has is arrays, which we will cover in the next module.
@@ -207,6 +211,62 @@ I'll be honest, I would be shocked if you used more than strings and integers on
 
 I really do mean it when I say you should reread over parts of this guide if you're new to coding. As you learn more, some of this stuff will start to make more and more sense.
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
+Regarding the heredocuments, here is an example of how you might manipulate them in order to change the CRLF to `\n`.
+
+```c
+needleascii
+{
+	_ascii = <<"
+    .                                                                            ________________                                              
+    .                                                                           /                 \\                                             
+    .                                                                          /                   \\                                            
+    .                                                                         /                     \\                                           
+    .                                                                        /        ________       \\                                          
+    .                                                                       /       /         \\       \\                                         
+    .                                                                      /       /           \\       \\                                        
+    .                                                                     /       /             \\       |                                       
+    .                                                                    /       |               |      |                                       
+    .                                                                   /        |              /       |                                      
+    .                                                                  /         \\             /       /                                       
+    .                                                                 /           \\          /       _/                                         
+    .                                                                /             _________        _/                                         
+    .                                                               /                            _/                                              
+    .                                                              /                           _/                                                
+    .                                                             /                          _/                                                  
+    .                                                            /                         _/                                                    
+    .                                                           /                        _/                                                      
+    .                                                          /                       _/                                                        
+    .                                                         /                      _/                                                          
+    .                                                        /                     _/                                                            
+    .                                                       /                    _/                                                              
+    .                                                      /                   _/                                                                
+    .                                                     /                  _/                                                                  
+    .                                                    /                 _/                                                                    
+    .                                                   /                _/                                                                      
+    .                                                  /               _/                                                                        
+    .                                                 /              _/                                                                          
+    .                                                /             _/                                                                            
+    .                                               /            _/                                                                              
+    .                                              /           _/                                                                                
+    .                                             /          _/                                                                                  
+    .                                            /         _/                                                                                    
+    .                                           /        _/                                                                                      
+    .                                          /       _/                                                                                        
+    .                                         /      _/                                                                                          
+    .                                        /     _/                                                                                            
+    .                                       /    _/                                                                                              
+    .                                      /   _/                                                                                                
+    .                                     /  _/                                                                                                  
+    .                                    /__/                                                                                                     
+                                                                                                                                             
+	">>
+	_ascii = REPLACE(_ascii,C_CRLF,"\n")
+	_ascii
+}
+```
+
+... Ok, it's kind of a silly example, but! You can see why, for a weird "dialogue" like this, I would want to use a heredocument! The `_ascii = REPLACE(_ascii,C_CRLF,"\n")` bit at the bottom adds the `\n` tags for me, so I could just create this little ascii art without worrying about all the extra formatting. Looks a lot nicer in the file, too! (It's from the ghost [Needle](https://zichqec.github.io/s-the-skeleton/needle), if you were wondering.)
+
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)

@@ -1,8 +1,8 @@
 # Footnotes
 
-[Next module>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
 
-[<<Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
 
 ## More options in yaya.txt
 
@@ -58,6 +58,6 @@ This will output errors in english, provided you have the corresponding file. Yo
 
 If you want to, you can change the name of the yaya.dll to whatever you want. You just have to keep the dll extension the same, and ensure that yaya.txt and yaya_emerg.txt are also renamed to match. So if you changed it to core.dll, you would need to change yaya.txt to core.txt, and yaya_emerg.txt to core_emerg.txt.
 
-Next module>>
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
 
-[<<Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)

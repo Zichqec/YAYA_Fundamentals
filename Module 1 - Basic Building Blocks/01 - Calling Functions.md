@@ -1,6 +1,6 @@
 # Lesson 01 - Calling Functions
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
 
@@ -128,6 +128,6 @@ BackButtons
 
 It may not seem like such a big deal in this example, but imagine if your ghost had a menu with *20* items. The bigger and more complicated your menus and functions become, the more important this concept becomes, both for saving you a lot of tedious work and for avoiding bugs!
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)

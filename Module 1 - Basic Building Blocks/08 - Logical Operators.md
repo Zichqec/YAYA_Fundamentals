@@ -1,6 +1,6 @@
 # Lesson 08 - Logical Operators
 
-[Next Module>>]()
+[Next Module >>]()
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)
 
@@ -175,6 +175,6 @@ Here's another example of the semicolons from way back at the start of this modu
 
 Anyways, in relation to this lesson, you can see this is a way to use the && operator. Using it in conjunction with the less than and greater than operators is a way to express a range of numbers.
 
-[Next Module>>]()
+[Next Module >>]()
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)

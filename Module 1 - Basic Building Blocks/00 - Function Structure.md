@@ -1,6 +1,6 @@
 # Lesson 00 - Function Structure
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
 
 [<< Previous Module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/X%20-%20Footnotes.md)
 
@@ -130,6 +130,6 @@ Note the forward slashes at the end of each line! Even though this is written ac
 
 This is a much more natural way to read your menu script than to have it all on one line. Note that there are some other ways to accomplish this effect, but we'll get to them later.
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
 
 [<< Previous Module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/X%20-%20Footnotes.md)

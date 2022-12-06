@@ -1,6 +1,6 @@
 # Lesson 02 - Initial Setup
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
 
@@ -49,6 +49,6 @@ This is a relative filepath. It goes up one folder from where `yaya.dll` is plac
 You can add as many dic files as you need in yaya.txt. They will be loaded in the order they are listed, from top to bottom.
 
 
-[Next lesson>>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
