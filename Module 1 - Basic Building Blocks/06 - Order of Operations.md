@@ -14,7 +14,7 @@ OnAssignAddition
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L6.AssignAddition")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L6.AssignAddition)
 
 The above function will output the integer `12`. This is because `10 + 2` is run first, resulting in 12, and *then* the 12 is assigned to `_i`.
 
@@ -28,7 +28,7 @@ OnAssignUninitializedVar
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L6.AssignUninitializedVar")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L6.AssignUninitializedVar)
 
 The above function will not output anything. `_j` will contain the integer `10`, but `_i` will be empty. This is because `_i = _j` is run first, but `_j` doesn't contain anything at this time. Then, `_j = 10` is run, and the value is assigned to `_j`.
 
@@ -43,7 +43,7 @@ OnAssignResult
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L6.AssignResult")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L6.AssignResult)
 
 The above function will output the integer `10`. Both `_i` and `_j` will contain the integer `10`. Since these are both assignment operations they have the same priority, but the parenthesis raise the priority level of `_j = 10`. Therefore, `_j = 10` is run first, and `_i = _j` is run afterwards, assigning `_i` the value of `_j`.
 
@@ -57,7 +57,7 @@ OnIncorrectOrder
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L6.IncorrectOrder")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L6.IncorrectOrder)
 
 The above function will output the string `"10"`, rather than the integer `50` as you might expect. This is because even though `_i = 10` is enclosed in parenthesis, it does not raise the priority high enough for it to run before the other operations. `_i + 10` will run first because it is the most deeply nested. Because `_i` is not initialized yet, YAYA will consider it an empty string, and will convert the `10` to a string also and perform concatenation. So `_i` will hold the string `"10"`.
 
@@ -77,7 +77,7 @@ OnCorrectOrder
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L6.CorrectOrder")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L6.CorrectOrder)
 
 The above function will output the integer `50`. `_i = 10` runs first since it is most deeply nested. Then `_i + 10` runs, resulting in the integer `20`. Then, it is multiplied by `2` to get `40`, and the whole result is added to the `10` contained in `_i` that we assigned on the left.
 

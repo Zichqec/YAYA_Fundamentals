@@ -15,7 +15,7 @@ OnInteger
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.Integer")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.Integer)
 
 The above function will output `10`
 
@@ -29,7 +29,7 @@ OnBinaryInteger
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.BinaryInteger")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.BinaryInteger)
 
 ```
 OnHexInteger
@@ -38,7 +38,7 @@ OnHexInteger
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.HexInteger")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.HexInteger)
 
 Both of the above functions will output `10`
 
@@ -51,7 +51,7 @@ OnRealNumber
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.RealNumber")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.RealNumber)
 
 The above function returns `3.140000`
 
@@ -69,7 +69,7 @@ OnDoubleQuoteString
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.DoubleQuoteString")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.DoubleQuoteString)
 
 The above function will output `Hello, world!`
 
@@ -84,7 +84,7 @@ OnSingleQuoteString
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.SingleQuoteString")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.SingleQuoteString)
 
 The above function will output `Hello, world!`
 
@@ -103,7 +103,7 @@ OnUseOtherQuotes
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.UseOtherQuotes")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.UseOtherQuotes)
 
 The above function will output `It's working!`
 
@@ -116,7 +116,7 @@ OnEscapeQuotes
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.EscapeQuotes")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.EscapeQuotes)
 
 The above function will output `Hello, "world"!`
 
@@ -129,7 +129,7 @@ OnEscapeSingleQuotes
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.EscapeSingleQuotes")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.EscapeSingleQuotes)
 
 The above function will output `It's working!`
 
@@ -144,7 +144,7 @@ OnLinebreakInCode
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.LinebreakInCode")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.LinebreakInCode)
 
 The above function will output `Hello, world!`
 
@@ -161,7 +161,7 @@ OnDoubleQuoteHeredocument
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.DoubleQuoteHeredocument")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.DoubleQuoteHeredocument)
 
 ```c
 OnSingleQuoteHeredocument
@@ -173,7 +173,7 @@ OnSingleQuoteHeredocument
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L3.SingleQuoteHeredocument")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.SingleQuoteHeredocument)
 
 The output of both of these functions would be `Hello, (CR)(LF)world!` Note that the (CR) and (LF) here are representative of the CR and LF characters, which are invisible.
 

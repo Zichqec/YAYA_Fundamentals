@@ -18,7 +18,7 @@ OnEqual
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L7.Equal")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.Equal)
 
 The output of the above function will be the integer `1`, since the value of `_i` is equal to `20`.
 
@@ -32,7 +32,7 @@ OnNotEqual
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L7.NotEqual")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.NotEqual)
 
 The above function will output the integer `1`, since the value of `_i` is *not* equal to `20`.
 
@@ -46,7 +46,7 @@ OnLessThan
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L7.LessThan")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.LessThan)
 
 The above function will output `1`, since `_i` is less than `20`.
 
@@ -58,7 +58,7 @@ OnGreaterThan
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L7.GreaterThan")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.GreaterThan)
 
 The above function will output `0`, since `_i` is *not* greater than `20`.
 
@@ -74,7 +74,7 @@ OnLessThanOrEqual
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L7.LessThanOrEqual")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.LessThanOrEqual)
 
 The above function will output `1`, since `_i` is equal to `10`, even though it's not less than `10`.
 
@@ -86,7 +86,7 @@ OnGreaterThanOrEqual
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L7.GreaterThanOrEqual")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.GreaterThanOrEqual)
 
 The above function will output `1`, since `_i` is equal to `10`, even though it's not greater than `10`.
 

@@ -17,7 +17,7 @@ OnBasicAddition
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.BasicAddition")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.BasicAddition)
 
 
 The above function will output the integer `6`
@@ -34,7 +34,7 @@ OnAddWithoutAssigning
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.AddWithoutAssigning")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.AddWithoutAssigning)
 
 The above function will output `6`, but the value assigned to `_var` will still be `5`. This is because we have written an operation directly here, and are getting the results of the operation, rather than the contents of var on its own. Operations that are not assigned to anything are treated as values to be output.
 
@@ -47,7 +47,7 @@ OnAddAndAssign
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.AddAndAssign")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.AddAndAssign)
 
 The above function will output `6`, which is the value that `_var` currently holds.
 
@@ -74,7 +74,7 @@ OnMultiplyAndAssign
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.MultiplyAndAssign")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.MultiplyAndAssign)
 
 The above function will output `15`
 
@@ -87,7 +87,7 @@ OnDivideInteger
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.DivideInteger")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.DivideInteger)
 
 The above function will output the integer `3`
 
@@ -100,7 +100,7 @@ OnModulusExample
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.ModulusExample")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.ModulusExample)
 
 The above function will output the integer `1`
 
@@ -120,7 +120,7 @@ OnIncrementer
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.Incrementer")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.Incrementer)
 
 The above function will output the integer `2`
 
@@ -134,7 +134,7 @@ OnConcatenate
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L5.Concatenate")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L5.Concatenate)
 
 The above function will output a single string, `Hello, world!`
 

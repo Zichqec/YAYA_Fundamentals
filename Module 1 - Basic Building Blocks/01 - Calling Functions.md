@@ -27,7 +27,7 @@ SomeOtherFunction
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](x-ukagaka-link:type=event&ghost=YAYA Fundamentals&info=OnExample.M1.L1.CallAnotherFunction")
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L1.CallAnotherFunction)
 
 The above function will output `"Hello, world!"`
 
