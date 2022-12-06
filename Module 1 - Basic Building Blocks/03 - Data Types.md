@@ -163,7 +163,7 @@ OnDoubleQuoteHeredocument
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.DoubleQuoteHeredocument)
 
-The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, `  in the companion ghost, see below.)
+The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, ` in the companion ghost, see below.)
 
 ```c
 OnSingleQuoteHeredocument
@@ -177,7 +177,7 @@ OnSingleQuoteHeredocument
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.SingleQuoteHeredocument)
 
-The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, `  in the companion ghost, see below.)
+The above function will output `Hello, (CR)(LF)world!` (This will only display as `Hello, ` in the companion ghost, see below.)
 
 Note that the (CR) and (LF) for the above two functions are representative of the CR and LF characters, which are invisible.
 
@@ -196,7 +196,7 @@ OnHereDocumentQuotes
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L3.HereDocumentQuotes)
 
 
-The above function will output `Hello, (CR)(LF)"world"!`
+The above function will output `Hello, (CR)(LF)"world"!` (This will only display as `Hello, ` in the companion ghost, see below.)
 
 If you try to run these strings in a ghost as they are, you will only see the first line. This is because SHIORI requests have their information separated by CRLF, so the baseware will only see the first line as the response that should be output in the ghost's balloon. You can manipulate these strings if you want and replace the CRLF with a tag like \n, to make them work as a linebreak for your ghost's dialogue. We'll learn how to do that later.
 
