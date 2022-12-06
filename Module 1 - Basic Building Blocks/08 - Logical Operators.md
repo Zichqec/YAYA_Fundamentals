@@ -154,7 +154,7 @@ The above function will output `1`, because the string "earth" is not found anyw
 
 ---
 
-# Footnotes
+# Further Context
 
 Now I can properly show where inclusive operators are more useful! Here's an example that you can see in many ghosts, which breaks down the day into a few different blocks of time.
 

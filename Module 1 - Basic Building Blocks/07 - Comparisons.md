@@ -95,7 +95,7 @@ Use whichever of these makes more sense to you. You may find that it varies depe
 
 ---
 
-# Footnotes
+# Further Context
 
 If you're like me and you have trouble remembering which sign is greater than and which sign is less than, hi! I have a tip that may or may not help!
 

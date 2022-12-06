@@ -35,7 +35,7 @@ When SomeOtherFunction is called, it **returns** the value "Hello, world!" to th
 
 ---
 
-# Footnotes
+# Further Context
 
 This one's a bit short! I highly, *highly* recommend using the companion ghost with this guide if you can, since it'll let you play around with the code and get a feel for it.
 

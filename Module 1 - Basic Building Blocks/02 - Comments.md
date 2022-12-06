@@ -63,7 +63,7 @@ Very good code explains itself as you read it, and good comments explain what yo
 
 ---
 
-# Footnotes
+# Further Context
 
 About the point of good code explaining itself as you read it. This is why naming in general is important; function names and such that are too long are a pain, but function names that are too short and don't describe what they do are even worse! There is a middle ground, and leaving some notes to explain in more detail will go a long way.
 

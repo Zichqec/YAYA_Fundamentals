@@ -198,7 +198,7 @@ The final data type that YAYA has is arrays, which we will cover in the next mod
 
 ---
 
-# Footnotes
+# Further Context
 
 I'll be honest, I would be shocked if you used more than strings and integers on a daily basis. So if this seems like a lot to remember, don't worry too much! You can always refresh yourself on these things as you need them, if you need them.
 

@@ -85,7 +85,7 @@ Note that having two sets of parenthesis around `_i = 10` would not be enough. T
 
 ---
 
-# Footnotes
+# Further Context
 
 Order of operations can be tricky. It took me a while of staring at the AYAYA wiki to understand how that last example works! It's not really a practical example of anything, it's just for the sake of demonstration.
 

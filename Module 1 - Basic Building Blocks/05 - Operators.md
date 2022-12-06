@@ -151,7 +151,7 @@ There are other types of operators, mostly to do with comparing values as mentio
 
 ---
 
-# Footnotes
+# Further Context
 
 Now we're getting somewhere! I want to give a real example of modulus in use, because it is a fantastic operator. Admittedly, its uses tend to be a little more niche, but once you get how it works it's really useful.
 
