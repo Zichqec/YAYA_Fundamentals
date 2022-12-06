@@ -265,7 +265,7 @@ needleascii
 }
 ```
 
-... Ok, it's kind of a silly example, but! You can see why, for a weird "dialogue" like this, I would want to use a heredocument! The `_ascii = REPLACE(_ascii,C_CRLF,"\n")` bit at the bottom adds the `\n` tags for me, so I could just create this little ascii art without worrying about all the extra formatting. Looks a lot nicer in the file, too! (It's from the ghost [Needle](https://zichqec.github.io/s-the-skeleton/needle), if you were wondering.)
+... Ok, it's kind of a silly example, but! You can see why, for a weird "dialogue" like this, I would want to use a heredocument! The `_ascii = REPLACE(_ascii,C_CRLF,"\n")` bit at the bottom adds the `\n` tags for me, so I could just create this little ascii art without worrying about all the extra formatting. It looks a lot nicer in the file, too! (It's from the ghost [Needle](https://zichqec.github.io/s-the-skeleton/needle), if you were wondering.)
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
 
