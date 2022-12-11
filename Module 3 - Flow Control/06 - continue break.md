@@ -1,4 +1,4 @@
-# 06 - continue break
+# Lesson 06 - continue break
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/07%20-%20return%20and%20Output%20Candidates.md)
 

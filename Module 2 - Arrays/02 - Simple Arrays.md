@@ -1,4 +1,4 @@
-# 02 - Simple Arrays
+# Lesson 02 - Simple Arrays
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/03%20-%20Multidimensional%20Arrays.md)
 

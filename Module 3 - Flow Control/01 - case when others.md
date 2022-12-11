@@ -1,4 +1,4 @@
-# 01 - case when others
+# Lesson 01 - case when others
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/02%20-%20switch.md)
 

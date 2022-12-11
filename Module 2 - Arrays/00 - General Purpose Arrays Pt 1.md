@@ -1,4 +1,4 @@
-# 00 - General Purpose Arrays Part 1
+# Lesson 00 - General Purpose Arrays Part 1
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/01%20-%20General%20Purpose%20Arrays%20Pt%202.md)
 

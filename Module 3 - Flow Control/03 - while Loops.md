@@ -1,4 +1,4 @@
-# 03 - while Loops
+# Lesson 03 - while Loops
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/04%20-%20for%20Loops.md)
 

@@ -1,4 +1,4 @@
-# 08 - Brackets and Modifiers
+# Lesson 08 - Brackets and Modifiers
 
 [Next module >>]()
 

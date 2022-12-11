@@ -1,4 +1,4 @@
-# 03 - Multidimensional Arrays
+# Lesson 03 - Multidimensional Arrays
 
 [Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/00%20-%20if%20elseif%20else.md)
 

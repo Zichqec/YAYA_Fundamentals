@@ -1,4 +1,4 @@
-# 02 - switch
+# Lesson 02 - switch
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/03%20-%20while%20Loops.md)
 

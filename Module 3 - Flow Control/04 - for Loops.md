@@ -1,4 +1,4 @@
-# 04 - for Loops
+# Lesson 04 - for Loops
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/05%20-%20foreach%20Loops.md)
 

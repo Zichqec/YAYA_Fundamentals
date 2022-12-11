@@ -1,4 +1,4 @@
-# 05 - foreach Loops
+# Lesson 05 - foreach Loops
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/06%20-%20continue%20break.md)
 
