@@ -1,6 +1,6 @@
 # 03 - Multidimensional Arrays
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/00%20-%20if%20elseif%20else.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/02%20-%20Simple%20Arrays.md)
 
@@ -118,6 +118,6 @@ OnNotifyDressupInfo
 
 The array created by this function will list each dressup by which character it belongs to, what category it's in, and what the name of that specific dressup is.
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/00%20-%20if%20elseif%20else.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/02%20-%20Simple%20Arrays.md)
