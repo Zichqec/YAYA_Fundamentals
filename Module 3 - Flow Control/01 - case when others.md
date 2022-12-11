@@ -1,6 +1,6 @@
 # 01 - case when others
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/01%20-%20case%20when%20others.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/02%20-%20switch.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/00%20-%20if%20elseif%20else.md)
 
@@ -167,6 +167,6 @@ season
 
 This code gets the season, based on the current hemisphere. The initial hemisphere check is simple, so I use an if/else here to save on whitespace. When, I use case/when to express the ranges of numbers, since this is much cleaner and easier to read.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/01%20-%20case%20when%20others.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/02%20-%20switch.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/00%20-%20if%20elseif%20else.md)
