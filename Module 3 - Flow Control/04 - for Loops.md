@@ -1,8 +1,8 @@
 # 04 - for Loops
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/05%20-%20foreach%20Loops.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/03%20-%20while%20Loops.md)
 
 `for` loops can seem a bit more intimidating at first, but they are generally a little safer than while loops since you write all of the conditions for the loop in the declaration at the top. This makes it less likely you will accidentally write an infinite loop.
 
@@ -69,6 +69,6 @@ OnUpdate.OnDownloadBegin
 
 This is a really simple loop. It just runs for the number of total files in the update, and picks the appropriate empty/filled character to display based on what file this is! The result is a progress bar that looks like this: `■■■■□□□□□□`
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/05%20-%20foreach%20Loops.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/03%20-%20while%20Loops.md)

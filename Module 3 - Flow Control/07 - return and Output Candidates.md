@@ -1,8 +1,8 @@
 # 07 - return and Output Candidates
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/08%20-%20Brackets%20and%20Modifiers.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/06%20-%20continue%20break.md)
 
 Now, for one final keyword in flow control, and an overview of brackets and output candidates in YAYA.
 
@@ -223,6 +223,6 @@ RandomTalk : nonoverlap
 ```
 With the above code, each character's responses will vary each time the dialogue is said. It can be more complex than this, but you get the idea. If used well it can help liven up dialogues.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/08%20-%20Brackets%20and%20Modifiers.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/06%20-%20continue%20break.md)

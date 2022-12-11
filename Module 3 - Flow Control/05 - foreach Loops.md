@@ -1,8 +1,8 @@
 # 05 - foreach Loops
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/06%20-%20continue%20break.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/04%20-%20for%20Loops.md)
 
 `foreach` loops are the safest kind of loop. They **iterate** over the elements of an array, and no more. To declare a `foreach` loop, you must include an array to iterate over, and specify a variable that will hold the content of the current array element for that iteration of the loop.
 
@@ -58,6 +58,6 @@ OnBIFFComplete
 
 With this setup, each header will be handled individually, and added to the display variable with a choice marker before it, any Sakura Script tags inside of it safely escaped so they don't execute, and with linebreaks after it. Simple and clean.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/06%20-%20continue%20break.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/04%20-%20for%20Loops.md)

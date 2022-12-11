@@ -1,8 +1,8 @@
 # 03 - while Loops
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/04%20-%20for%20Loops.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/02%20-%20switch.md)
 
 Another very important part of flow control is **loops**. Loops are a control structure that allow you to repeat the same code multiple times if certain conditions are met.
 
@@ -86,6 +86,6 @@ Note that the while loop can't have the brackets omitted, even though there is o
 
 Also, sidenote: `_i` is a programming trope and is very often used as the counter for things like loops. It is very old, and has its roots in FORTRAN, and mathematics even before FORTRAN, I hear. I usually imagine it stands for index, but it could also stand for integer, iteration, etc.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/04%20-%20for%20Loops.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/02%20-%20switch.md)

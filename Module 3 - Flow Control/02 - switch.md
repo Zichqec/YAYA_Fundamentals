@@ -1,8 +1,8 @@
 # 02 - switch
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/03%20-%20while%20Loops.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/01%20-%20case%20when%20others.md)
 
 Finally, the last of the branching structures is `switch`. `switch` in YAYA is not the same as switch/case in other languages. In YAYA, `switch` takes an integer as an index, and returns the value within its brackets at that index.
 
@@ -150,6 +150,6 @@ Yuck. I only included half the months, and look at how much more space that's ta
 
 The uses for `switch` are limited, but it *is* really clean when you find a place you can use it.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/03%20-%20while%20Loops.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/01%20-%20case%20when%20others.md)
