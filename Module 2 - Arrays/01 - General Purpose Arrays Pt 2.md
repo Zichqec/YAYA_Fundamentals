@@ -1,9 +1,9 @@
 # 01 - General Purpose Arrays Part 2
 
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/02%20-%20Simple%20Arrays.md)
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/00%20-%20General%20Purpose%20Arrays%20Pt%201.md)
 
 Now, we will cover more complicated array operations.
 
@@ -149,6 +149,6 @@ Anyways, the one thing you definitely *should* pay close attention to is that be
 
 Also note, before we move on, that this module may get new sections added in the future! This one in particular you should watch out for.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/02%20-%20Simple%20Arrays.md)
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/00%20-%20General%20Purpose%20Arrays%20Pt%201.md)

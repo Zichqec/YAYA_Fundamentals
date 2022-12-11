@@ -1,8 +1,8 @@
 # 03 - Multidimensional Arrays
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/02%20-%20Simple%20Arrays.md)
 
 Finally, there are **multidimensional** arrays. YAYA does not (currently) support true multidimensional arrays, but you can use simple arrays like multidimensional arrays. A multidimensional array is an array where each element is itself another array.
 
@@ -118,6 +118,6 @@ OnNotifyDressupInfo
 
 The array created by this function will list each dressup by which character it belongs to, what category it's in, and what the name of that specific dressup is.
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%202%20-%20Arrays/02%20-%20Simple%20Arrays.md)
