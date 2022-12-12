@@ -1,8 +1,8 @@
 # Lesson 00 - String Manipulation
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/01%20-%20Type%20Manipulation.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/05%20-%20Recursion.md)
 
 YAYA has many built in functions, for various purposes. Here, we will cover some of the basic ones to give you an idea of what's available and how they're used. We won't cover all of them though, and it would be a good idea to browse the [function list on the AYAYA wiki](https://emily.shillest.net/ayaya/index.php?%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E9%96%A2%E6%95%B0%E7%94%A8%E9%80%94%E5%88%A5%E4%B8%80%E8%A6%A7#o39fd008) to get an idea of what other functions there are.
 
@@ -87,6 +87,6 @@ OnNameTeach
 }
 ```
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/01%20-%20Type%20Manipulation.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/05%20-%20Recursion.md)

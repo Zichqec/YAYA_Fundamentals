@@ -1,8 +1,8 @@
 # Lesson 02 - Variable Manipulation
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/03%20-%20Array%20Manupulation.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/01%20-%20Type%20Manipulation.md)
 
 When working with global variables, sometimes you will need to check if the variable you want already exists or not. For this purpose, there is `ISVAR`. `ISVAR` takes a single argument, which is the name of the variable you want to check for *as a string.* If such a variable exists, it will return `1`. If not, it will return `0`.
 
@@ -51,6 +51,6 @@ The whole business with writing the variable names in these *as strings* has con
 
 If you think about it with our visualization technique, `ISVAR(friendship)` would look something like `ISVAR(57)` (if the friendship value was 57), which doesn't really make sense. So, make sure you use strings here. When you're looking up functions on AYAYA, keep an eye out for this sort of thing.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/03%20-%20Array%20Manupulation.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/01%20-%20Type%20Manipulation.md)

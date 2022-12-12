@@ -1,6 +1,6 @@
 # Lesson 05 - Recursion
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/00%20-%20String%20Manipulation.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/04%20-%20Embedded%20Elements.md)
 
@@ -84,6 +84,6 @@ Unless your subfolders go more than 32 layers deep. But I would be rather impres
 
 I'll be honest with you, dealing with all this recursion makes my head swim. So don't sweat it too much if this one is confusing!
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/00%20-%20String%20Manipulation.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/04%20-%20Embedded%20Elements.md)

@@ -1,8 +1,8 @@
 # Lesson 03 - Array Manipulation
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/04%20-%20Randomness.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/02%20-%20Variable%20Manipulation.md)
 
 Arrays also have a few handy functions. First, we have already talked briefly about `IARRAY`. This is a function which takes no arguments, and simply generates a blank array.
 
@@ -91,6 +91,6 @@ OnWinHangman
 
 This is a simplified rendition. With this setup, the user gets 5 money and 1 friendship point for winning hangman normally. But if it's the first time they've won hangman that day, they will get a total of 15 money and 3 friendship points.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/04%20-%20Randomness.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/02%20-%20Variable%20Manipulation.md)

@@ -1,8 +1,8 @@
 # Lesson 05 - EVAL
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/04%20-%20Randomness.md)
 
 EVAL (short for Evaluate) is a tricky function. It can be a bit difficult to wrap your head around at first, but it is *incredibly* powerful, and can be dangerous, too. If you are *ever* using EVAL anywhere near user input, *don't.* Simply don't. Truthfully, in ghost coding, it doesn't usually matter too much. But EVAL can give someone full control over what you're making if you're not careful, and it's not a habit you want to get into.
 
@@ -107,6 +107,6 @@ This way, the resulting value from reference1 will be treated as a string, and n
 
 Just remember that if you write string expansion in an EVAL statement, and the whole thing is surrounded in double quotes, the EVAL will see the *result* of the string expansion and will use that.
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/04%20-%20Randomness.md)
