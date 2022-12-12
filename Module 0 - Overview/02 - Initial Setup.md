@@ -1,6 +1,6 @@
 # Lesson 02 - Initial Setup
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20More%20Options%20in%20yaya.txt.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
 
@@ -56,6 +56,6 @@ This is a relative filepath. It goes up one folder from where `yaya.dll` is plac
 One final note. If you are getting errors when you try to load your ghost and you're not sure how to interpret them, check out module 11, which goes over errors. Just know for now that if you see `[SHIORI]Communication error. Possible file corruption.`, your files are almost certainly *not* corrupted, there is just an error and you need a tool to see what that error is.
 
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20More%20Options%20in%20yaya.txt.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
