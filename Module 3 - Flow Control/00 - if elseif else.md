@@ -361,7 +361,7 @@ I will make the note though, one of the traps I see people fall into sometimes i
 if hour == 10 || 12 || 14
 ```
 
-But, this will not work! The `hour == 10` will be evaluated and come out as `1`, leaving you with this:
+But, this will not work! The `hour == 10` will be evaluated and come out as `1` (if the hour is 10), leaving you with this:
 
 ```c
 if 1 || 12 || 14
@@ -369,7 +369,7 @@ if 1 || 12 || 14
 
 And this is definitely not what you want. This OR statement will evaluate as true *every* time, because the 12 and 14 will always be present, and will make it think it is true.
 
-When you write an OR statement, you have to remember that you need to place an *entire expression* between each `||`. So, it *should* be written like this:
+When you write an OR statement, you have to remember that you need to place an *entire comparison* between each `||`. So, it *should* be written like this:
 
 ```c
 if hour == 10 || hour == 12 || hour == 14

@@ -79,6 +79,8 @@ OnUninitializedLocal
 
 The above function will not output anything, because the `_dialogue` variable was erased when the nested set of brackets ended.
 
+Local variables also have a more limited **scope** than global variables; they can only be used within the function they are written in, while global variables may be used in any function.
+
 Remembering to initialize your variables is very important for local variables. If you need to calculate something with a local variable inside a set of nested brackets, but you need the result outside of the brackets, you can define the local variable at the highest point in the hierarchy where you need it.
 
 ```c
