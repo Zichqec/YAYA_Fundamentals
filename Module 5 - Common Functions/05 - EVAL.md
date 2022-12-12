@@ -44,7 +44,7 @@ SomeFunction
 
 The output of the above function will vary based on the input. Any embedded elements passed in, like %(username), will be run even if you used single quotes. This function *is not reproduced in the companion ghost* for the reasons outlined above. However, there is similar code used in OnTranslate you can play around with. That code makes it possible to use embedded elements in script input for that ghost
 
-A quick note about heredocuments, which we saw several modules ago. EVAL does not work with heredocuments. heredocuments can be manipulated with code that is written directly in your .dic files, but they *cannot* be manipulated with EVAL.
+A quick note about heredocuments, which we saw several modules ago. EVAL does not work with heredocuments. heredocuments can be manipulated with code that is written directly in your dic files, but they *cannot* be manipulated with EVAL.
 
 
 As you can see, EVAL can do some very useful things. But again, *you should exercise caution.* It's not as much of a danger in ghost coding, because anyone can muck around in your code anyways, but it is still good to be in the habit of taking care with how you use EVAL. If a user can pass an arbitrary string into an EVAL command, they can do almost anything.

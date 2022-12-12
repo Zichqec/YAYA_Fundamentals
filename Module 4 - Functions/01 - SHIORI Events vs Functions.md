@@ -6,7 +6,7 @@
 
 The other way to pass information is through **references**. references are technically not an inbuilt YAYA thing, and instead are something sent by the baseware (usually SSP). If you are using one of the YAYA libraries (and you almost certainly will be, we'll cover what this means later), then they will handle the references for you.
 
-references are sent by **SHIORI events**, and the code in the YAYA system .dic files will break down the references and put them into global variables. It will also clean them up afterwards, so they function almost like a local variable, except with the scope of a global variable until they are automatically erased.
+references are sent by **SHIORI events**, and the code in the YAYA system dic files will break down the references and put them into global variables. It will also clean them up afterwards, so they function almost like a local variable, except with the scope of a global variable until they are automatically erased.
 
 How the references are generated will vary depending on the options you set in your config file. By default, it will generate an array called `reference`. Much like the `_argv` array, you can access different references by retrieving different elements of the array. So if there are 3 references, you can access them with `reference[0]`, `reference[1]`, and `reference[2]`.
 
