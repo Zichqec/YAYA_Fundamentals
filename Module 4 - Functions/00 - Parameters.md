@@ -26,7 +26,7 @@ Sum
 
 The above function would output the integer `3`
 
-In the function that is called, an array called `_argv` will automatically be generated, containing the contents of the array that were sent by the function call. Additionally, a variable called `_argc` will be generated, which holds the number of arguments that were sent.
+In the function that is called, an array called `_argv` (Probably stands for **Arg**ument **V**alue) will automatically be generated, containing the contents of the array that were sent by the function call. Additionally, a variable called `_argc` (Probably stands for **Arg**ument **C**ount) will be generated, which holds the number of arguments that were sent.
 
 ```c
 OnCountFunction
