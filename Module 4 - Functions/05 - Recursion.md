@@ -1,8 +1,8 @@
 # Lesson 05 - Recursion
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/04%20-%20Embedded%20Elements.md)
 
 **Recursion** is when a function calls itself. As you can imagine, this would create an infinite function call, which will crash the baseware much like an infinite loop would. However, if you use recursion right, you can avoid infinite function calls and make useful things happen.
 
@@ -84,6 +84,6 @@ Unless your subfolders go more than 32 layers deep. But I would be rather impres
 
 I'll be honest with you, dealing with all this recursion makes my head swim. So don't sweat it too much if this one is confusing!
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/04%20-%20Embedded%20Elements.md)

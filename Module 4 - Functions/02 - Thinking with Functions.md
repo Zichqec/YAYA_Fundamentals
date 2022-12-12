@@ -1,8 +1,8 @@
 # Lesson 02 - Thinking with Functions
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/03%20-%20Pure%20Functions.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/01%20-%20SHIORI%20Events%20vs%20Functions.md)
 
 Now we get into making good use of functions. First, a word on repeated code. Imagine for a moment that you're creating a ghost, and there are certain actions in the ghost that earn you a small amount of friendship. Some actions make the friendship variable go up by 1 point, while some make it go up by 4 points.
 
@@ -168,6 +168,6 @@ Look at that if check. `if BalloonIsOpen`. If balloon is open. Nothing more, not
 
 Ok, that's kind of subjective. But just look at it, isn't it so pretty? You can't do this with every function of course; some of them need to return more than just two options! Or sometimes you really really *really* need to be certain that the output was `1` and not some other number. But when you *know* the only possible outputs are `0` and `1`, you can use this.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/03%20-%20Pure%20Functions.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/01%20-%20SHIORI%20Events%20vs%20Functions.md)

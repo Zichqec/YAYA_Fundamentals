@@ -1,8 +1,8 @@
 # Lesson 03 - Pure Functions
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/04%20-%20Embedded%20Elements.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/02%20-%20Thinking%20with%20Functions.md)
 
 **Pure functions** are functions which do not affect anything outside of themselves. They may take in arguments and output a modified version of the information they took in, but unless you assign the new value, nothing will be changed.
 
@@ -80,6 +80,6 @@ This also means that if we want to shuffle something else, like say, a list of w
 
 The other reason I am fond of pure functions is that they are *very* shareable. If your function is suited to general purpose use, it is easy to share it with someone else who needs it! It's much more difficult to share code with others if you have to scrape out all the parts of it that rely on your ghost's particular setup, and then instruct them on how it must be set up in theirs.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/04%20-%20Embedded%20Elements.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/02%20-%20Thinking%20with%20Functions.md)

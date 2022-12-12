@@ -1,8 +1,8 @@
 # Lesson 00 - Parameters
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/01%20-%20SHIORI%20Events%20vs%20Functions.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/08%20-%20Brackets%20and%20Modifiers.md)
 
 When calling functions, it is often necessary to include extra information for the function to use. To accomplish this, information may be passed to a function as **parameters**.
 
@@ -169,6 +169,6 @@ You will notice here that `"blue,green"` is a single string! It's subtle, though
 
 It's not particularly useful to do this for this function, but I have *definitely* needed this technique a few times in my own work. Sometimes, you need to put another argument after the array, but the array is also of arbitrary length. If you can't tell how long the array will be, you can't pick out which argument comes after it!
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/01%20-%20SHIORI%20Events%20vs%20Functions.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/08%20-%20Brackets%20and%20Modifiers.md)

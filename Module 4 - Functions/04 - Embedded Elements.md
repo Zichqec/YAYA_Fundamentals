@@ -1,8 +1,8 @@
 # Lesson 04 - Embedded Elements
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/05%20-%20Recursion.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/03%20-%20Pure%20Functions.md)
 
 There is one more way to call functions that we have not covered yet. It is called **embedded elements**, or sometimes **string expansion**. In other languages, this is often called **string interpolation**. In the English community, it is colloquially known as **envelopes**, though envelope also generally refers to lists of words. So, we will avoid that term here.
 
@@ -232,6 +232,6 @@ OnRaiseFriendship
 
 It's a little more text, but it's really not so bad.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/05%20-%20Recursion.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/03%20-%20Pure%20Functions.md)
