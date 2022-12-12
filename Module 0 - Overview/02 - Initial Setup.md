@@ -1,11 +1,14 @@
 # Lesson 02 - Initial Setup
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)
 
 
+If you're using a template ghost, the initial steps here will likely be taken care of for you. But in case there is anything you need to change, we will go over the basics anyways. It's been my experience with other coding guides that they taught me the syntax, but not how to actually put it into practice. I hope this section will prevent you from having that same experience here. But if you already have a running ghost, you can skip it if you want.
+
 In order to actually execute YAYA code, you will need a copy of [yaya.dll](https://github.com/YAYA-shiori/yaya-shiori/releases)—which is what actually parses your YAYA code—and a `yaya.txt` in the same folder that will point to the files containing your code. (You can download the `yaya.zip` from the latest version listed on that page.)
+
 
 yaya.txt has multiple options you can specify. First, you should specify the charset (character set). By default, the charset is set to SHIFT_JIS. (If you're from the Japanese community and you're reading this; hi! You can probably skip this part and use SHIFT_JIS.) SHIFT_JIS is not ideal unless you're writing in Japanese, so you'll want to change the charset, most likely to UTF-8. This can be done by adding this line to yaya.txt:
 
@@ -24,13 +27,17 @@ dic, somefile.dic
 
 Now, anything in somefile.dic will be read as YAYA code. If the file does not exist, YAYA will output an error and will not load.
 
+You can add as many dic files as you need in yaya.txt. They will be loaded in the order they are listed, from top to bottom. Loading order does not *usually* make a difference in YAYA, but it does matter for the preprocessor, which you will learn about later.
+
+# Further Context
+
 If you're not familiar with relative filepaths, here is a quick explanation. An absolute filepath is extremely specific, starting from name of the drive. For example:
 
 ```
 F:/My_Stuff/SSP/ghost/my_ghost/ghost/master/somefile.dic
 ```
 
-A relative filepath, however, will start from a different location. In this case, that will be the position of yaya.dll, which is usually in the `ghost/master/` folder. So, if we want to specify a file that is in the same folder as yaya.dll, we can just write its name. If we want to go into a subfolder, we can write just the name of that folder, a slash, then the name of the file.
+A relative filepath, however, will start from a different location. In this case, that will be the position of yaya.dll, which is usually in the `ghost/master/` folder if you're making a ghost. So, if we want to specify a file that is in the same folder as yaya.dll, we can just write its name. If we want to go into a subfolder, we can write just the name of that folder, a slash, then the name of the file.
 
 ```
 special/somefile.dic
@@ -46,9 +53,9 @@ If we wanted to go up into a folder higher in the hierarchy, we need a special m
 
 This is a relative filepath. It goes up one folder from where `yaya.dll` is placed, which takes us into the `ghost/` folder, and then we go down into the `other/` folder, where somefile.dic is placed.
 
-You can add as many dic files as you need in yaya.txt. They will be loaded in the order they are listed, from top to bottom.
+One final note. If you are getting errors when you try to load your ghost and you're not sure how to interpret them, check out module 11, which goes over errors. Just know for now that if you see `[SHIORI]Communication error. Possible file corruption.`, your files are almost certainly *not* corrupted, there is just an error and you need a tool to see what that error is.
 
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/01%20-%20What%20is%20YAYA.md)

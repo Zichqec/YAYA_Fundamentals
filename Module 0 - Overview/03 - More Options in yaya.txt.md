@@ -1,10 +1,12 @@
-# Footnotes
+# More Options in yaya.txt
 
 [Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/03%20-%20Basic%20Error%20Messages.md)
 
-## More options in yaya.txt
+I am noting these options because they appear in the base dic files for most ghosts. You can see all the options on [AYAYA](https://emily.shillest.net/ayaya/index.php?cmd=read&page=%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%2F%E6%96%87%E6%B3%95%2F1.%E5%9F%BA%E7%A4%8E%E8%A8%AD%E5%AE%9A).
+
+If you're new to this and just want to hop into learning to code, feel free to skip this section and read it later if you're interested.
 
 There are a few other options for loading dic files. dicdir (dictionary directory) can be used to specify a folder, and all dic files in the specified folder will be loaded.
 
@@ -41,22 +43,6 @@ include, system_config.txt
 ```
 
 Now system_config.txt can be used to write options the same way as yaya.txt. You could use this, for example, if you wanted to keep the section for loading your dic files separate from other configurations.
-
-
-## Error message options
-
-There are actually two versions of YAYA, one which has the error messages embedded in the dll file, and one which has the text for the error messages as separate files. This enables you to write your own translations for the error messages. If you decide to use that version, you will want to use messagetxt (message text) instead of msglang, and specify the filepath for the error message file.
-
-```
-messagetxt,messagetxt/english.txt
-```
-
-This will output errors in english, provided you have the corresponding file. You can download the errors in different languages [here](https://github.com/ponapalt/yaya-shiori/tree/500/messagetxt), or copy those files to write your own translations instead.
-
-
-## Renaming yaya.dll
-
-If you want to, you can change the name of the yaya.dll to whatever you want. You just have to keep the dll extension the same, and ensure that yaya.txt and yaya_emerg.txt are also renamed to match. So if you changed it to core.dll, you would need to change yaya.txt to core.txt, and yaya_emerg.txt to core_emerg.txt.
 
 [Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%201%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
 

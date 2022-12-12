@@ -8,7 +8,7 @@ YAYA is a simplified programming language based on C for the purpose of creating
 
 Ghosts have many different moving parts; this guide exists to focus on YAYA specifically, and basic computer science concepts.
 
-If you're making a ghost, you will need to know how to write code for the shell in a language called SERIKO, and MAYUNA if you also want to make dressups. You will also need to know how to write SakuraScript. This guide will not be covering any of those languages, but you should be able to tell them apart.
+If you're making a ghost, you will need to know how to write code for the shell in a language called SERIKO, and MAYUNA if you also want to make dressups. You will also need to know how to write SakuraScript. This guide will not be covering any of those languages, but you need to be able to tell them apart.
 
 YAYA code, as seen in the previous lesson, looks something like this:
 
@@ -37,7 +37,7 @@ It may also look like this:
 0pattern1,-1,10,overlay,0,0
 ```
 
-We will not be covering any SERIKO/MAYUNA in this guide.
+We will not be covering any SERIKO or MAYUNA in this guide.
 
 SakuraScript is a system of tags, which you can use in your scripts to make the baseware (SSP) do certain things, like changing surfaces, displaying images, opening input boxes, etc. It looks like this:
 
