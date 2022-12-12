@@ -1,6 +1,6 @@
 # Lesson 08 - Brackets and Modifiers
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/00%20-%20Parameters.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/07%20-%20return%20and%20Output%20Candidates.md)
 
@@ -474,6 +474,6 @@ RandomTalk : nonoverlap
 
 *Much* better.
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%204%20-%20Functions/00%20-%20Parameters.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%203%20-%20Flow%20Control/07%20-%20return%20and%20Output%20Candidates.md)
