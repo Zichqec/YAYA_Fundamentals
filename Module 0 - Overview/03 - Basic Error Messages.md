@@ -1,6 +1,6 @@
 # Lesson 03 - Basic Error Messages
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/X%20-%20Footnotes.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/04%20-%20Footnotes.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
 
@@ -45,6 +45,6 @@ In a case like the above, you will have to track down the issue in the file your
 
 Another thing to note is that you may see many errors all at once. But very often, the only actual error is the first one, and the rest have resulted from the first. So, try to solve the errors that show up earlier in the file in question before tackling the others.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/X%20-%20Footnotes.md)
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/04%20-%20Footnotes.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%200%20-%20Overview/02%20-%20Initial%20Setup.md)
