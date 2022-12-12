@@ -1,4 +1,4 @@
-# 00 - String Manipulation
+# Lesson 00 - String Manipulation
 
 [Next lesson >>]()
 

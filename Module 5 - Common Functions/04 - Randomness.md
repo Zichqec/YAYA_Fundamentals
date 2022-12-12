@@ -1,4 +1,4 @@
-# 04 - Randomness
+# Lesson 04 - Randomness
 
 [Next lesson >>]()
 

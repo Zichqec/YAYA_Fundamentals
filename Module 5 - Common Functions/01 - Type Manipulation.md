@@ -1,4 +1,4 @@
-# 01 - Type Manipulation
+# Lesson 01 - Type Manipulation
 
 [Next lesson >>]()
 

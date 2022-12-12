@@ -1,4 +1,4 @@
-# 02 - Variable Manipulation
+# Lesson 02 - Variable Manipulation
 
 [Next lesson >>]()
 

@@ -1,4 +1,4 @@
-# 03 - Array Manipulation
+# Lesson 03 - Array Manipulation
 
 [Next lesson >>]()
 
