@@ -164,7 +164,9 @@ OnDisplayNewHighScore
 }
 ```
 
-Look at that if check. `if BalloonIsOpen`. If balloon is open. Nothing more, nothing less. Isn't it wonderful for the code to be so easily readable? If you look at this if check, you instantly know *exactly* the purpose of it. This is the importance of naming your functions well, of course, but also, making operations that you commonly use into functions that you can call this way. And making those functions return an integer, so you can plug them into checks directly! For example, if the BalloonIsOpen function returned "true" and "false" instead of `0` and `1`, the if check would have to be `if BalloonIsOpen == "true"`. And those extra wasted characters/potential typos would make me sad.
+Look at that if check. `if BalloonIsOpen`. If balloon is open. Nothing more, nothing less. Isn't it wonderful for the code to be so easily readable? If you look at this if check, you instantly know *exactly* the purpose of it. You could also write `if !BalloonIsOpen` for if the balloon is *not* open.
+
+This is the importance of naming your functions well, of course, but also, making operations that you commonly use into functions that you can call this way. And making those functions return an integer, so you can plug them into checks directly! For example, if the BalloonIsOpen function returned "true" and "false" instead of `0` and `1`, the if check would have to be `if BalloonIsOpen == "true"`. And those extra wasted characters/potential typos would make me sad.
 
 Ok, that's kind of subjective. But just look at it, isn't it so pretty? You can't do this with every function of course; some of them need to return more than just two options! Or sometimes you really really *really* need to be certain that the output was `1` and not some other number. But when you *know* the only possible outputs are `0` and `1`, you can use this.
 
