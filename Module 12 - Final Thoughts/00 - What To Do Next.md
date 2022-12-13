@@ -1,8 +1,8 @@
 # 00 - What To Do Next
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2012%20-%20Final%20Thoughts/01%20-%20Closing%20Remarks.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/04%20-%20Emergency%20Mode.md)
 
 Where should you go from here? If you're new to programming, you may be feeling a bit unsure about how to put all these different code bits together, exactly. Where to even start? What's the best approach for writing certain things?
 
@@ -22,6 +22,6 @@ From there, if you want to take it a step further; try recreating the function y
 
 And if that's not the way you learn, that's fine! I can't give advice beyond what helps for me, but you might be able to find some general coding advice online. You might be surprised how much other coding stuff you can get the gist of now!
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2012%20-%20Final%20Thoughts/01%20-%20Closing%20Remarks.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/04%20-%20Emergency%20Mode.md)
