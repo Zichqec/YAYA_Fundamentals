@@ -1,6 +1,6 @@
 # 04 - More on the Subject
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%208%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/03%20-%20Regex%20Functions.md)
 
@@ -104,6 +104,6 @@ If it fails to get the information for whatever reason, leaving the `_weather` v
 
 Real scraping is generally a lot more complicated than this, since the strings you want to capture are often not the only instance of that string in a page. So, you may need to make longer expressions that match some of the surrounding html tags to ensure you get the data you want. But hopefully, this gives you an idea of how regex may be used.
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%208%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/03%20-%20Regex%20Functions.md)

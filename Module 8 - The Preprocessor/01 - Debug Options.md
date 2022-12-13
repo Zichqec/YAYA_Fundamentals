@@ -1,8 +1,8 @@
-# 01 - Debug Options
+# Lesson 01 - Debug Options
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%208%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)
 
 Additionally, there are a couple of options in the preprocessor for debugging. The first is `__AYA_SYSTEM_FILE__`, which will output the relative filepath of the file the current function is executing from, from yaya.dll. Note that it outputs this as raw text, so you must surround it in quotation marks to make it a string.
 
@@ -56,6 +56,6 @@ OnSystemFile
 
 It can't make any sense of that! So you have to add the quotes yourself.
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%208%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)
