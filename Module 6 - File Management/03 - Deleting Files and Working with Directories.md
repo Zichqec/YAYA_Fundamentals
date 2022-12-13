@@ -1,8 +1,8 @@
 # Lesson 03 - Deleting Files and Working with Directories
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous module]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/02%20-%20Writing%20Files.md)
 
 Files can be deleted with the `FDEL` function. You should be very careful with this function, as files deleted this way are not sent to the recycling bin. Don't delete anything important.
 
@@ -103,6 +103,6 @@ OnSaveCharacter
 }
 ```
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous module]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/02%20-%20Writing%20Files.md)

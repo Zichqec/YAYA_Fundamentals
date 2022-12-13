@@ -1,6 +1,6 @@
 # Lesson 05 - EVAL
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/00%20-%20Opening%20and%20Closing%20Files.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/04%20-%20Randomness.md)
 
@@ -107,6 +107,6 @@ This way, the resulting value from reference1 will be treated as a string, and n
 
 Just remember that if you write string expansion in an EVAL statement, and the whole thing is surrounded in double quotes, the EVAL will see the *result* of the string expansion and will use that.
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/00%20-%20Opening%20and%20Closing%20Files.md)
 
 [<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%205%20-%20Common%20Functions/04%20-%20Randomness.md)
