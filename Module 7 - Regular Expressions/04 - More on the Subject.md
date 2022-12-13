@@ -6,8 +6,8 @@
 
 As mentioned at the start, regex is very complicated, and can be hard to wrap your head around. For ease of reference, here are some cheat sheets copied from the [PERL documentation](https://perldoc.perl.org/perlre).
 
-Metacharacters:
 ```
+Metacharacters:
 
            PURPOSE                                  WHERE
 \   Escape the next character                    Always, except when
@@ -44,9 +44,10 @@ $   Match the end of the string                  Not in [], but can
 ```
 
 
-Character sets:
 
 ```
+Character sets:
+
 \w          Match a "word" character (alphanumeric plus "_", plus
 			  other connector punctuation chars plus Unicode
 			  marks)
