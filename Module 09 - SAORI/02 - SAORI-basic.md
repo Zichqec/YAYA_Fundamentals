@@ -1,6 +1,6 @@
 # Lesson 02 - SAORI-basic
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%20009%20-%20SAORI/01%20-%20SAORI-universal.md)
 
@@ -34,6 +34,6 @@ If the SAORI executes successfully, we output a message saying so. If it does no
 
 As you can see from this example compared to the window_info example, SAORI are extremely varied. YAYA's method of calling them will always be the same, but what sort of input you need to give and what sort of output you get will vary widely based on what SAORI you're using. That's because, in theory, you can do *anything* with SAORI. But that is, of course, outside the scope of a guide for learning YAYA.
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%20009%20-%20SAORI/01%20-%20SAORI-universal.md)

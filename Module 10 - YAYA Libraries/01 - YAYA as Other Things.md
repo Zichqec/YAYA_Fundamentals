@@ -2,7 +2,7 @@
 
 [Next module >>]()
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)
 
 YAYA can be used for more than SHIORI. It can be used to make SAORI, Plugins, MAKOTO, and as mentioned, even be used as a general windows dll.
 
@@ -22,4 +22,4 @@ Make sure to read the specific instructions that come with each of these. They a
 
 [Next module >>]()
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)
