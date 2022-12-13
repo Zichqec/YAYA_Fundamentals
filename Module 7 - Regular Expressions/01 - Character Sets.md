@@ -2,7 +2,7 @@
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/02%20-%20Metacharacters.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/00%20-%20What%20Is%20Regex.md)
 
 To make use of regex you will need to know how to write expressions, and how to use the functions that YAYA provides that work with those expressions. We'll start with the expressions, and explore the different functions later. But first, you need to know at least one function so I can show some examples.
 
@@ -87,4 +87,4 @@ Regex is useful in plenty of cases, but it is slower than other options, so I te
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/02%20-%20Metacharacters.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/00%20-%20What%20Is%20Regex.md)
