@@ -1,4 +1,4 @@
-# 00 - Peeking Behind the Curtain
+# Lesson 00 - Peeking Behind the Curtain
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
 

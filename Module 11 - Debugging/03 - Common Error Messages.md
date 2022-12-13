@@ -1,4 +1,4 @@
-# 03 - Common Error Messages
+# Lesson 03 - Common Error Messages
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/04%20-%20Emergency%20Mode.md)
 

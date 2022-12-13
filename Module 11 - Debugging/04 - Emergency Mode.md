@@ -1,4 +1,4 @@
-# 04 - Emergency Mode
+# Lesson 04 - Emergency Mode
 
 [Next module >>]()
 
