@@ -30,7 +30,7 @@ With the above code, we have created 3 new variables, each set up for a differen
 
 At any time, you can assign a variable to a new value with `=`, and it will take on the type of the value you've given it. However, changing types that way is very bad practice, and can cause a lot of unexpected behavior. It is best to pick a type for your variable when you assign it, and then not change the type.
 
-Note also that it is important to initialize variables before you use them, because YAYA treats all uninitialized variables as string types.
+Initializing variables before you use them is good practice, or else you may sometimes get unexpected bugs. YAYA treats uninitialized variables as either an empty string or 0, depending on what type of operation is performed on them first. This means that sometimes, you may end up with a variable that should be an integer be assigned as a string instead.
 
 
 To output the value that a variable holds, you can simply write the name of that variable by itself.
