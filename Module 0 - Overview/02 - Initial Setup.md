@@ -10,7 +10,7 @@ If you're using a template ghost, the initial steps here will likely be taken ca
 In order to actually execute YAYA code, you will need a copy of [yaya.dll](https://github.com/YAYA-shiori/yaya-shiori/releases)—which is what actually parses your YAYA code—and a `yaya.txt` in the same folder that will point to the files containing your code. (You can download the `yaya.zip` from the latest version listed on that page.)
 
 
-yaya.txt has multiple options you can specify. First, you should specify the charset (character set). By default, the charset is set to SHIFT_JIS. (If you're from the Japanese community and you're reading this; hi! You can probably skip this part and use SHIFT_JIS.) SHIFT_JIS is not ideal unless you're writing in Japanese, so you'll want to change the charset, most likely to UTF-8. This can be done by adding this line to yaya.txt:
+yaya.txt has multiple options you can specify. First, you should specify the charset (character set). By default, the charset is set to SHIFT_JIS. (If you're from the Japanese community and you're reading this; hi! You can probably skip this part and use SHIFT_JIS.) SHIFT_JIS is not ideal unless you're writing in Japanese, so you'll want to change the charset, most likely to UTF-8. You can do so by adding this line to yaya.txt:
 
 ```
 charset, UTF-8
