@@ -1,8 +1,8 @@
 # 00 - Peeking Behind the Curtain
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
 
-[<< Previous module]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/01%20-%20YAYA%20as%20Other%20Things.md)
 
 Sometimes, you're just not sure what's going on in your code, or where things are going wrong. Wouldn't it be nice if you could take a peek, and see what values your variables are holding at any given moment? Good news, you can!
 
@@ -43,6 +43,6 @@ Of note here is the `Value` item, which is the script that was returned by the g
 
 Also note the `200 OK` at the top; this is what you will see if a response goes through correctly. Other responses include `204 No Content`, which is for if there is no script to return (not necessarily that nothing happened, there was just no script), and `400 Bad Request` if there was something wrong in the SHIORI request.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
 
-[<< Previous module]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/01%20-%20YAYA%20as%20Other%20Things.md)

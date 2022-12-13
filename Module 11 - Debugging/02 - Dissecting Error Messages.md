@@ -1,8 +1,8 @@
 # Lesson 02 - Dissecting Error Messages
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
 
 Alright, so what about when your code isn't running *at all?* What if it's just outputting a cryptic error message? Here, we'll give an overview of how to read the error messages. In the next lesson, we'll look at some of the common errors and what they mean.
 
@@ -48,6 +48,6 @@ A missing opening bracket. An easy fix, probably.
 
 One more note. Depending on the nature of the error, you will sometimes see dozens, or even hundreds of errors suddenly appear and fill the log. *Don't panic.* Usually, only the first 1 or 2 errors are real errors. Most commonly, this happens if you have a duplicated function name. It calls out the duplicated function name as an error... and then keeps merrily reading the rest of the file, except that now it thinks you have a function without a name, and all this extraneous text that was supposed to be *in* the function is not a valid function name, and...! It ends up reading the entire rest of the file as errors. So really, don't panic. Just go to the top, look at the first few errors you see, and see if you can spot an issue there. Try commenting out that section of code, and see if all the rest of the errors clear up or change. Most of the time, it is not as bad as it looks.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)

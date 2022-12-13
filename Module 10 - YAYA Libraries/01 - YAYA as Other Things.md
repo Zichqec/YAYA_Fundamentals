@@ -1,6 +1,6 @@
 # Lesson 01 - YAYA as Other Things
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/00%20-%20Peeking%20Behind%20the%20Curtain.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)
 
@@ -20,6 +20,6 @@ There is also more information on [YAYA as a windows dll](https://emily.shillest
 
 Make sure to read the specific instructions that come with each of these. They all use YAYA, but they will have their own quirks. For example, YAYA as Plugin does not make the `reference0`, `reference1`, etc. variables. It only uses the reference array.
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/00%20-%20Peeking%20Behind%20the%20Curtain.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)

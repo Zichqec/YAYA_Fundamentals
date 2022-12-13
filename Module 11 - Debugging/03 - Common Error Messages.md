@@ -1,8 +1,8 @@
 # 03 - Common Error Messages
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/02%20-%20Dissecting%20Error%20Messages.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
 
 Alright, now for a look at some common error messages and what they mean.
 
@@ -106,6 +106,6 @@ YAYA couldn't load the specified file. Check that the spelling of the filepath i
 
 There are many other errors, but they are usually fairly self-explanatory. If you're absolutely not sure what is causing the error, you can try commenting out most of the code, and slowly uncommenting it bit by bit until you find the part it's complaining about. Though be careful, sometimes errors (such as duplicated function names) are actually caused by code that is in other files and has far reaching effects.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/02%20-%20Dissecting%20Error%20Messages.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/01%20-%20LOGGING.md)
