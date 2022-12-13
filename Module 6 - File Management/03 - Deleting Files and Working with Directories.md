@@ -1,6 +1,6 @@
 # Lesson 03 - Deleting Files and Working with Directories
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/00%20-%20What%20Is%20Regex.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/02%20-%20Writing%20Files.md)
 
@@ -103,6 +103,6 @@ OnSaveCharacter
 }
 ```
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/00%20-%20What%20Is%20Regex.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/02%20-%20Writing%20Files.md)

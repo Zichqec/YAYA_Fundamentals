@@ -1,8 +1,8 @@
-# 01 - Character Sets
+# Lesson 01 - Character Sets
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/02%20-%20Metacharacters.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson]()
 
 To make use of regex you will need to know how to write expressions, and how to use the functions that YAYA provides that work with those expressions. We'll start with the expressions, and explore the different functions later. But first, you need to know at least one function so I can show some examples.
 
@@ -85,6 +85,6 @@ See this if check here? We'll talk about this function later, but there's a smal
 
 Regex is useful in plenty of cases, but it is slower than other options, so I tend to avoid it unless the tradeoff of cleaner code seems worth it. Or, if the function is so small that speed isn't really a concern.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/02%20-%20Metacharacters.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson]()

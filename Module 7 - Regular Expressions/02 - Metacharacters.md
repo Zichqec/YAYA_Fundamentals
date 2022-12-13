@@ -1,8 +1,8 @@
-# 02 - Metacharacters
+# Lesson 02 - Metacharacters
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/03%20-%20Regex%20Functions.md)
 
-[<< Previous Lesson]()
+[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/01%20-%20Character%20Sets.md)
 
 Next, there are **metacharacters**. These are used to indicate special information, such as the beginning or end of a string.
 
@@ -220,6 +220,6 @@ Then the second `RE_REPLACE` covers 9 different tags; `\w1`, `\w2`, `\w3`, etc.,
 
 The final `RE_REPLACE` covers the `\_w[]` tag, which can have any arbitrary number in its brackets. We could theoretically do this by splitting the string too, but regex is simply cleaner. Here we are using a quantifier to specify that it is anywhere from 1 to infinity digits.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/03%20-%20Regex%20Functions.md)
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/01%20-%20Character%20Sets.md)

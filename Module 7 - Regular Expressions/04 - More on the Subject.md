@@ -1,8 +1,8 @@
 # 04 - More on the Subject
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/03%20-%20Regex%20Functions.md)
 
 As mentioned at the start, regex is very complicated, and can be hard to wrap your head around. For ease of reference, here are some cheat sheets copied from the [PERL documentation](https://perldoc.perl.org/perlre).
 
@@ -100,6 +100,6 @@ If it fails to get the information for whatever reason, leaving the `_weather` v
 
 Real scraping is generally a lot more complicated than this, since the strings you want to capture are often not the only instance of that string in a page. So, you may need to make longer expressions that match some of the surrounding html tags to ensure you get the data you want. But hopefully, this gives you an idea of how regex may be used.
 
-[Next lesson >>]()
+[Next module >>]()
 
-[<< Previous Lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/03%20-%20Regex%20Functions.md)

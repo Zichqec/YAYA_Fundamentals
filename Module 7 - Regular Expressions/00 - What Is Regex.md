@@ -1,8 +1,8 @@
-# 00 - What is Regex
+# Lesson 00 - What is Regex
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/01%20-%20Character%20Sets.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/03%20-%20Deleting%20Files%20and%20Working%20with%20Directories.md)
 
 **Regular expressions**, often shortened to **regex**, are a way of searching for strings with very precise parameters. The full extent of regex is well beyond this guide, but we will explore the basics.
 
@@ -12,6 +12,6 @@ YAYA uses regex based on that of PERL, and you can find documentation for the sp
 
 If this section seems like a lot, don't sweat it too much. Regex is a complicated beast, and often not necessary unless you're doing something *very* complicated. So don't let this get you down if it's confusing; regex really is a whole language unto itself.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%207%20-%20Regular%20Expressions/01%20-%20Character%20Sets.md)
 
-[<< Previous Lesson]()
+[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%206%20-%20File%20Management/03%20-%20Deleting%20Files%20and%20Working%20with%20Directories.md)
