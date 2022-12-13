@@ -7,6 +7,7 @@
 As mentioned at the start, regex is very complicated, and can be hard to wrap your head around. For ease of reference, here are some cheat sheets copied from the [PERL documentation](https://perldoc.perl.org/perlre).
 
 Metacharacters:
+```
 
            PURPOSE                                  WHERE
 \   Escape the next character                    Always, except when
@@ -40,10 +41,12 @@ $   Match the end of the string                  Not in [], but can
 }   End sequence started by {
 -   Indicates a range                            Only in [] interior
 #   Beginning of comment, extends to line end    Only with /x modifier
+```
 
 
 Character sets:
 
+```
 \w          Match a "word" character (alphanumeric plus "_", plus
 			  other connector punctuation chars plus Unicode
 			  marks)
@@ -52,7 +55,7 @@ Character sets:
 \S          Match a non-whitespace character
 \d          Match a decimal digit character
 \D          Match a non-digit character
-
+```
 
 Refer back to this as much as you need to while you work on regex. And I do *highly* recommend using a [regex calculator](https://regex101.com/) to help you along.
 
