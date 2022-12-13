@@ -1,6 +1,6 @@
 # Lesson 01 - Debug Options
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/00%20-%20What%20are%20SAORI.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%208%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)
 
@@ -56,6 +56,6 @@ OnSystemFile
 
 It can't make any sense of that! So you have to add the quotes yourself.
 
-[Next module >>]()
+[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/00%20-%20What%20are%20SAORI.md)
 
 [<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%208%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)

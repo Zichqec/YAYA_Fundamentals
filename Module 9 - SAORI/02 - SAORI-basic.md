@@ -2,7 +2,7 @@
 
 [Next module >>]()
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/01%20-%20SAORI-universal.md)
 
 Calling SAORI-basic is very similar to calling SAORI-universal. This is because you have to use the [proxy SAORI](https://github.com/ukatech/csaori/releases/tag/saori_proxy_ex_v1.0.2), which is itself SAORI-universal, to call them.
 
@@ -36,4 +36,4 @@ As you can see from this example compared to the window_info example, SAORI are 
 
 [Next module >>]()
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/01%20-%20SAORI-universal.md)

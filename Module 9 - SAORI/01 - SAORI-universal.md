@@ -1,8 +1,8 @@
 # Lesson 01 - SAORI-universal
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/02%20-%20SAORI-basic.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/00%20-%20What%20are%20SAORI.md)
 
 For the purposes of this lesson, we will be using the SAORI [window_info](https://github.com/ukatech/csaori/releases/tag/window_info_v1.1) as an example.
 When run, this SAORI gathers a list of windows that the user has open on their computer, as an array. There is more it can do, but this is the function we will focus on.
@@ -25,6 +25,6 @@ OnWindowInfoExample
 
 The above function will get a list of what windows the user has open, then inform them of the number of windows. Note that the window_info SAORI doesn't return anything besides the valueex array.
 
-[Next lesson >>]()
+[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/02%20-%20SAORI-basic.md)
 
-[<< Previous lesson]()
+[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%209%20-%20SAORI/00%20-%20What%20are%20SAORI.md)
