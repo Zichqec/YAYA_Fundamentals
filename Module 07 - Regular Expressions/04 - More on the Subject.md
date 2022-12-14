@@ -85,7 +85,7 @@ OnRegexScrapingExample
 		_weather = RE_GETSTR[1]
 	}
 	
-	if weather == ""
+	if _weather == ""
 	{
 		"I couldn't get the weather information."
 	}
