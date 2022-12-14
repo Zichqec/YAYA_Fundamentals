@@ -35,7 +35,7 @@ Now, we can change the number in a single function, and it will apply all over t
 ```c
 OnCheckFriendship
 {
-	big_friendship_boost
+	big_friendship_boostB
 	
 	if friendship_is_high
 	{
@@ -48,7 +48,7 @@ OnCheckFriendship
 	
 }
 
-big_friendship_boost2
+big_friendship_boostB
 {
 	friendship += 3
 }
