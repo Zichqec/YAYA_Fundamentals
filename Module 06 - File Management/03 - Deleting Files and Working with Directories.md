@@ -11,7 +11,7 @@ Files can be deleted with the `FDEL` function. You should be very careful with t
 ```c
 OnDeleteFile
 {
-	_path = "examplefiles/destined_for_deletion.txt"
+	_path = "examplefiles/myplaylist.txt"
 	
 	if FDEL(_path)
 	{
