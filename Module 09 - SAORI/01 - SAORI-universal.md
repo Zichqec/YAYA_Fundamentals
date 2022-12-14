@@ -17,7 +17,7 @@ OnWindowInfoExample
 	void FUNCTIONEX("saori/window_info.dll","enum")
 	_open_windows = valueex
 	
-	"You have %(ARRAYSIZE(_open_windows)) open!"
+	"You have %(ARRAYSIZE(_open_windows)) windows open!"
 }
 ```
 
