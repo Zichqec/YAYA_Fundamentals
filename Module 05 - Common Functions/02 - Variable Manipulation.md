@@ -29,19 +29,18 @@ Additionally, sometimes you need to erase a variable once you're done with it to
 ```c
 OnEraseUnneededVariables
 {
-	i = 10
 	j = 20
-	k = j + i
+	k = j + appreciation
 	
-	"%(i) + %(j) is %(k)"
+	"%(appreciation) + %(j) is %(k)"
 	
-	ERASEVAR("i","j","k")
+	ERASEVAR("appreciation","j","k")
 }
 ```
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M5.L2.EraseUnneededVariables)
 
-The output of the above would be `10 + 20 is 30`. `ERASEVAR` itself has no return, but the `i`, `j`, and `k` variables will no longer exist once it executes.
+The output of the above will change based on the value held in the `appreciation` variable. `ERASEVAR` itself has no return, but the `appreciation`, `j`, and `k` variables will no longer exist once it executes.
 
 ---
 
