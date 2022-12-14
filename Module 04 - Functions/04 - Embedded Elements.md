@@ -164,19 +164,19 @@ Note that for this to work, the `%[]` *must* be in the same string as the embedd
 ```c
 OnIncorrectRecall
 {
-	"I like %color2. Isn't %[0] great? I like %food2 too, "
+	"I like %colorB. Isn't %[0] great? I like %foodB too, "
 	--
 	"I want some %[0] %[1]."
 }
 
-color2
+colorB
 {
 	"red"
 	"green"
 	"blue"
 }
 
-food2
+foodB
 {
 	"cheese"
 	"whipped cream"
