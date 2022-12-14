@@ -14,16 +14,16 @@ When a SAORI returns an array of information, some code in YAYA's base dic files
 ```c
 OnWindowInfoExample
 {
-	void FUNCTIONEX("saori/window_info.dll","enum")
+	_num = FUNCTIONEX("saori/window_info.dll","enum")
 	_open_windows = valueex
 	
-	"You have %(ARRAYSIZE(_open_windows)) windows open!"
+	"You have %(_num) windows open!\n\n\_?%(_open_windows)\_?"
 }
 ```
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M9.L1.WindowInfoExample)
 
-The above function will get a list of what windows the user has open, then inform them of the number of windows. Note that the window_info SAORI doesn't return anything besides the valueex array.
+The above function will get a list of what windows the user has open, then inform them of the number of windows and the names of each.
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2009%20-%20SAORI/02%20-%20SAORI-basic.md)
 
