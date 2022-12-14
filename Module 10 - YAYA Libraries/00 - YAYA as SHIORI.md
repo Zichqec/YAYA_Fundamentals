@@ -40,6 +40,8 @@ OnRaiseFriendshipBasedOnDialogue
 {
 	"I really like you, %username.\e:eval=friendship += 1"
 	"Hi, %username."
+	--
+	"\nfriendship: %(friendship)"
 }
 ```
 
@@ -54,6 +56,8 @@ OnRaiseFriendshipAlways
 {
 	"I really like you, %username.\e %(friendship += 1)"
 	"Hi, %username."
+	--
+	"\nfriendship: %(friendship)"
 }
 ```
 
@@ -81,7 +85,7 @@ likeuser
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M10.L0.StartChain)
 
-In the above function, the dialogue "I really like you, %username." will start what is called a chain dialogue, with the name "likeuser". The dialogues will be output one at a time, from top to bottom, one at a time each time `OnAiTalk` is called, until the chain name is set to `end`.
+In the above function, the dialogue "I really like you, %username." will start what is called a chain dialogue, with the name "likeuser". The dialogues will be output one at a time, from top to bottom, one at a time each time `OnAiTalk` is called, until the chain name is set to `end`. (In the companion ghost, you can press `T` while the ghost is selected to prompt `OnAiTalk`.)
 
 Chain dialogues are actually a switch statement in disguise. These are the preprocessor commands that make chains work:
 
