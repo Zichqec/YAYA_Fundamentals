@@ -86,7 +86,7 @@ OnNestedLoops
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L6.NestedLoops)
 
-The above function will output the string `0:0, 0:1, 0:2, 1:0, 1:1, 1:2, 2:0, 2:1, 2:2`
+The above function will output the string `0:0, 0:1, 0:2, 1:0, 1:1, 1:2, 2:0, 2:1, 2:2, `
 
 As you can see from this loop, the inner `while` loop uses a `break` statement to prevent it from becoming an infinite loop, but the `break` statement does not stop the outer for loop from running again.
 
