@@ -113,7 +113,7 @@ OnSeveralElseifs
 	}
 	elseif hour == 4
 	{
-		It's 4AM!
+		"It's 4AM!"
 	}
 	elseif hour == 8
 	{
@@ -153,7 +153,7 @@ OnWithoutBrackets
 	if hour == 0
 		"It's midnight!"
 	elseif hour == 4
-		It's 4AM!
+		"It's 4AM!"
 	elseif hour == 8
 		"It's 8AM!"
 	elseif hour == 12
@@ -173,7 +173,7 @@ Additionally, you can pair this mechanic with the semicolon, which makes YAYA co
 OnWithSemicolons
 {
 	if hour == 0; "It's midnight!"
-	elseif hour == 4; It's 4AM!
+	elseif hour == 4; "It's 4AM!"
 	elseif hour == 8; "It's 8AM!"
 	elseif hour == 12; "It's noon!"
 	elseif hour == 16; "It's 4PM!"
