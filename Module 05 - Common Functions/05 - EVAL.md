@@ -26,6 +26,8 @@ OnCreateArbitraryVariables
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M5.L5.CreateArbitraryVariables)
 
+The above function will output `Variables initialized.`
+
 In the above code, we have initialized 10 new variables; `variable0`, `variable1`, `variable2`, etc., all the way up to `variable9`; with the integer `0`
 
 If you have a ghost set up to run embedded elements that are input through the script input window, this is how that works. `OnTranslate` activates whenever the script is run, and code like the below makes the embedded elements run.
