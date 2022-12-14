@@ -40,8 +40,6 @@ OnRaiseFriendshipBasedOnDialogue
 {
 	"I really like you, %username.\e:eval=friendship += 1"
 	"Hi, %username."
-	--
-	"\nfriendship: %(friendship)"
 }
 ```
 
@@ -56,8 +54,6 @@ OnRaiseFriendshipAlways
 {
 	"I really like you, %username.\e %(friendship += 1)"
 	"Hi, %username."
-	--
-	"\nfriendship: %(friendship)"
 }
 ```
 
