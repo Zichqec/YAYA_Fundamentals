@@ -81,7 +81,7 @@ OnListFiles
 	{
 		_display += "\![*]%(_file)\n"
 	}
-	"\_qYour playlists:\n\n%(_display)"
+	"\_qExample Files:\n\n%(_display)"
 }
 ```
 
