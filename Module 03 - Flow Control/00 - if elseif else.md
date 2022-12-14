@@ -189,9 +189,6 @@ This is purely an aesthetic choice, and makes no difference in how the code is r
 
 # Further Context
 
-//my weird visualization technique
-//what happens with multiple if statements?
-
 Now this is where things really start to get interesting! I have so much to talk about here.
 
 First of all, a word on using multiple `if` statements instead of `elseif` statements. If you only want one output to be possible at a time, *you should always use `elseif` instead of `if`.* As I said above, if you have multiple `if` statements, it is possible for there to be multiple outputs available at once, which means YAYA will pick randomly from those options (we'll explore this idea in more detail later). This means confusing bugs that are really hard to track down unless you know what you're looking for!
