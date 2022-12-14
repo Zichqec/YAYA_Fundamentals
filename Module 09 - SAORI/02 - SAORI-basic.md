@@ -13,7 +13,7 @@ For this example, I will use the SAORI [ImageCompositor](https://zichqec.github.
 ```c
 OnCompositeImages
 {
-	_i = FUNCTIONEX("saori/proxy_ex.dll","saori/ImageCompositor.exe","output.png","shape_circle.png","shape_square.png")
+	_i = FUNCTIONEX("saori/proxy_ex.dll","saori/ImageCompositor.exe","output.png","shape_square.png","shape_circle.png")
 	
 	if "Done" _in_ _i
 	{
