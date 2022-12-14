@@ -184,11 +184,9 @@ foodB
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M4.L4.IncorrectRecall)
+The above function would output a script like `I like red. Isn't red great? I like cheese too, I want some %[0] %[1].`
 
-The above function will output a script like `I like red. Isn't red great? I like cheese too, I want some  .`
-
-As you can see, the second part of the script after the `--` will not return anything when `%[]` is used, because it is not the same string.
+As you can see, the second part of the script after the `--` will not return the values properly, because it is not the same string. It will also output an error when the ghost loads, so it is only included in commented form in the companion ghost.
 
 `%[]` also cannot be used with ranged deployment (string expansion with parenthesis), and attempting to do so will cause an error.
 
