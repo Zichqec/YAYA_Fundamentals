@@ -55,7 +55,7 @@ OnWhileInfinite
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L3.WhileInfinite) \[THIS WILL FREEZE THE GHOST AND SSP FOR A WHILE.]
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L3.WhileInfinite) \[THIS MAY FREEZE THE GHOST AND SSP FOR A WHILE.]
 
 In the code above, the condition will never be true, and thus the loop will run forever. Or, if the loop limit is in place, it will run 10000 times by default, and output the string `Hello, world!Hello, world!`... etc, with the words "Hello, world!" repeated 10000 times. 
 
