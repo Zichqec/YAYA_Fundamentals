@@ -114,6 +114,7 @@ MarkdownProcessor.ApplyMarkdown
 		if _mark_open !_in_ _input && _mark_close !_in_ _input; continue //If this tag is not in the script, skip the processing
 
 //Other very long code...
+	}
 }
 ```
 
