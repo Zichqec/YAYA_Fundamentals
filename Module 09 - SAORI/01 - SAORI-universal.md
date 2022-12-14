@@ -14,7 +14,7 @@ When a SAORI returns an array of information, some code in YAYA's base dic files
 ```c
 OnWindowInfoExample
 {
-	void FUNCTIONEX("window_info.dll","enum")
+	void FUNCTIONEX("saori/window_info.dll","enum")
 	_open_windows = valueex
 	
 	"You have %(ARRAYSIZE(_open_windows)) open!"
