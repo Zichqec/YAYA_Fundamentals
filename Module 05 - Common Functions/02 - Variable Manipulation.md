@@ -9,20 +9,20 @@ When working with global variables, sometimes you will need to check if the vari
 ```c
 OnCheckVariableExists
 {
-	if !ISVAR("friendship")
+	if !ISVAR("appreciation")
 	{
-		friendship = 0
+		appreciation = 0
 	}
-	friendship += 2
-	friendship
+	appreciation += 2
+	appreciation
 }
 ```
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M5.L2.CheckVariableExists)
 
-The above function will output `2`
+The above function will output the current value of the `appreciation` variable.
 
-With the setup above, even if the friendship variable did not exist before this code ran, it would still be properly initialized as an integer. That way, we can ensure nothing strange happens.
+With the setup above, even if the `appreciation` variable did not exist before this code ran, it would still be properly initialized as an integer. That way, we can ensure nothing strange happens.
 
 Additionally, sometimes you need to erase a variable once you're done with it to keep your save file from getting bloated, or to make sure old values don't interfere with other functions. For this, there is `ERASEVAR`. `ERASEVAR` takes the name of the variables you want to delete *as strings*. You can specify as many as you like, as long as you make them separate arguments.
 
@@ -47,9 +47,9 @@ The output of the above would be `10 + 20 is 30`. `ERASEVAR` itself has no retur
 
 # Further Context
 
-The whole business with writing the variable names in these *as strings* has confused me before, so I will mention it in more detail here. The proper usage of ISVAR, for example, looks like `ISVAR("friendship")`, *not* `ISVAR(friendship)`.
+The whole business with writing the variable names in these *as strings* has confused me before, so I will mention it in more detail here. The proper usage of ISVAR, for example, looks like `ISVAR("appreciation")`, *not* `ISVAR(appreciation)`.
 
-If you think about it with our visualization technique, `ISVAR(friendship)` would look something like `ISVAR(57)` (if the friendship value was 57), which doesn't really make sense. So, make sure you use strings here. When you're looking up functions on AYAYA, keep an eye out for this sort of thing.
+If you think about it with our visualization technique, `ISVAR(appreciation)` would look something like `ISVAR(57)` (if the `appreciation` value was 57), which doesn't really make sense. So, make sure you use strings here. When you're looking up functions on AYAYA, keep an eye out for this sort of thing.
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/03%20-%20Array%20Manupulation.md)
 
