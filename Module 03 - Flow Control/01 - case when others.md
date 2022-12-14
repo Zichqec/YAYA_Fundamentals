@@ -67,7 +67,7 @@ OnMultipleStatementsAsIf
 	_color = "red"
 	if _color == "red" || _color == "green" || _color == "blue"
 	{
-		"RBG!"
+		"RGB!"
 	}
 	elseif _color == "cyan" || _color == "magenta" || _color == "yellow"
 	{
