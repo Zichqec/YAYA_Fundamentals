@@ -31,10 +31,10 @@ In the function that is called, an array called `_argv` (Probably stands for **A
 ```c
 OnCountFunction
 {
-	Count("red","orange","yellow","green","cyan","blue","purple","magenta")
+	CountA("red","orange","yellow","green","cyan","blue","purple","magenta")
 }
 
-Count
+CountA
 {
 	_argc
 }
@@ -51,10 +51,10 @@ OnCountFunction2
 {
 	_hues = ("red","orange","yellow","green","cyan","blue","purple","magenta")
 	
-	Count(_hues)
+	CountB(_hues)
 }
 
-Count
+CountB
 {
 	_argc
 }
