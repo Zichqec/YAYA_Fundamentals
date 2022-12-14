@@ -50,7 +50,7 @@ OnEditMultiArray
 {
 	_array = "A|1,B|2,C|3"
 	_to_change = _array[1]
-	_to_change[1,"|"] = "X"
+	_to_change[0,"|"] = "X"
 	_array[1] = _to_change
 	_array
 }
