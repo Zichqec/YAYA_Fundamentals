@@ -27,6 +27,7 @@ OnOutputOdds
 			_display += _i
 		}
 	}
+	_display
 }
 ```
 
