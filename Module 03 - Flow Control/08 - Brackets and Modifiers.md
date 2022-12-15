@@ -89,7 +89,7 @@ The other way to apply them is before a set of brackets. In this case, you write
 ```c
 OnModifierOnBrackets
 {
-	red
+	"red"
 	
 	all : {
 		"green"
