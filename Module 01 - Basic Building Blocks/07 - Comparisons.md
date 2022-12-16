@@ -90,8 +90,32 @@ OnGreaterThanOrEqual
 
 The above function will output `1`, since `_i` is equal to `10`, even though it's not greater than `10`.
 
-
 Use whichever of these makes more sense to you. You may find that it varies depending on what sort of function you're writing.
+
+
+Finally, there is one more set of operators, which are for strings. The `_in_` operator can be used to check if a string is within another string, and `!_in_` can likewise be used to check if a string is *not* within another string.
+
+```c
+OnStringIn
+{
+	"world" _in_ "Hello, world!"
+}
+```
+
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.StringIn)
+
+The above function will output `1`, because "world" is found in "Hello, world!"
+
+```c
+OnStringNotIn
+{
+	"earth" !_in_ "Hello, world!"
+}
+```
+
+[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L7.StringNotIn)
+
+The above function will output `1`, because the string "earth" is not found anywhere in "Hello, world!"
 
 ---
 

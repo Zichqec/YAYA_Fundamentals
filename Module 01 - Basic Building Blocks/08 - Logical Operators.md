@@ -110,7 +110,7 @@ OnAndOr2
 The above function will output `0`. The OR check is true because the `_hour` is set to `10`, but the `_minute` is not also `30`.
 
 
-There is also the logical NOT operator. The `!` reverses the outcome of any formula or function. We can add it before the names of functions and variables, or we can enclose forumlas in parenthesis and reverse the output. We've already seen this effect before, with `!=` being the opposite of `==`.
+Finally, there is the logical NOT operator. The `!` reverses the outcome of any formula or function. We can add it before the names of functions and variables, or we can enclose forumlas in parenthesis and reverse the output. We've already seen this effect before, with `!=` being the opposite of `==`.
 
 ```c
 OnLogicalNot
@@ -126,31 +126,6 @@ OnLogicalNot
 The above function will output `1`, since the operation `_i == 20` returns a `0` (False), which is then reversed to a `1` (True) by the `!` operator.
 
 The parenthesis in this case are used to make the `!` operator reverse the *outcome* of the operation, rather than just the contents of `_i`.
-
-
-Finally, there is one more set of operators, which are for strings. The `_in_` operator can be used to check if a string is within another string, and `!_in_` can likewise be used to check if a string is *not* within another string.
-
-```c
-OnStringIn
-{
-	"world" _in_ "Hello, world!"
-}
-```
-
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L8.StringIn)
-
-The above function will output `1`, because "world" is found in "Hello, world!"
-
-```c
-OnStringNotIn
-{
-	"earth" !_in_ "Hello, world!"
-}
-```
-
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M1.L8.StringNotIn)
-
-The above function will output `1`, because the string "earth" is not found anywhere in "Hello, world!"
 
 ---
 
