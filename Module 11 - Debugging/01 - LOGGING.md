@@ -56,7 +56,7 @@ The above function will output the string `Bah, other colors are boring.`
 
 Can you pinpoint why that is? Note that the references being sent to this function (if you click on the link here or the menu option in the companion ghost) are "red" and "vibrant". So, the expected response *should* be `Yeah, I'm with you! Vibrant reds are the best!`. So, at what point is this function not going as intended?
 
-(If you've spent a while looking at this and you're still not sure, run this text through a [ROT13 decoder](https://www.boxentriq.com/code-breaking/rot13) for the answer: Gur svefg vs purpx unf ersrerapr zvffcryyrq nf ersreapr.)
+(If you've spent a while looking at this and you're still not sure, run this text through a [ROT13 decoder](https://www.boxentriq.com/code-breaking/rot13) for the answer: Gur svefg vs purpx unf ersrerapr zvffcryyrq nf ersreapr, naq gur purpx sbe Ivoenag fubhyq unir n ybjrepnfr i.)
 
 With some practice and a little patience, you can solve many, many issues with the `LOGGING` function. If you're really stuck, just take it a step at a time. And always remember; if it seems like your code has ceased to follow logic, *go back to the basics.* Are your variables the right type? Have you checked with `GETTYPE` to be sure? Are they all spelled correctly? Did you know you can double click words in NotePad++ to highlight them, and other words that are spelled exactly the same will also be highlighted? If your changes don't seem to be taking effect at all, are you positive you're editing in the right files and not a duplicate or a backup? Have you triple checked that?
 
