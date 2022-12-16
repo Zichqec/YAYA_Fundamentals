@@ -93,7 +93,7 @@ The above function will output `1`, since `_i` is equal to `10`, even though it'
 Use whichever of these makes more sense to you. You may find that it varies depending on what sort of function you're writing.
 
 
-Finally, there is one more set of operators, which are for strings. The `_in_` operator can be used to check if a string is within another string, and `!_in_` can likewise be used to check if a string is *not* within another string.
+Finally, there is one more set of operators, which are for strings. The `_in_` operator can be used to check if a string is within another string, and `!_in_` can likewise be used to check if a string is *not* within another string. Note that this check is case sensitive.
 
 ```c
 OnStringIn
