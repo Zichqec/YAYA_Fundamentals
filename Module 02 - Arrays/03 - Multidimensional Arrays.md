@@ -84,19 +84,21 @@ With the above function, `_colors[1][2]` would return `yellow`, since `cyan,mage
 
 Multidimensional arrays are a bit of a pain to work with at times, since you can't edit them directly. However, they do allow you to do very powerful things. Some purposes for multidimensional arrays:
 
+```
 • Storing several different pieces of data about multiple different characters, all in one array
 • A shop setup where each item is a part of an array, and also has an array of data specifying its price, flavor text, availability conditions, and more.
 • A todo list system, where the first element of each array is the name of the list, and each element after is a task to be completed
+```
 
 This is just a small sample of ideas to get you thinking, there are many more things you can do with this! Just make certain you pick good delimiters; if you are letting the user store arbitrary data in an array, you have to account for the fact that they just might input the character you are using as a delimiter, and break your whole setup. So, you need a plan to deal with that.
 
-I'll talk about it more in a future module, but C_BYTE1 is my favorite delimiter. In ghosts specifically, this sequence types a 0x01 character, which is something profoundly unlikely to end up in an input box somehow unless the user is deliberately trying to break things. The base dic files for ghosts use it for this reason, I believe. So, I have co-opted it into my own code.
+I'll talk about it more in a future module, but `C_BYTE1` is my favorite delimiter. In ghosts specifically, this sequence types a 0x01 character, which is something profoundly unlikely to end up in an input box somehow unless the user is deliberately trying to break things. The base dic files for ghosts use it for this reason, I believe. So, I have co-opted it into my own code.
 
 My other favorite is the `|` character, as you can see above. This one is a pretty good visual indicator of different elements, and for cases where you're not dealing with user input, it's usually sufficient. It doesn't appear in words or sentences, and it's not a valid character in filenames, which is very handy if you're dealing with files.
 
-Here is a real example of a SHIORI event that outputs a multidimensional array! A 3 dimensional array, in fact. In **OnNotifyDressupInfo**, a reference variable is generated for each dressup that the ghost has. So this is already one array, technically. (In YAYA, references *are* actually stored as an array, but we won't worry about that for now.) Then, each reference variable contains an array of data about that dressup. This information is delimited by C_BYTE1. And finally, the "option" section of each array may have multiple options. If so, these will be separated by commas.
+Here is a real example of a SHIORI event that outputs a multidimensional array! A 3 dimensional array, in fact. In **OnNotifyDressupInfo**, a reference variable is generated for each dressup that the ghost has. So this is already one array, technically. (In YAYA, references *are* actually stored as an array, but we won't worry about that for now.) Then, each reference variable contains an array of data about that dressup. This information is delimited by C_BYTE1. And finally, the "option" section of each array may have multiple options, which are delimited by commas.
 
-The following code combs through each reference to find all of the *active* dressups, and make a list of them in a new array.
+The following code combs through each reference to find all of the *active* dressups, and makes a list of them in a new array.
 
 ```c
 //Each reference has data stored in this order:
