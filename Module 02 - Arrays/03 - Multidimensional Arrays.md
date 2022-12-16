@@ -84,11 +84,11 @@ With the above function, `_colors[1][2]` would return `yellow`, since `cyan,mage
 
 Multidimensional arrays are a bit of a pain to work with at times, since you can't edit them directly. However, they do allow you to do very powerful things. Some purposes for multidimensional arrays:
 
-```
-• Storing several different pieces of data about multiple different characters, all in one array
-• A shop setup where each item is a part of an array, and also has an array of data specifying its price, flavor text, availability conditions, and more.
-• A todo list system, where the first element of each array is the name of the list, and each element after is a task to be completed
-```
+
+* Storing several different pieces of data about multiple different characters, all in one array
+* A shop setup where each item is a part of an array, and also has an array of data specifying its price, flavor text, availability conditions, and more.
+* A todo list system, where the first element of each array is the name of the list, and each element after is a task to be completed
+
 
 This is just a small sample of ideas to get you thinking, there are many more things you can do with this! Just make certain you pick good delimiters; if you are letting the user store arbitrary data in an array, you have to account for the fact that they just might input the character you are using as a delimiter, and break your whole setup. So, you need a plan to deal with that.
 
