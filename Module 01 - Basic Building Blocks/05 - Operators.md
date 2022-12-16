@@ -141,10 +141,10 @@ The above function will output a single string, `Hello, world!`
 
 If the types of your operands do not match (such as adding a string to an integer), the output will follow these rules:
 
-• Integers and real number operations will result in a real number.
-• Integers or real numbers added to strings will be converted to strings and concatenated.
-• Other operations on integers/real numbers and strings cannot be performed, and will return an empty string.
-• Comparison operators with integers/real numbers and strings will convert the numbers to strings and compare them according to lexicographical order.
+* Integers and real number operations will result in a real number.
+* Integers or real numbers added to strings will be converted to strings and concatenated.
+* Other operations on integers/real numbers and strings cannot be performed, and will return an empty string.
+* Comparison operators with integers/real numbers and strings will convert the numbers to strings and compare them according to lexicographical order.
 
 
 There are other types of operators, mostly to do with comparing values as mentioned in that last example, but we'll cover those soon.

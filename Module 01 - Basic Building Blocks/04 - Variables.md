@@ -52,10 +52,10 @@ The above function will output `Hello, world!`
 
 Variable names are pretty flexible, but there are a few rules you must follow:
 
-	• They cannot begin with a number
-	• They cannot exactly match the names of reserved words (like if, else, etc)
-	• They cannot match the names of existing functions
-	• They cannot contain spaces or the following characters:
+* They cannot begin with a number
+* They cannot exactly match the names of reserved words (like if, else, etc)
+* They cannot match the names of existing functions
+* They cannot contain spaces or the following characters:
 
 ```
 ! " # $ % & ( ) * + , - / : ; < = > ? @ [ ] ` { | }

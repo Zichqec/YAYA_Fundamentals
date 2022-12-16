@@ -20,11 +20,11 @@ OnHelloWorld
 ```
 
 Function names follow a few rules:
-	• Function names are case sensitive, so somefunction is not the same as SomeFunction
-	• They cannot start with underscores or numbers
-	• You can use alphanumeric characters, underscores, and periods as part of a function name, but it's best to avoid any other symbols
-	• Spaces are not permitted
-	• The names of functions also can't match words reserved for other code structures that we will see in future lessons, like `if` and `else`
+* Function names are case sensitive, so somefunction is not the same as SomeFunction
+* They cannot start with underscores or numbers
+* You can use alphanumeric characters, underscores, and periods as part of a function name, but it's best to avoid any other symbols
+* Spaces are not permitted
+*  The names of functions also can't match words reserved for other code structures that we will see in future lessons, like `if` and `else`
 
 
 The position of the brackets is very flexible. So long as there is a function name and an opening and closing bracket, with all of the code contained inside those brackets, it's valid. Here are some examples of valid functions that are arranged differently.

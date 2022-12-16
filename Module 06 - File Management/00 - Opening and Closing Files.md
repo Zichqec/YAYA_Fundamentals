@@ -97,9 +97,9 @@ The `|` character is not valid to use in filenames, so no matter what the names 
 
 But why would someone want to edit a file? There are plenty of reasons! Here are some examples:
 
-• Saving data about something the user has used your ghost to create so that they can load it later or share with someone else by sending the file
-• Downloading a file from the internet, then reading its contents to gather some sort of information (like weather data! this is called **scraping**)
-• Loading an external dictionary of some sort
+* Saving data about something the user has used your ghost to create so that they can load it later or share with someone else by sending the file
+* Downloading a file from the internet, then reading its contents to gather some sort of information (like weather data! this is called **scraping**)
+* Loading an external dictionary of some sort
 
 Working with files can be a little intimidating at first, but if you take it a step at a time you can make some really neat things.
 

@@ -194,11 +194,11 @@ Arrays are so important if you want to do anything complicated. They are one of 
 
 So, what might you want to do with an array? There are lots of things. Here are a few things I've used them for in my own ghosts:
 
-• Flexible inventory system where items can be added when bought and removed once used
-• Lists of available shells/dressups, for display in menus
-• Tracking a list of what actions the user has done at least once in the day, so that they can be given extra friendship points/money the first time they do them (think daily activities)
-• Tracking a list of what songs the user has played for the ghost, so that the ghost can remember and comment on songs it has heard before
-• Creating a whole system of custom word lists the user can create, for use in minigames like hangman and word search
+* Flexible inventory system where items can be added when bought and removed once used
+* Lists of available shells/dressups, for display in menus
+* Tracking a list of what actions the user has done at least once in the day, so that they can be given extra friendship points/money the first time they do them (think daily activities)
+* Tracking a list of what songs the user has played for the ghost, so that the ghost can remember and comment on songs it has heard before
+* Creating a whole system of custom word lists the user can create, for use in minigames like hangman and word search
 
 As you can see, there's *tons* of potential! The full potential of arrays will be unlocked once we start talking about loops in the next module, but for now, here's a simple example:
 
