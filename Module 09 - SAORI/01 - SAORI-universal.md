@@ -17,13 +17,25 @@ OnWindowInfoExample
 	_num = FUNCTIONEX("saori/window_info.dll","enum")
 	_open_windows = valueex
 	
-	"You have %(_num) windows open!\n\n\_?%(_open_windows)\_?"
+	//Check if the folder of the companion ghost is open, or if a file is open in an editor like NotePad++
+	_lessons_open = 0
+	foreach _open_windows; _window
+	{
+		if "\yaya_fundamentals\ghost\master\lessons\module_" _in_ _window; _lessons_open = 1
+	}
+	
+	"You have %(_num) windows open!"
+	--
+	if _lessons_open
+	{
+		" Including a lesson file or folder from the YAYA Fundamentals ghost!"
+	}
 }
 ```
 
 [Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M9.L1.WindowInfoExample)
 
-The above function will get a list of what windows the user has open, then inform them of the number of windows and the names of each.
+The above function will get a list of what windows the user has open, then inform them of the number of windows. It will add an additional comment if the user has one of the lesson files/folders from the YAYA Fundamentals ghost open.
 
 [Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2009%20-%20SAORI/02%20-%20SAORI-basic.md)
 
