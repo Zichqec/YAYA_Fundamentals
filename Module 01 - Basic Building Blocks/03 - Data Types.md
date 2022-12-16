@@ -6,6 +6,8 @@
 
 YAYA supports 4 data types, which we will cover here. There are different **types** of information, which affects what operations can be performed on them. In general; number types can be used for math, while string types hold text. More on this when we learn how to actually do stuff with this data.
 
+## Numbers
+
 First of all, there are integers. Integers are whole numbers, and can be positive or negative. Versions of YAYA from Tc566-1 and later use 64-bit integers, but older versions used 32-bit.
 
 ```c
@@ -59,6 +61,7 @@ Note that you must always write a decimal point if you want a real number, even 
 
 Also notice that there are four 0s appended to the end of the number. This is because YAYA always puts 6 digits after the decimal point, no more and no less.
 
+## Strings
 
 Next, there are the different string types. Strings can be any characters, enclosed in quotes.
 
@@ -150,6 +153,8 @@ The above function will output `Hello, world!`
 
 
 Finally, there are "Heredocuments", which could be considered raw strings. These are written over multiple lines, and any linebreaks add the character CRLF (Carriage Return + Line Feed, which are, simply, invisible characters that make linebreaks). These can be written with both double quote style strings and single quote style strings.
+
+## Heredocuments
 
 ```c
 OnDoubleQuoteHeredocument
