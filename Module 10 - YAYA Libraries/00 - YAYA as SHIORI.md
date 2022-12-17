@@ -1,8 +1,8 @@
 # Lesson 00 - YAYA as SHIORI
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/01%20-%20YAYA%20as%20Other%20Things.md)
+[Next lesson >>](../module_10_yaya_libraries/01_yaya_as_other_things.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2009%20-%20SAORI/02%20-%20SAORI-basic.md)
+[<< Previous module](../module_09_saori/02_saori-basic.md)
 
 As mentioned at the start, YAYA is not strictly for ghosts. As a matter of fact, YAYA can be used as a general purpose coding language completely unrelated to ukagaka. This means that, for the purposes of ghost making, or making anything else ukagaka-related, it is helpful to have a library to handle things like SHIORI events and making references and such.
 
@@ -166,6 +166,6 @@ OnCheckFriendship
 
 It's not that big of a change, but it may be tedious depending on how much code you have to convert. If you are writing code to share with others, it is best to write with auto type convert off, so that it is guaranteed to work for everyone. Premade code that doesn't explicitly convert the types of references this way will only work in ghosts that are using auto type convert.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/01%20-%20YAYA%20as%20Other%20Things.md)
+[Next lesson >>](../module_10_yaya_libraries/01_yaya_as_other_things.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2009%20-%20SAORI/02%20-%20SAORI-basic.md)
+[<< Previous module](../module_09_saori/02_saori-basic.md)

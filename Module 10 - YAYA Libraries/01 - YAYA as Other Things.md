@@ -1,8 +1,8 @@
 # Lesson 01 - YAYA as Other Things
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/00%20-%20Peeking%20Behind%20the%20Curtain.md)
+[Next module >>](../module_11_debugging/00_peeking_behind_the_curtain.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)
+[<< Previous lesson](../module_10_yaya_libraries/00_yaya_as_shiori.md)
 
 YAYA can be used for more than SHIORI. It can be used to make SAORI, Plugins, MAKOTO, and as mentioned, even be used as a general windows dll.
 
@@ -20,6 +20,6 @@ There is also more information on [YAYA as a windows dll](https://emily.shillest
 
 Make sure to read the specific instructions that come with each of these. They all use YAYA, but they will have their own quirks. For example, YAYA as Plugin does not make the `reference0`, `reference1`, etc. variables. It only uses the reference array.
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/00%20-%20Peeking%20Behind%20the%20Curtain.md)
+[Next module >>](../module_11_debugging/00_peeking_behind_the_curtain.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2010%20-%20YAYA%20Libraries/00%20-%20YAYA%20as%20SHIORI.md)
+[<< Previous lesson](../module_10_yaya_libraries/00_yaya_as_shiori.md)
