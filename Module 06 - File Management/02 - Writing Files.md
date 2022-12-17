@@ -1,8 +1,8 @@
 # Lesson 02 - Writing Files
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/03%20-%20Deleting%20Files%20and%20Working%20with%20Directories.md)
+[Next lesson >>](../module_06_file_management/03_deleting_files_and_working_with_directories.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/01%20-%20Reading%20Files.md)
+[<< Previous lesson](../module_06_file_management/01_reading_files.md)
 
 Writing files is similar to reading them. You have two choices of mode here. As mentioned before, opening a file that doesn't exist in `write` or `append` mode will create a new file. Meanwhile, opening an *existing* file in `write` mode will erase the current contents and start fresh, while opening an existing file in `append` mode will keep the contents and let you add onto the end of the existing file.
 
@@ -77,6 +77,6 @@ OnSaveDesignFile
 
 This function first writes a couple of lines that will always be there, and then it writes an arbitrary amount of lines based on how many dressups are currently applied to the ghost (since the dressups handle the designs).
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/03%20-%20Deleting%20Files%20and%20Working%20with%20Directories.md)
+[Next lesson >>](../module_06_file_management/03_deleting_files_and_working_with_directories.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/01%20-%20Reading%20Files.md)
+[<< Previous lesson](../module_06_file_management/01_reading_files.md)

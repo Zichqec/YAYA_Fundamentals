@@ -1,8 +1,8 @@
 # Lesson 03 - Deleting Files and Working with Directories
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/00%20-%20What%20Is%20Regex.md)
+[Next module >>](../module_07_regular_expressions/00_what_is_regex.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/02%20-%20Writing%20Files.md)
+[<< Previous lesson](../module_06_file_management/02_writing_files.md)
 
 Files can be deleted with the `FDEL` function. You should be very careful with this function, as files deleted this way are not sent to the recycling bin. Don't delete anything important.
 
@@ -103,6 +103,6 @@ OnSaveCharacter
 }
 ```
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/00%20-%20What%20Is%20Regex.md)
+[Next module >>](../module_07_regular_expressions/00_what_is_regex.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/02%20-%20Writing%20Files.md)
+[<< Previous lesson](../module_06_file_management/02_writing_files.md)

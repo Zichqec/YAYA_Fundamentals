@@ -1,8 +1,8 @@
 # Lesson 01 - Reading Files
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/02%20-%20Writing%20Files.md)
+[Next lesson >>](../module_06_file_management/02_writing_files.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/00%20-%20Opening%20and%20Closing%20Files.md)
+[<< Previous lesson](../module_06_file_management/00_opening_and_closing_files.md)
 
 Once a file has been opened in read mode (or one of the random modes), each line of the file can be read one at a time with `FREAD`. You must again send the filepath of the file you want to read as an argument.
 
@@ -64,6 +64,6 @@ OnLoadPlaylist
 }
 ```
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/02%20-%20Writing%20Files.md)
+[Next lesson >>](../module_06_file_management/02_writing_files.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/00%20-%20Opening%20and%20Closing%20Files.md)
+[<< Previous lesson](../module_06_file_management/00_opening_and_closing_files.md)

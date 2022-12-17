@@ -1,8 +1,8 @@
 # Lesson 00 - Opening and Closing Files
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/01%20-%20Reading%20Files.md)
+[Next lesson >>](../module_06_file_management/01_reading_files.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/05%20-%20EVAL.md)
+[<< Previous module](../module_05_common_functions/05_eval.md)
 
 Reading and writing files is an essential part of any programming language. YAYA does this through a few inbuilt functions. We will cover the basic ones here, but there are more available on the AYAYA wiki for more complicated operations.
 
@@ -151,6 +151,6 @@ OnPlaylistName //After the user types a name
 
 This uses a slightly different method of checking if the file was saved successfully. It also checks if a file of the same name exists before it opens it, that way the user doesn't accidentally overwrite an old playlist!
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2006%20-%20File%20Management/01%20-%20Reading%20Files.md)
+[Next lesson >>](../module_06_file_management/01_reading_files.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/05%20-%20EVAL.md)
+[<< Previous module](../module_05_common_functions/05_eval.md)
