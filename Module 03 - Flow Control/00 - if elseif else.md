@@ -1,8 +1,8 @@
 # Lesson 00 - if elseif else
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/01%20-%20case%20when%20others.md)
+[Next lesson >>](../module_03_flow_control/01_case_when_others.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/03%20-%20Multidimensional%20Arrays.md)
+[<< Previous module](../module_02_arrays/03_multidimensional_arrays.md)
 
 The most basic part of flow control is if/elseif/else. This is the simplest structure, but also incredibly powerful. First, we will cover the `if` statement.
 
@@ -421,6 +421,6 @@ This has the same effect as the code above, it just takes some extra steps.
 
 That is not to say you should *never* write that way. Sometimes the additional clarity is good and necessary! But I think it's good to understand how this sort of thing works, because it gives you more flexibility.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/01%20-%20case%20when%20others.md)
+[Next lesson >>](../module_03_flow_control/01_case_when_others.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/03%20-%20Multidimensional%20Arrays.md)
+[<< Previous module](../module_02_arrays/03_multidimensional_arrays.md)

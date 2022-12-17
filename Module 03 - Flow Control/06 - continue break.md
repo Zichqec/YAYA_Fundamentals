@@ -1,8 +1,8 @@
 # Lesson 06 - continue break
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/07%20-%20return%20and%20Output%20Candidates.md)
+[Next lesson >>](../module_03_flow_control/07_return_and_output_candidates.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/05%20-%20foreach%20Loops.md)
+[<< Previous lesson](../module_03_flow_control/05_foreach_loops.md)
 
 In addition to the different types of loops, there are also two keywords that can be used to control them more finely.
 
@@ -124,6 +124,6 @@ This loop runs once for each set of tags that the developer has set up for use a
 Note that these things could also be done as an if check, where if the condition is not true, then everything inside the if check is simply skipped. But, that would impact the whitespace, and in a loop as long as this one is, that's not desirable. You may hear opinions to the contrary though, so it's kind of up to you which method you are more comfortable with.
 
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/07%20-%20return%20and%20Output%20Candidates.md)
+[Next lesson >>](../module_03_flow_control/07_return_and_output_candidates.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/05%20-%20foreach%20Loops.md)
+[<< Previous lesson](../module_03_flow_control/05_foreach_loops.md)
