@@ -2,7 +2,7 @@
 
 [You did it! Congrats on reaching the end!]()
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2012%20-%20Final%20Thoughts/00%20-%20What%20To%20Do%20Next.md)
+[<< Previous lesson](../module_12_final_thoughts/00_what_to_do_next.md)
 
 And that's the end of this YAYA course! I hope it was helpful to you. I highly recommend rereading any portions that you're not so sure about, and I always welcome questions. You can also look at the [AYAYA wiki's guide](https://emily.shillest.net/ayaya/index.php?%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB/%E6%96%87%E6%B3%95) to YAYA's syntax. If my way of wording things and my examples didn't make sense for you, then maybe theirs will! Even though I always have to run it through a machine translator, it's been a very helpful resource for me.
 
@@ -14,4 +14,4 @@ Happy coding!
 
 [You did it! Congrats on reaching the end!]()
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2012%20-%20Final%20Thoughts/00%20-%20What%20To%20Do%20Next.md)
+[<< Previous lesson](../module_12_final_thoughts/00_what_to_do_next.md)
