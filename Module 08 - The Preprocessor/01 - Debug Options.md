@@ -1,8 +1,8 @@
 # Lesson 01 - Debug Options
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2009%20-%20SAORI/00%20-%20What%20are%20SAORI.md)
+[Next module >>](../module_09_saori/00_what_are_saori.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2008%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)
+[<< Previous lesson](../module_08_the_preprocessor/00_what_is_the_preprocessor.md)
 
 Additionally, there are a couple of options in the preprocessor for debugging. The first is `__AYA_SYSTEM_FILE__`, which will output the relative filepath of the file the current function is executing from, from yaya.dll. Note that it outputs this as raw text, so you must surround it in quotation marks to make it a string.
 
@@ -56,6 +56,6 @@ OnSystemFile
 
 It can't make any sense of that! So you have to add the quotes yourself.
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2009%20-%20SAORI/00%20-%20What%20are%20SAORI.md)
+[Next module >>](../module_09_saori/00_what_are_saori.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2008%20-%20The%20Preprocessor/00%20-%20What%20is%20the%20Preprocessor.md)
+[<< Previous lesson](../module_08_the_preprocessor/00_what_is_the_preprocessor.md)

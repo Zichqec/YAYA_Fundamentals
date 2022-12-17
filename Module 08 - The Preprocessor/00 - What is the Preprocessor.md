@@ -1,8 +1,8 @@
 # Lesson 00 - What is the Preprocessor
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2008%20-%20The%20Preprocessor/01%20-%20Debug%20Options.md)
+[Next lesson >>](../module_08_the_preprocessor/01_debug_options.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/04%20-%20More%20on%20the%20Subject.md)
+[<< Previous module](../module_07_regular_expressions/04_more_on_the_subject.md)
 
 The **preprocessor** is a way of modifying your code before it is ever run. It can be used for all kinds of things, from changing how you write certain syntax, to replacing old function names, to setting options to be used elsewhere in the file.
 
@@ -78,6 +78,6 @@ The preprocessor is a handy thing to know about, even if you never personally us
 
 We'll cover what these are for in a later module!
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2008%20-%20The%20Preprocessor/01%20-%20Debug%20Options.md)
+[Next lesson >>](../module_08_the_preprocessor/01_debug_options.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/04%20-%20More%20on%20the%20Subject.md)
+[<< Previous module](../module_07_regular_expressions/04_more_on_the_subject.md)
