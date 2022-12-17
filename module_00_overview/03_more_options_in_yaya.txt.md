@@ -1,8 +1,8 @@
 # Lesson 03 - More Options in yaya.txt
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
+[Next module >>](../module_01_basic_building_blocks/00_function_structure.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/02%20-%20Initial%20Setup.md)
+[<< Previous lesson](../module_00_overview/02_initial_setup.md)
 
 I am noting these options because they appear in the base dic files for most ghosts. You can see all the options on [AYAYA](https://emily.shillest.net/ayaya/index.php?cmd=read&page=%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%2F%E6%96%87%E6%B3%95%2F1.%E5%9F%BA%E7%A4%8E%E8%A8%AD%E5%AE%9A).
 
@@ -44,6 +44,6 @@ include, system_config.txt
 
 Now system_config.txt can be used to write options the same way as yaya.txt. You could use this, for example, if you wanted to keep the section for loading your dic files separate from other configurations.
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
+[Next module >>](../module_01_basic_building_blocks/00_function_structure.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/02%20-%20Initial%20Setup.md)
+[<< Previous lesson](../module_00_overview/02_initial_setup.md)
