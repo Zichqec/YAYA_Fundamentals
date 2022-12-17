@@ -1,8 +1,8 @@
 # Lesson 05 - Operators
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+[Next lesson >>](../module_01_basic_building_blocks/06_order_of_operations.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/04_variables.md)
 
 To make good use of variables, we need to be able to do more than just directly assign values to them. YAYA comes with a list of different operators, most of which are pretty straightforward. Note: operators are not just for variables! They're also often used for checks, or with functions/plain numbers instead of variables.
 
@@ -217,6 +217,6 @@ OnMouseMove
 
 Here, we have added an extra check. If we divide the stroke variable by 40, we get the number of total pets that the user has performed in a row (since stroke resets when the mouse leaves the hitbox). So, we check if that number is 5 or higher, and if so, we give an alternative comment. A very simple implementation of a continuous-petting feature!
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+[Next lesson >>](../module_01_basic_building_blocks/06_order_of_operations.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/04_variables.md)

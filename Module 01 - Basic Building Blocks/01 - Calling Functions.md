@@ -1,8 +1,8 @@
 # Lesson 01 - Calling Functions
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
+[Next lesson >>](../module_01_basic_building_blocks/02_comments.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/00_function_structure.md)
 
 Most programming languages have a `main` function, which is called when the program starts. YAYA does not have a main function, and instead it needs 3 functions to be able to run; `load`, which is called when YAYA loads; `unload`, which is called when YAYA unloads; and `request`, which is called anytime the baseware sends a SHIORI request.
 
@@ -128,6 +128,6 @@ BackButtons
 
 It may not seem like such a big deal in this example, but imagine if your ghost had a menu with *20* items. The bigger and more complicated your menus and functions become, the more important this concept becomes, both for saving you a lot of tedious work and for avoiding bugs!
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
+[Next lesson >>](../module_01_basic_building_blocks/02_comments.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/00%20-%20Function%20Structure.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/00_function_structure.md)

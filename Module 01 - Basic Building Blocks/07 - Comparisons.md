@@ -1,8 +1,8 @@
 # Lesson 07 - Comparisons
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/08%20-%20Logical%20Operators.md)
+[Next lesson >>](../module_01_basic_building_blocks/08_logical_operators.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/06_order_of_operations.md)
 
 Next, we need to know about comparison operators. These are operators that compare two values, and tell you if their comparison is true or not. The most basic of these is the equality operator, `==`.
 
@@ -153,6 +153,6 @@ else
 
 Well, whether the inclusive operator makes more sense here is up to individual preference, I'm sure. But for me, I definitely prefer seeing the round number 100 there instead of having to write `if friendship > 99`. It just makes the numbers easier to work with in my head!
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/08%20-%20Logical%20Operators.md)
+[Next lesson >>](../module_01_basic_building_blocks/08_logical_operators.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/06%20-%20Order%20of%20Operations.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/06_order_of_operations.md)

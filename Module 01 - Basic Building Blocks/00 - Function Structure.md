@@ -1,8 +1,8 @@
 # Lesson 00 - Function Structure
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
+[Next lesson >>](../module_01_basic_building_blocks/01_calling_functions.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/03%20-%20More%20Options%20in%20yaya.txt.md)
+[<< Previous module](../module_00_overview/03_more_options_in_yaya.txt.md)
 
 Alright, on to actually writing some code! First of all, we will learn about functions. Functions are blocks of code that will be executed when they are called by their name. This could be anything; from a menu, to some kind of mathematical calculation, to a list of words that will be picked from randomly. Anything and everything happens inside of functions, the sky is the limit.
 
@@ -130,6 +130,6 @@ Note the forward slashes at the end of each line! Even though this is written ac
 
 This is a much more natural way to read your menu script than to have it all on one line. Note that there are some other ways to accomplish this effect, but we'll get to them later.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
+[Next lesson >>](../module_01_basic_building_blocks/01_calling_functions.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/03%20-%20More%20Options%20in%20yaya.txt.md)
+[<< Previous module](../module_00_overview/03_more_options_in_yaya.txt.md)

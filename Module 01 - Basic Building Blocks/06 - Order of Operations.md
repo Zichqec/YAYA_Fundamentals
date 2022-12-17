@@ -1,8 +1,8 @@
 # Lesson 06 - Order of Operations
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)
+[Next lesson >>](../module_01_basic_building_blocks/07_comparisons.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/05%20-%20Operators.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/05_operators.md)
 
 Different operations have different levels of priority. Multiplication, division, and modulus have higher priority than addition and subtraction, which have higher priority than assignment.
 
@@ -58,6 +58,6 @@ Order of operations can be tricky. Unfortunately, I don't really have a good con
 
 If you've got a good example of order of operations that I could show here, particularly with nesting in parenthesis, do get in touch.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)
+[Next lesson >>](../module_01_basic_building_blocks/07_comparisons.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/05%20-%20Operators.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/05_operators.md)

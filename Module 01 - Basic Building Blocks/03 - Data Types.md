@@ -1,8 +1,8 @@
 # Lesson 03 - Data Types
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
+[Next lesson >>](../module_01_basic_building_blocks/04_variables.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/02_comments.md)
 
 YAYA supports 4 data types, which we will cover here. There are different **types** of information, which affects what operations can be performed on them. In general; number types can be used for math, while string types hold text. More on this when we learn how to actually do stuff with this data.
 
@@ -274,6 +274,6 @@ needleascii
 
 The `C_CRLF` here is a part of the YAYA as SHIORI library, which we'll cover in a future module. It just places a CR and a LF character.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/04%20-%20Variables.md)
+[Next lesson >>](../module_01_basic_building_blocks/04_variables.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/02%20-%20Comments.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/02_comments.md)

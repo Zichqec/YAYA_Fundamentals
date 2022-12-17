@@ -1,8 +1,8 @@
 # Lesson 02 - Comments
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/03%20-%20Data%20Types.md)
+[Next lesson >>](../module_01_basic_building_blocks/03_data_types.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/01_calling_functions.md)
 
 Comments are a simple concept, but they are an important one. Comments are text in the code that is not executed, but instead is there for your reference. They are also important for helping others understand your code. YAYA has two different kinds of comments; single line comments and block comments.
 
@@ -83,6 +83,6 @@ CalculateDistance
 
 There aren't any hard rules for how to come up with names for functions (other than the restrictions mentioned in the function structure lesson), just pick what makes the most sense to you and try to stick with it.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/03%20-%20Data%20Types.md)
+[Next lesson >>](../module_01_basic_building_blocks/03_data_types.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/01%20-%20Calling%20Functions.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/01_calling_functions.md)

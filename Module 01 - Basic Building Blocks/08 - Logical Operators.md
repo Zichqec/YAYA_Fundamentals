@@ -1,8 +1,8 @@
 # Lesson 08 - Logical Operators
 
-[Next Module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/00%20-%20General%20Purpose%20Arrays%20Pt%201.md)
+[Next Module >>](../module_02_arrays/00_general_purpose_arrays_pt_1.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/07_comparisons.md)
 
 Now then, we know all of the comparison operators, but right now they are very simple. What if we need to check multiple things at once? There are a few additional operators to help with this.
 
@@ -150,6 +150,6 @@ Here's another example of the semicolons from way back at the start of this modu
 
 Anyways, in relation to this lesson, you can see this is a way to use the && operator. Using it in conjunction with the less than and greater than operators is a way to express a range of numbers.
 
-[Next Module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/00%20-%20General%20Purpose%20Arrays%20Pt%201.md)
+[Next Module >>](../module_02_arrays/00_general_purpose_arrays_pt_1.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/07%20-%20Comparisons.md)
+[<< Previous Lesson](../module_01_basic_building_blocks/07_comparisons.md)
