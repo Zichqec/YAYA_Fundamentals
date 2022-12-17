@@ -1,8 +1,8 @@
 # Lesson 00 - General Purpose Arrays Part 1
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/01%20-%20General%20Purpose%20Arrays%20Pt%202.md)
+[Next lesson >>](../module_02_arrays/01_general_purpose_arrays_pt_2.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/08%20-%20Logical%20Operators.md)
+[<< Previous module](../module_01_basic_building_blocks/08_logical_operators.md)
 
 Arrays, in short, are lists of values. In YAYA, there are (currently) two different types of arrays. The first one we will focus on is **general purpose arrays**, which are similar to what you will find in other programming languages.
 
@@ -234,6 +234,6 @@ ingredients
 }
 ```
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/01%20-%20General%20Purpose%20Arrays%20Pt%202.md)
+[Next lesson >>](../module_02_arrays/01_general_purpose_arrays_pt_2.md)
 
-[<< Previous module](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2001%20-%20Basic%20Building%20Blocks/08%20-%20Logical%20Operators.md)
+[<< Previous module](../module_01_basic_building_blocks/08_logical_operators.md)

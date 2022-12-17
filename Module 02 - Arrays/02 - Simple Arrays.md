@@ -1,8 +1,8 @@
 # Lesson 02 - Simple Arrays
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/03%20-%20Multidimensional%20Arrays.md)
+[Next lesson >>](../module_02_arrays/03_multidimensional_arrays.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/01%20-%20General%20Purpose%20Arrays%20Pt%202.md)
+[<< Previous Lesson](../module_02_arrays/01_general_purpose_arrays_pt_2.md)
 
 The other type of array is called a "simple" array. These arrays are just strings, but by adding indices, you can have YAYA treat the content of the string as different elements. By default, strings are **delimited** by commas, which means that the string is split up into elements by commas. Note also that these arrays will *only* store values as strings, they will not store any other data types.
 
@@ -98,6 +98,6 @@ WordDefinitions
 When should you use a general purpose array vs a simple array? Really, it's mostly up to you. If you need to store numbers, use a general purpose array. Otherwise, if you find a simple array is suitable for your needs and is quicker to type, then go for it. However, they do have one very important use that we will see in the next lesson, which general purpose arrays cannot do.
 
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/03%20-%20Multidimensional%20Arrays.md)
+[Next lesson >>](../module_02_arrays/03_multidimensional_arrays.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/01%20-%20General%20Purpose%20Arrays%20Pt%202.md)
+[<< Previous Lesson](../module_02_arrays/01_general_purpose_arrays_pt_2.md)

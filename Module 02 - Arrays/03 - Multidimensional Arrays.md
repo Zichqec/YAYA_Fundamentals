@@ -1,8 +1,8 @@
 # Lesson 03 - Multidimensional Arrays
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/00%20-%20if%20elseif%20else.md)
+[Next module >>](../module_03_flow_control/00_if_elseif_else.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/02%20-%20Simple%20Arrays.md)
+[<< Previous Lesson](../module_02_arrays/02_simple_arrays.md)
 
 Finally, there are **multidimensional** arrays. YAYA does not (currently) support true multidimensional arrays, but you can use simple arrays like multidimensional arrays. A multidimensional array is an array where each element is itself another array.
 
@@ -120,6 +120,6 @@ OnNotifyDressupInfo
 
 The array created by this function will list each dressup by which character it belongs to, what category it's in, and what the name of that specific dressup is.
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/00%20-%20if%20elseif%20else.md)
+[Next module >>](../module_03_flow_control/00_if_elseif_else.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2002%20-%20Arrays/02%20-%20Simple%20Arrays.md)
+[<< Previous Lesson](../module_02_arrays/02_simple_arrays.md)
