@@ -1,8 +1,8 @@
 # Lesson 01 - What is YAYA
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/02%20-%20Initial%20Setup.md)
+[Next lesson >>](../module_00_overview/02_initial_setup.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/00%20-%20What%20is%20this%20guide.md)
+[<< Previous Lesson](../module_00_overview/00_what_is_this_guide.md)
 
 YAYA is a simplified programming language based on C for the purpose of creating Ukagaka, also known as Ghosts. It is a continuation of the AYA language. If you're looking for a guide on general ghost making, try Zarla's guide [right here.](http://ashido.com/ukagaka/) It's a great resource to get you started.
 
@@ -47,6 +47,6 @@ SakuraScript is a system of tags, which you can use in your scripts to make the 
 
 We will have to go over a little SakuraScript at some points, but I'll explain it when we get there. For now, just know that text within double quotes `"` or single quotes `'` can contain SakuraScript.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/02%20-%20Initial%20Setup.md)
+[Next lesson >>](../module_00_overview/02_initial_setup.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/00%20-%20What%20is%20this%20guide.md)
+[<< Previous Lesson](../module_00_overview/00_what_is_this_guide.md)
