@@ -1,8 +1,8 @@
 # Lesson 01 - Type Manipulation
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/02%20-%20Variable%20Manipulation.md)
+[Next lesson >>](../module_05_common_functions/02_variable_manipulation.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/00%20-%20String%20Manipulation.md)
+[<< Previous lesson](../module_05_common_functions/00_string_manipulation.md)
 
 Next up is type manipulation. Sometimes, you have variables stored as one type, and you need to convert them to another.
 
@@ -124,6 +124,6 @@ OnEditMultiArray
 
 Here's a modified version of an example used back in the arrays module. You can see that this time, I use SPLIT and TOSTR to convert it to a general purpose array (so I can use IARRAY) and then back again.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/02%20-%20Variable%20Manipulation.md)
+[Next lesson >>](../module_05_common_functions/02_variable_manipulation.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/00%20-%20String%20Manipulation.md)
+[<< Previous lesson](../module_05_common_functions/00_string_manipulation.md)

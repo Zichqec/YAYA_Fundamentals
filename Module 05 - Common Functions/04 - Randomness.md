@@ -1,8 +1,8 @@
 # Lesson 04 - Randomness
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/05%20-%20EVAL.md)
+[Next lesson >>](../module_05_common_functions/05_eval.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/03%20-%20Array%20Manupulation.md)
+[<< Previous lesson](../module_05_common_functions/03_array_manupulation.md)
 
 There is no true randomness in programming. Not without using something like random.org's atmospheric noise randomness. However, YAYA has pseudo-randomness that gets close enough for most purposes that you'll probably be using this language for.
 
@@ -182,6 +182,6 @@ OnRandom
 
 Much better, right? Now the number is consistent throughout.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/05%20-%20EVAL.md)
+[Next lesson >>](../module_05_common_functions/05_eval.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2005%20-%20Common%20Functions/03%20-%20Array%20Manupulation.md)
+[<< Previous lesson](../module_05_common_functions/03_array_manupulation.md)
