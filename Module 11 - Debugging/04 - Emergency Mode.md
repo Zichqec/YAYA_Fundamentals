@@ -1,8 +1,8 @@
 # Lesson 04 - Emergency Mode
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2012%20-%20Final%20Thoughts/00%20-%20What%20To%20Do%20Next.md)
+[Next module >>](../module_12_final_thoughts/00_what_to_do_next.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/03%20-%20Common%20Error%20Messages.md)
+[<< Previous lesson](../module_11_debugging/03_common_error_messages.md)
 
 There is one more thing you should know about for debugging. This will make it possible to view error messages directly in SSP's error log, rather than needing Tama.
 
@@ -16,6 +16,6 @@ Note that by default, it will only be able to display up to 256 errors (this inc
 
 Also note that the YAYA as SHIORI library in particular will automatically output errors to the error log. If you are using another library, you may have to set up this functionality yourself. I would recommend running a search in the files of YAYA as SHIORI for `GETERRORLOG`, and see how it handles this.
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2012%20-%20Final%20Thoughts/00%20-%20What%20To%20Do%20Next.md)
+[Next module >>](../module_12_final_thoughts/00_what_to_do_next.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/03%20-%20Common%20Error%20Messages.md)
+[<< Previous lesson](../module_11_debugging/03_common_error_messages.md)

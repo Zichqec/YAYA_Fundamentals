@@ -1,8 +1,8 @@
 # Lesson 01 - LOGGING
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/02%20-%20Dissecting%20Error%20Messages.md)
+[Next lesson >>](../module_11_debugging/02_dissecting_error_messages.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/00%20-%20Peeking%20Behind%20the%20Curtain.md)
+[<< Previous lesson](../module_11_debugging/00_peeking_behind_the_curtain.md)
 
 `LOGGING` is a function that simply outputs whatever value you give it to the SHIORI log. That means you can output notes, the values of variables, etc.
 
@@ -62,6 +62,6 @@ With some practice and a little patience, you can solve many, many issues with t
 
 I have personally had *many* experiences where I was stuck on a problem for hours, only to find the solution was something extremely basic that I had overlooked. Always check your basics first.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/02%20-%20Dissecting%20Error%20Messages.md)
+[Next lesson >>](../module_11_debugging/02_dissecting_error_messages.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2011%20-%20Debugging/00%20-%20Peeking%20Behind%20the%20Curtain.md)
+[<< Previous lesson](../module_11_debugging/00_peeking_behind_the_curtain.md)
