@@ -1,8 +1,8 @@
 # Lesson 02 - Initial Setup
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/03%20-%20More%20Options%20in%20yaya.txt.md)
+[Next lesson >>](../module_00_overview/03_more_options_in_yaya.txt.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/01%20-%20What%20is%20YAYA.md)
+[<< Previous Lesson](../module_00_overview/01_what_is_yaya.md)
 
 
 If you're using a template ghost, the initial steps here will likely be taken care of for you. But in case there is anything you need to change, we will go over the basics anyways. It's been my experience with other coding guides that they taught me the syntax, but not how to actually put it into practice. I hope this section will prevent you from having that same experience here. But if you already have a running ghost, you can skip it if you want.
@@ -56,6 +56,6 @@ This is a relative filepath. It goes up one folder from where `yaya.dll` is plac
 One final note. If you are getting errors when you try to load your ghost and you're not sure how to interpret them, check out module 11, which goes over errors. Just know for now that if you see `[SHIORI]Communication error. Possible file corruption.`, your files are almost certainly *not* corrupted, there is just an error and you need a tool to see what that error is.
 
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/03%20-%20More%20Options%20in%20yaya.txt.md)
+[Next lesson >>](../module_00_overview/03_more_options_in_yaya.txt.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2000%20-%20Overview/01%20-%20What%20is%20YAYA.md)
+[<< Previous Lesson](../module_00_overview/01_what_is_yaya.md)
