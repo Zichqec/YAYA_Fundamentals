@@ -1,8 +1,8 @@
 # Lesson 03 - Regex Functions
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/04%20-%20More%20on%20the%20Subject.md)
+[Next lesson >>](../module_07_regular_expressions/04_more_on_the_subject.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/02%20-%20Metacharacters.md)
+[<< Previous lesson](../module_07_regular_expressions/02_metacharacters.md)
 
 Now, to make use of all of these expressions you can write, YAYA has a few more functions. We've already covered `RE_MATCH`, which searches for an exact match to the regular expression, and `RE_SEARCH`, which searches for a partial match. There is also `RE_GREP`, which searches for all of the matches in a string, and outputs the count of matches.
 
@@ -137,6 +137,6 @@ The above function will output `1`
 
 We did it! That's all I'm going to show you about regex. And I'll be honest with you, I have never in my life used that `RE_OPTION` function except when testing it for this guide, so if you don't get it I wouldn't even worry about it. You can play with it if you ever get really into regex and find you need it.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/04%20-%20More%20on%20the%20Subject.md)
+[Next lesson >>](../module_07_regular_expressions/04_more_on_the_subject.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2007%20-%20Regular%20Expressions/02%20-%20Metacharacters.md)
+[<< Previous lesson](../module_07_regular_expressions/02_metacharacters.md)
