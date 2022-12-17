@@ -1,8 +1,8 @@
 # Lesson 08 - Brackets and Modifiers
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2004%20-%20Functions/00%20-%20Parameters.md)
+[Next module >>](../module_04_functions/00_parameters.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/07%20-%20return%20and%20Output%20Candidates.md)
+[<< Previous lesson](../module_03_flow_control/07_return_and_output_candidates.md)
 
 Finally, there are brackets, and with them function modifiers.
 
@@ -474,6 +474,6 @@ RandomTalk : nonoverlap
 
 *Much* better.
 
-[Next module >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2004%20-%20Functions/00%20-%20Parameters.md)
+[Next module >>](../module_04_functions/00_parameters.md)
 
-[<< Previous lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2003%20-%20Flow%20Control/07%20-%20return%20and%20Output%20Candidates.md)
+[<< Previous lesson](../module_03_flow_control/07_return_and_output_candidates.md)

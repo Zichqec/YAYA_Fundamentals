@@ -1,8 +1,8 @@
 # Lesson 01 - SHIORI Events vs Functions
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2004%20-%20Functions/02%20-%20Thinking%20with%20Functions.md)
+[Next lesson >>](../module_04_functions/02_thinking_with_functions.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2004%20-%20Functions/00%20-%20Parameters.md)
+[<< Previous Lesson](../module_04_functions/00_parameters.md)
 
 The other way to pass information is through **references**. references are technically not an inbuilt YAYA thing, and instead are something sent by the baseware (usually SSP). If you are using one of the YAYA libraries (and you almost certainly will be, we'll cover what this means later), then they will handle the references for you.
 
@@ -172,6 +172,6 @@ You can see that in `OnUserBornDay`, I use references, because this function is 
  
 However, IsValidDay is called as a normal function call, as part of an if statement. So, I use `_argv` because that's how my parameters will be sent.
 
-[Next lesson >>](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2004%20-%20Functions/02%20-%20Thinking%20with%20Functions.md)
+[Next lesson >>](../module_04_functions/02_thinking_with_functions.md)
 
-[<< Previous Lesson](https://github.com/Zichqec/YAYA_Fundamentals/blob/main/Module%2004%20-%20Functions/00%20-%20Parameters.md)
+[<< Previous Lesson](../module_04_functions/00_parameters.md)
