@@ -1,4 +1,6 @@
-# Lesson 03 - Pure Functions
+# Module 04 - Functions
+
+## Lesson 03 - Pure Functions
 
 [Next lesson >>](../module_04_functions/04_embedded_elements.md)
 
@@ -27,7 +29,7 @@ Pure functions are great for keeping your code clean, and having utility functio
 
 ---
 
-# Further Context
+## Further Context
 
 Pure functions are my favorite. They are beautiful things, and once you see the light you will never go back. Or at least, that's how it happened for me.
 

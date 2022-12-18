@@ -1,4 +1,6 @@
-# Lesson 01 - Character Sets
+# Module 07 - Regular Expressions
+
+## Lesson 01 - Character Sets
 
 [Next lesson >>](../module_07_regular_expressions/02_metacharacters.md)
 
@@ -73,7 +75,7 @@ The above function will output `1`. This expression could work with any phone nu
 
 ---
 
-# Further Context
+## Further Context
 
 That's right we're learning a whole other language in this guide. Except we're not and I'm only covering the basics.
 

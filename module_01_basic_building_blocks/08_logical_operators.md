@@ -1,4 +1,6 @@
-# Lesson 08 - Logical Operators
+# Module 01 - Basic Building Blocks
+
+## Lesson 08 - Logical Operators
 
 [Next Module >>](../module_02_arrays/00_general_purpose_arrays_pt_1.md)
 
@@ -129,7 +131,7 @@ The parenthesis in this case are used to make the `!` operator reverse the *outc
 
 ---
 
-# Further Context
+## Further Context
 
 Now I can properly show where inclusive operators are more useful! Here's an example that you can see in many ghosts, which breaks down the day into a few different blocks of time.
 

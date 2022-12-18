@@ -1,4 +1,6 @@
-# Lesson 00 - String Manipulation
+# Module 05 - Common Functions
+
+## Lesson 00 - String Manipulation
 
 [Next lesson >>](../module_05_common_functions/01_type_manipulation.md)
 
@@ -63,7 +65,7 @@ The above function will return the string `Hello, planet!`
 
 ---
 
-# Further Context
+## Further Context
 
 Using these functions is much like using your own functions, as we explored in the previous module! For example, let's say I wanted to do some checks on what name the user put in for themselves, to comment on specific names they may have chosen. It's much easier to do those checks if the name is all in lowercase (or uppercase), so that they can't get around name checks by putting in weird capitals! So, we can use TOLOWER to help:
 

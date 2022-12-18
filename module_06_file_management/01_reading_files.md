@@ -1,4 +1,6 @@
-# Lesson 01 - Reading Files
+# Module 06 - File Management
+
+## Lesson 01 - Reading Files
 
 [Next lesson >>](../module_06_file_management/02_writing_files.md)
 
@@ -39,7 +41,7 @@ The above function will output `Number of ""Hello, world!""s found in file: `, f
 
 ---
 
-# Further Context
+## Further Context
 
 The loop in the above function is a way to read every single line in a file. It initializes the variable `_f` to the first line of the file, and each time the loop repeats, it reads a new line, until `FREAD` returns `-1` which causes the loop to stop.
 

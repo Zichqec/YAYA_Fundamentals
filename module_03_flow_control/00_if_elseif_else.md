@@ -1,4 +1,6 @@
-# Lesson 00 - if elseif else
+# Module 03 - Flow Control
+
+## Lesson 00 - if elseif else
 
 [Next lesson >>](../module_03_flow_control/01_case_when_others.md)
 
@@ -187,7 +189,7 @@ This is purely an aesthetic choice, and makes no difference in how the code is r
 
 ---
 
-# Further Context
+## Further Context
 
 Now this is where things really start to get interesting! I have so much to talk about here.
 

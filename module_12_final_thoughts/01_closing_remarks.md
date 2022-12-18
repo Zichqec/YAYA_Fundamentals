@@ -1,4 +1,6 @@
-# 01 - Closing Remarks
+# Module 12 - Final Thoughts
+
+## 01 - Closing Remarks
 
 [You did it! Congrats on reaching the end!]()
 

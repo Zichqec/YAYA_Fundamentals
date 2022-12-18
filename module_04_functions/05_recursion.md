@@ -1,4 +1,6 @@
-# Lesson 05 - Recursion
+# Module 04 - Functions
+
+## Lesson 05 - Recursion
 
 [Next module >>](../module_05_common_functions/00_string_manipulation.md)
 
@@ -38,7 +40,7 @@ If you write `fncdepth,0`, there will be no upper limit, but if the call is too 
 
 ---
 
-# Further Context
+## Further Context
 
 If you're like me and you're not so great at math stuff, maybe this example will make more sense for you. It's a bit more complicated, but I'll break it down. This function is used to search a set of files to see if any are compatible for my music player setup. If there is a folder in the files, it will have to check the folder also. If there is a folder in that folder, then it should check *that* folder too... and you can see why recursion would be helpful!
 

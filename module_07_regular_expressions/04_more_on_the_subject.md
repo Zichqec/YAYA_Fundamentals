@@ -1,4 +1,6 @@
-# Lesson 04 - More on the Subject
+# Module 07 - Regular Expressions
+
+## Lesson 04 - More on the Subject
 
 [Next module >>](../module_08_the_preprocessor/00_what_is_the_preprocessor.md)
 

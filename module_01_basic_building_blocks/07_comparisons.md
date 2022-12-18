@@ -1,4 +1,6 @@
-# Lesson 07 - Comparisons
+# Module 01 - Basic Building Blocks
+
+## Lesson 07 - Comparisons
 
 [Next lesson >>](../module_01_basic_building_blocks/08_logical_operators.md)
 
@@ -119,7 +121,7 @@ The above function will output `1`, because the string "earth" is not found anyw
 
 ---
 
-# Further Context
+## Further Context
 
 If you're like me and you have trouble remembering which sign is greater than and which sign is less than, hi! I have a tip that may or may not help!
 

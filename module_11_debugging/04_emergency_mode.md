@@ -1,4 +1,6 @@
-# Lesson 04 - Emergency Mode
+# Module 11 - Debugging
+
+## Lesson 04 - Emergency Mode
 
 [Next module >>](../module_12_final_thoughts/00_what_to_do_next.md)
 

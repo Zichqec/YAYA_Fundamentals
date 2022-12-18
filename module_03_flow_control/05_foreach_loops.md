@@ -1,4 +1,6 @@
-# Lesson 05 - foreach Loops
+# Module 03 - Flow Control
+
+## Lesson 05 - foreach Loops
 
 [Next lesson >>](../module_03_flow_control/06_continue_break.md)
 
@@ -30,7 +32,7 @@ It is not possible to create an infinite loop with a `foreach` loop. Even if you
 
 ---
 
-# Further Context
+## Further Context
 
 `foreach` loops are so friendly. They are so simple, but when you're working with arrays, they're often all you need. I love them dearly, and I am always sad when a loop I am working on turns out to be too complicated for a `foreach` to be sufficient.
 

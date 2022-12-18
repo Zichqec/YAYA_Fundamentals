@@ -1,4 +1,6 @@
-# Lesson 03 - while Loops
+# Module 03 - Flow Control
+
+## Lesson 03 - while Loops
 
 [Next lesson >>](../module_03_flow_control/04_for_loops.md)
 
@@ -64,7 +66,7 @@ One other note. We will go over output candidates towards the end of this module
 
 ---
 
-# Further Context
+## Further Context
 
 Loops in combination with arrays are something I love very much. They are my bread and butter, and learning how to make use of them has enabled me to do a great many things. Of course, I've made many, many infinite loops in the process (I've been using YAYA since before the loop limit was added), but that just tends to happen when you're learning, really. Don't sweat it if you do this by accident.
 

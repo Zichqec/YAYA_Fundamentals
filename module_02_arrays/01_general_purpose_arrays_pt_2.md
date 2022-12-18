@@ -1,4 +1,6 @@
-# Lesson 01 - General Purpose Arrays Part 2
+# Module 02 - Arrays
+
+## Lesson 01 - General Purpose Arrays Part 2
 
 
 [Next lesson >>](../module_02_arrays/02_simple_arrays.md)
@@ -141,7 +143,7 @@ The output of the above function will be `A1,A2,A3,B1,B2,B3,C1,C2,C3`
 
 ---
 
-# Further Context
+## Further Context
 
 All of these array operations are a little more niche, at least in my experience. As a matter of fact, I don't believe I have any examples from my already-existing work to draw from. If you come up with some practical uses of these, let me know and I would love to feature them here!
 

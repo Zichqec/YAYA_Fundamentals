@@ -1,4 +1,6 @@
-# Lesson 01 - What is YAYA
+# Module 00 - Overview
+
+## Lesson 01 - What is YAYA
 
 [Next lesson >>](../module_00_overview/02_initial_setup.md)
 

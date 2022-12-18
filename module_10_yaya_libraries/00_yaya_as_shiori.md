@@ -1,4 +1,6 @@
-# Lesson 00 - YAYA as SHIORI
+# Module 10 - YAYA Libraries
+
+## Lesson 00 - YAYA as SHIORI
 
 [Next lesson >>](../module_10_yaya_libraries/01_yaya_as_other_things.md)
 
@@ -127,7 +129,7 @@ As you can see, this makes it so anything that comes through `OnChoiceSelect` wi
 
 ---
 
-# Further Context
+## Further Context
 
 About auto type convert. If you find it annoying and want to turn it off in your ghost, just keep in mind you will have to track down any SHIORI events you have that use references, and the references hold numbers. You will have to add TOINT or TOREAL to those yourself, as appropriate. For example:
 

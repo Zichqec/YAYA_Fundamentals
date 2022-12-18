@@ -1,4 +1,6 @@
-# Lesson 04 - Variables
+# Module 01 - Basic Building Blocks
+
+## Lesson 04 - Variables
 
 [Next lesson >>](../module_01_basic_building_blocks/05_operators.md)
 
@@ -103,7 +105,7 @@ This time, we initialized `_dialogue` as an empty string before we entered the n
 
 ---
 
-# Further Context
+## Further Context
 
 You'll see why in the next lesson, but I'll say it again for good measure: **it is very important to initalize your variables before you use them.** In a ghost, usually this happens in OnFirstBoot! If you want your ghost to, say, have a counter of how many times you've pet them, it's really important to tell YAYA that the pet counter should be a number before it tries to do any math on it! Doing this in OnFirstBoot ensures that all your variables are initialized properly as soon as the user runs the ghost for the first time.
 

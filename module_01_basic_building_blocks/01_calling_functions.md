@@ -1,4 +1,6 @@
-# Lesson 01 - Calling Functions
+# Module 01 - Basic Building Blocks
+
+## Lesson 01 - Calling Functions
 
 [Next lesson >>](../module_01_basic_building_blocks/02_comments.md)
 
@@ -35,7 +37,7 @@ When SomeOtherFunction is called, it **returns** the value "Hello, world!" to th
 
 ---
 
-# Further Context
+## Further Context
 
 This one's a bit short! I highly, *highly* recommend using the companion ghost with this guide if you can, since it'll let you play around with the code and get a feel for it.
 

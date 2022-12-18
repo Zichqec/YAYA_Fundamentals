@@ -1,4 +1,6 @@
-# Lesson 03 - More Options in yaya.txt
+# Module 00 - Overview
+
+## Lesson 03 - More Options in yaya.txt
 
 [Next module >>](../module_01_basic_building_blocks/00_function_structure.md)
 

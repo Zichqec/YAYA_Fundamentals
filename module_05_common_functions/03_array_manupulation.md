@@ -1,4 +1,6 @@
-# Lesson 03 - Array Manipulation
+# Module 05 - Common Functions
+
+## Lesson 03 - Array Manipulation
 
 [Next lesson >>](../module_05_common_functions/04_randomness.md)
 
@@ -63,7 +65,7 @@ The above function will output `1,4,7`, the index numbers of each element that c
 
 ---
 
-# Further Context
+## Further Context
 
 ARRAYSIZE and ASEARCH are favorites of mine! These were what made me realize what kinds of things I could really pull off with arrays. I use them all the time, *especially* ASEARCH. I've used it several times throughout code examples in this guide, even!
 

@@ -1,4 +1,6 @@
-# Lesson 00 - What is the Preprocessor
+# Module 08 - The Preprocessor
+
+## Lesson 00 - What is the Preprocessor
 
 [Next lesson >>](../module_08_the_preprocessor/01_debug_options.md)
 
@@ -67,7 +69,7 @@ The output of the above would be `corkboard`, since the `#define` runs first and
 
 ---
 
-# Further Context
+## Further Context
 
 The preprocessor is a handy thing to know about, even if you never personally use it! If you've ever looked in YAYA's `config.txt` (or `yaya_config.txt` if you're using an older version), those are preprocessor commands in there! Additionally, you can see some of them in the shiori file. For example, here are some that set up some delimiters for later processing! These allow the developer to change what these delimiters would be in a single place in the file, and have the change be applied everywhere.
 

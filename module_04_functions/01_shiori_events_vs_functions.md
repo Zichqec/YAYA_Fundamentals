@@ -1,4 +1,6 @@
-# Lesson 01 - SHIORI Events vs Functions
+# Module 04 - Functions
+
+## Lesson 01 - SHIORI Events vs Functions
 
 [Next lesson >>](../module_04_functions/02_thinking_with_functions.md)
 
@@ -94,7 +96,7 @@ The above function will output `1`
 
 ---
 
-# Further Context
+## Further Context
 
 `reference` vs `_argv` had me confused for a long while. If you're still confused, here's what you should take away from this lesson:
 

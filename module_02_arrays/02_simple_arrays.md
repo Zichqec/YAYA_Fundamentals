@@ -1,4 +1,6 @@
-# Lesson 02 - Simple Arrays
+# Module 02 - Arrays
+
+## Lesson 02 - Simple Arrays
 
 [Next lesson >>](../module_02_arrays/03_multidimensional_arrays.md)
 
@@ -66,7 +68,7 @@ The above function will output `red|green|yellow|blue`
 
 ---
 
-# Further Context
+## Further Context
 
 Ahh, simple arrays... some may not even want to call them arrays at all. However, they are very useful in some instances. We'll see in the next lesson, but since they don't have the behavior of general purpose arrays where nested arrays all become one array, that allows them to work around the occasional issue that is presented by that!
 

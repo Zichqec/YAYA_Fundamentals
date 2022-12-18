@@ -1,4 +1,6 @@
-# Lesson 01 - case when others
+# Module 03 - Flow Control
+
+## Lesson 01 - case when others
 
 [Next lesson >>](../module_03_flow_control/02_switch.md)
 
@@ -130,7 +132,7 @@ And that is all there is to case/when/others. It's less flexible than if/elseif/
 
 ---
 
-# Further Context
+## Further Context
 
 case/when's ranges can apparently be used with strings, too. But I'll be honest, I was not able to figure out how this works. If anyone figures it out, let me know, I would love to add it here!
 

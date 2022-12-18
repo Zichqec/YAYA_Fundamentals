@@ -1,4 +1,6 @@
-# Lesson 03 - Data Types
+# Module 01 - Basic Building Blocks
+
+## Lesson 03 - Data Types
 
 [Next lesson >>](../module_01_basic_building_blocks/04_variables.md)
 
@@ -210,7 +212,7 @@ The final data type that YAYA has is arrays, which we will cover in the next mod
 
 ---
 
-# Further Context
+## Further Context
 
 I'll be honest, I would be shocked if you used more than strings and integers on a daily basis. So if this seems like a lot to remember, don't worry too much! You can always refresh yourself on these things as you need them, if you need them.
 

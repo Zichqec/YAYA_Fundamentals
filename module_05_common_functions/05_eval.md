@@ -1,4 +1,6 @@
-# Lesson 05 - EVAL
+# Module 05 - Common Functions
+
+## Lesson 05 - EVAL
 
 [Next module >>](../module_06_file_management/00_opening_and_closing_files.md)
 
@@ -55,7 +57,7 @@ As you can see, EVAL can do some very useful things. But again, *you should exer
 
 ---
 
-# Further Context
+## Further Context
 
 All that being said, here's a really handy and practical use for EVAL. I've trimmed this a bit because it goes on for a while.
 

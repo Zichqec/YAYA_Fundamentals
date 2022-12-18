@@ -1,4 +1,6 @@
-# Lesson 01 - Debug Options
+# Module 08 - The Preprocessor
+
+## Lesson 01 - Debug Options
 
 [Next module >>](../module_09_saori/00_what_are_saori.md)
 
@@ -32,7 +34,7 @@ Like the previous example, the output of this function will vary depending on yo
 
 ---
 
-# Further Context
+## Further Context
 
 Just one small note about the `__AYA_SYSTEM_FILE__` command here. I didn't understand why I needed the quotes until I saw it with the visualization technique we've been using.
 

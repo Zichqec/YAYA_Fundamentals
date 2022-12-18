@@ -1,4 +1,6 @@
-# 00 - What To Do Next
+# Module 12 - Final Thoughts
+
+## 00 - What To Do Next
 
 [Next lesson >>](../module_12_final_thoughts/01_closing_remarks.md)
 

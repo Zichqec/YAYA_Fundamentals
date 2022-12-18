@@ -1,4 +1,6 @@
-# Lesson 03 - Common Error Messages
+# Module 11 - Debugging
+
+## Lesson 03 - Common Error Messages
 
 [Next lesson >>](../module_11_debugging/04_emergency_mode.md)
 

@@ -1,4 +1,6 @@
-# Lesson 01 - YAYA as Other Things
+# Module 10 - YAYA Libraries
+
+## Lesson 01 - YAYA as Other Things
 
 [Next module >>](../module_11_debugging/00_peeking_behind_the_curtain.md)
 

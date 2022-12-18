@@ -1,4 +1,6 @@
-# Lesson 00 - Opening and Closing Files
+# Module 06 - File Management
+
+## Lesson 00 - Opening and Closing Files
 
 [Next lesson >>](../module_06_file_management/01_reading_files.md)
 
@@ -93,7 +95,7 @@ The `|` character is not valid to use in filenames, so no matter what the names 
 
 ---
 
-# Further Context
+## Further Context
 
 But why would someone want to edit a file? There are plenty of reasons! Here are some examples:
 

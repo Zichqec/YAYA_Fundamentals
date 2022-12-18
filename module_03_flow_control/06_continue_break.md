@@ -1,4 +1,6 @@
-# Lesson 06 - continue break
+# Module 03 - Flow Control
+
+## Lesson 06 - continue break
 
 [Next lesson >>](../module_03_flow_control/07_return_and_output_candidates.md)
 
@@ -93,7 +95,7 @@ As you can see from this loop, the inner `while` loop uses a `break` statement t
 
 ---
 
-# Further Context
+## Further Context
 
 `break` and `continue` have gotten me into trouble a few times, because I've placed them in such a way that I get infinite loops. Be mindful of that. They are really handy for avoiding additional processing time though, which is useful for large or intricate loops. They're also very good if you're testing out a loop that seems volatile. Many a time, I have created a while loop with a statement like `if _i > 1000; break`, for safety.
 

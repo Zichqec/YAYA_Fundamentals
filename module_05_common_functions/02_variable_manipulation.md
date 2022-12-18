@@ -1,4 +1,6 @@
-# Lesson 02 - Variable Manipulation
+# Module 05 - Common Functions
+
+## Lesson 02 - Variable Manipulation
 
 [Next lesson >>](../module_05_common_functions/03_array_manupulation.md)
 
@@ -44,7 +46,7 @@ The output of the above will change based on the value held in the `appreciation
 
 ---
 
-# Further Context
+## Further Context
 
 The whole business with writing the variable names in these *as strings* has confused me before, so I will mention it in more detail here. The proper usage of ISVAR, for example, looks like `ISVAR("appreciation")`, *not* `ISVAR(appreciation)`.
 

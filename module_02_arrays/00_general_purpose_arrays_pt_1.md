@@ -1,4 +1,6 @@
-# Lesson 00 - General Purpose Arrays Part 1
+# Module 02 - Arrays
+
+## Lesson 00 - General Purpose Arrays Part 1
 
 [Next lesson >>](../module_02_arrays/01_general_purpose_arrays_pt_2.md)
 
@@ -188,7 +190,7 @@ The above function will output `red,,blue`. Note the empty string element in the
 
 ---
 
-# Further Context
+## Further Context
 
 Arrays are so important if you want to do anything complicated. They are one of my favorite things in programming because they unlocked so much for me once I figured them out! Arrays are your friend, don't fear them.
 

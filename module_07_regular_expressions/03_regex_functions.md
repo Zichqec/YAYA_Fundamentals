@@ -1,4 +1,6 @@
-# Lesson 03 - Regex Functions
+# Module 07 - Regular Expressions
+
+## Lesson 03 - Regex Functions
 
 [Next lesson >>](../module_07_regular_expressions/04_more_on_the_subject.md)
 
@@ -133,7 +135,7 @@ The above function will output `1`
 
 ---
 
-# Further Context
+## Further Context
 
 We did it! That's all I'm going to show you about regex. And I'll be honest with you, I have never in my life used that `RE_OPTION` function except when testing it for this guide, so if you don't get it I wouldn't even worry about it. You can play with it if you ever get really into regex and find you need it.
 

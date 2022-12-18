@@ -1,4 +1,6 @@
-# Lesson 00 - Peeking Behind the Curtain
+# Module 11 - Debugging
+
+## Lesson 00 - Peeking Behind the Curtain
 
 [Next lesson >>](../module_11_debugging/01_logging.md)
 

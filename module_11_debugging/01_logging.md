@@ -1,4 +1,6 @@
-# Lesson 01 - LOGGING
+# Module 11 - Debugging
+
+## Lesson 01 - LOGGING
 
 [Next lesson >>](../module_11_debugging/02_dissecting_error_messages.md)
 

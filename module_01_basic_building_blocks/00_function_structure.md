@@ -1,4 +1,6 @@
-# Lesson 00 - Function Structure
+# Module 01 - Basic Building Blocks
+
+## Lesson 00 - Function Structure
 
 [Next lesson >>](../module_01_basic_building_blocks/01_calling_functions.md)
 
@@ -82,7 +84,7 @@ The above is not a particularly good application of this, but it will be useful 
 
 ---
 
-# Further Context
+## Further Context
 
 Welcome to the footnotes! Unlike the main lessons, we'll be focusing specifically on coding ghosts here, rather than just pure YAYA. These sections will appear after files where more context may be helpful. If you're already a skilled programmer and just want to pick up the syntax, you can probably ignore these! But if you're new to coding, make sure you read these bits too.
 

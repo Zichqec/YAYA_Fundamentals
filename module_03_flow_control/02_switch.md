@@ -1,4 +1,6 @@
-# Lesson 02 - switch
+# Module 03 - Flow Control
+
+## Lesson 02 - switch
 
 [Next lesson >>](../module_03_flow_control/03_while_loops.md)
 
@@ -75,7 +77,7 @@ That is all there is to `switch`. It is the least flexible, but it is very usefu
 
 ---
 
-# Further Context
+## Further Context
 
 One of my favorite uses for `switch` has been for dialogue that changes based on the current month! It is slim and easy to add in anywhere.
 

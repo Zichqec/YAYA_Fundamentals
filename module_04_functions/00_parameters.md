@@ -1,4 +1,6 @@
-# Lesson 00 - Parameters
+# Module 04 - Functions
+
+## Lesson 00 - Parameters
 
 [Next lesson >>](../module_04_functions/01_shiori_events_vs_functions.md)
 
@@ -93,7 +95,7 @@ The output of the above function would be `I like blue and green`. This is becau
 
 ---
 
-# Further Context
+## Further Context
 
 Alright, so I said above that the only way to send an array all as a single argument is by sending it as a simple array. Why is that?
 

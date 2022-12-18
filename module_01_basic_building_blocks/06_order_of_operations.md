@@ -1,4 +1,6 @@
-# Lesson 06 - Order of Operations
+# Module 01 - Basic Building Blocks
+
+## Lesson 06 - Order of Operations
 
 [Next lesson >>](../module_01_basic_building_blocks/07_comparisons.md)
 
@@ -52,7 +54,7 @@ The exact order depends on how deeply nested in parenthesis each operation is. F
 
 ---
 
-# Further Context
+## Further Context
 
 Order of operations can be tricky. Unfortunately, I don't really have a good context example at this point, because most of what I do doesn't involve operations this complicated. But, we will see order of operations come up again soon with something I *do* have experience with!
 

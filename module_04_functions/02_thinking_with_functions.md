@@ -1,4 +1,6 @@
-# Lesson 02 - Thinking with Functions
+# Module 04 - Functions
+
+## Lesson 02 - Thinking with Functions
 
 [Next lesson >>](../module_04_functions/03_pure_functions.md)
 
@@ -148,7 +150,7 @@ Now we can easily check the season anywhere in the code, without having to write
 
 ---
 
-# Further Context
+## Further Context
 
 Using functions for common operations in your ghost (like changing/checking for friendship values) is wonderful, and my ghosts became much easier to work with once I started doing it. I cannot recommend it enough. I also want to make another point about it. You may remember this example from the Flow Control module:
 

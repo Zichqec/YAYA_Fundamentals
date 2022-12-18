@@ -1,4 +1,6 @@
-# Lesson 02 - Writing Files
+# Module 06 - File Management
+
+## Lesson 02 - Writing Files
 
 [Next lesson >>](../module_06_file_management/03_deleting_files_and_working_with_directories.md)
 
@@ -35,7 +37,7 @@ The above function will output either `Playlist saved.` or `Saving playlist fail
 
 ---
 
-# Further Context
+## Further Context
 
 You don't have to stick to `.txt` extensions, by the way! For my ghost [Warrior Generator](https://zichqec.github.io/s-the-skeleton/warrior_generator), I use `.wgc` for Warrior Generator Character, and `.wgd` for Warrior Generator Design. These are still just text files that you can open up in a text editor!
 

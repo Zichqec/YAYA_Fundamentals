@@ -1,4 +1,6 @@
-# Lesson 05 - Operators
+# Module 01 - Basic Building Blocks
+
+## Lesson 05 - Operators
 
 [Next lesson >>](../module_01_basic_building_blocks/06_order_of_operations.md)
 
@@ -151,7 +153,7 @@ There are other types of operators, mostly to do with comparing values as mentio
 
 ---
 
-# Further Context
+## Further Context
 
 Now we're getting somewhere! I want to give a real example of modulus in use, because it is a fantastic operator. Admittedly, its uses tend to be a little more niche, but once you get how it works it's really useful.
 

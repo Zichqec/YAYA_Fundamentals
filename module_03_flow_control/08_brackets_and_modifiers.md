@@ -1,4 +1,6 @@
-# Lesson 08 - Brackets and Modifiers
+# Module 03 - Flow Control
+
+## Lesson 08 - Brackets and Modifiers
 
 [Next module >>](../module_04_functions/00_parameters.md)
 
@@ -311,7 +313,7 @@ This function will output `red`, `green`, `blue`, `yellow`, or `purple`, at rand
 
 ---
 
-# Further Context
+## Further Context
 
 What fun function modifiers are! `nonoverlap` you may already be familiar with, as most ghosts have this applied to their `RandomTalk` function. There are a couple of pitfalls that people often fall into with `nonoverlap` though, and you can see this a little easier if you play with the `sequential` modifier, since it has the same quirks.
 

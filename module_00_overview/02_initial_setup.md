@@ -1,4 +1,6 @@
-# Lesson 02 - Initial Setup
+# Module 00 - Overview
+
+## Lesson 02 - Initial Setup
 
 [Next lesson >>](../module_00_overview/03_more_options_in_yaya.txt.md)
 
@@ -29,7 +31,7 @@ Now, anything in somefile.dic will be read as YAYA code. If the file does not ex
 
 You can add as many dic files as you need in yaya.txt. They will be loaded in the order they are listed, from top to bottom. Loading order does not *usually* make a difference in YAYA, but it does matter for the preprocessor, which you will learn about later.
 
-# Further Context
+## Further Context
 
 If you're not familiar with relative filepaths, here is a quick explanation. An absolute filepath is extremely specific, starting from name of the drive. For example:
 

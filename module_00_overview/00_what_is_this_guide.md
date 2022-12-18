@@ -1,4 +1,6 @@
-# Lesson 00 - What is this Guide
+# Module 0 - Overview
+
+## Lesson 00 - What is this Guide
 
 [Next lesson >>](../module_00_overview/01_what_is_yaya.md)
 

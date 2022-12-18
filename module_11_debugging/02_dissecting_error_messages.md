@@ -1,4 +1,6 @@
-# Lesson 02 - Dissecting Error Messages
+# Module 11 - Debugging
+
+## Lesson 02 - Dissecting Error Messages
 
 [Next lesson >>](../module_11_debugging/03_common_error_messages.md)
 

@@ -1,4 +1,6 @@
-# Lesson 03 - Multidimensional Arrays
+# Module 02 - Arrays
+
+## Lesson 03 - Multidimensional Arrays
 
 [Next module >>](../module_03_flow_control/00_if_elseif_else.md)
 
@@ -80,7 +82,7 @@ With the above function, `_colors[1][2]` would return `yellow`, since `cyan,mage
 
 ---
 
-# Further Context
+## Further Context
 
 Multidimensional arrays are a bit of a pain to work with at times, since you can't edit them directly. However, they do allow you to do very powerful things. Some purposes for multidimensional arrays:
 

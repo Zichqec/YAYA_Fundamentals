@@ -1,4 +1,6 @@
-# Lesson 04 - Randomness
+# Module 05 - Common Functions
+
+## Lesson 04 - Randomness
 
 [Next lesson >>](../module_05_common_functions/05_eval.md)
 
@@ -76,7 +78,7 @@ The above function will output the string with random colors chosen, such as `My
 
 ---
 
-# Further Context
+## Further Context
 
 There is a common pitfall I have seen folks run into when using `RAND`, so I will warn you of it now. If you want to use a random number in a stack of if/elseifs, *don't write the function multiple times.* Each time you write it, it will generate a *new* random number. So for example...
 

@@ -1,4 +1,6 @@
-# Lesson 02 - Metacharacters
+# Module 07 - Regular Expressions
+
+## Lesson 02 - Metacharacters
 
 [Next lesson >>](../module_07_regular_expressions/03_regex_functions.md)
 

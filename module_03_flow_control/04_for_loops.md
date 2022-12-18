@@ -1,4 +1,6 @@
-# Lesson 04 - for Loops
+# Module 03 - Flow Control
+
+## Lesson 04 - for Loops
 
 [Next lesson >>](../module_03_flow_control/05_foreach_loops.md)
 
@@ -38,7 +40,7 @@ It is still very possible to create infinite loops with for loops. If the `_i++`
 
 ---
 
-# Further Context
+## Further Context
 
 I used to be really scared of `for` loops, and I used `while` loops for everything. But then I realized it's mostly just a way of making the code cleaner by putting the basic loop handling all at the top, and now I barely ever use `while`. Funny how that happens! Anyways, what I'm saying is, `for` loops are lovely, even if it takes you a little to warm up to them. But really, you can use whichever makes more sense for you.
 

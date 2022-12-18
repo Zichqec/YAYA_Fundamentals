@@ -1,4 +1,6 @@
-# Lesson 03 - Deleting Files and Working with Directories
+# Module 06 - File Management
+
+## Lesson 03 - Deleting Files and Working with Directories
 
 [Next module >>](../module_07_regular_expressions/00_what_is_regex.md)
 
@@ -74,7 +76,7 @@ The above function will attempt to delete the playlists folder. It will output a
 
 ---
 
-# Further Context
+## Further Context
 
 Be careful with deleting things, and don't delete anything you shouldn't.
 

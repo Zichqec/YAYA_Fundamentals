@@ -1,4 +1,6 @@
-# Lesson 00 - What is Regex
+# Module 07 - Regular Expressions
+
+## Lesson 00 - What is Regex
 
 [Next lesson >>](../module_07_regular_expressions/01_character_sets.md)
 

@@ -1,4 +1,6 @@
-# Lesson 04 - Embedded Elements
+# Module 04 - Functions
+
+## Lesson 04 - Embedded Elements
 
 [Next lesson >>](../module_04_functions/05_recursion.md)
 
@@ -195,7 +197,7 @@ The AYAYA wiki makes a note that the "Longest Consistent Name Expansion" method 
 
 ---
 
-# Further Context
+## Further Context
 
 I love string expansion/interpolation. It's great. It's really easy to do, and I find it much easier to read scripts that use string expansion instead of concatenating text and variables. Consider the following:
 

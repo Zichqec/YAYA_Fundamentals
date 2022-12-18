@@ -1,4 +1,6 @@
-# Lesson 07 - return and Output Candidates
+# Module 03 - Flow Control
+
+## Lesson 07 - return and Output Candidates
 
 [Next lesson >>](../module_03_flow_control/08_brackets_and_modifiers.md)
 
@@ -145,7 +147,7 @@ The above function will return either `red`, `green`, or `blue`, at random, rath
 
 ---
 
-# Further Context
+## Further Context
 
 Oh boy! Random returns! Isn't *that* fun. If you're an experienced programmer, I can feel you weeping from here. It's ok, we'll kinda fix it next lesson. I swear it's actually really useful for the particular niche this language fills, most of the time. But if your code ever seems like the outputs are changing randomly, *check for accidental returns first.*
 
