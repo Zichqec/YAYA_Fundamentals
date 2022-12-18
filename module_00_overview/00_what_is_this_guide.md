@@ -1,4 +1,4 @@
-# Module 0 - Overview
+# Module 00 - Overview
 
 ## Lesson 00 - What is this Guide
 
