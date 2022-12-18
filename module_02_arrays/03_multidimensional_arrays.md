@@ -18,7 +18,7 @@ OnSelectFromMultiArray
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L3.SelectFromMultiArray)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L3.SelectFromMultiArray)
 
 The output of the above function will be `B`. This is because `_array[1]` outputs `B|2|$`, and then we access that smaller string using | as the delimiter, and extract the `B` since it is element 0. Remember that if no delimiter is specified, it uses comma by default.
 
@@ -41,7 +41,7 @@ On3dArray
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L3.3dArray)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L3.3dArray)
 
 The above function will output `pear`. `_array[1]` is `apple:A|orange:B|pear:C`, then the `[2,"|"]` of that results in the substring `pear:C`, and then the `[0,":"]` on that final string results in `pear`.
 
@@ -58,7 +58,7 @@ OnEditMultiArray
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L3.EditMultiArray)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L3.EditMultiArray)
 
 The above function will output `A|1,X|2,C|3`
 
@@ -74,7 +74,7 @@ OnCreateMultiFromArrays
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L3.CreateMultiFromArrays)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L3.CreateMultiFromArrays)
 
 The above function will output the array `("red,green,blue","cyan,magenta,yellow")` (Displayed in the balloon as `red,green,blue,cyan,magenta,yellow`, but these are two separate array elements). You could access individual elements of the array the same way as with the pure simple arrays. However, as long as you use commas, you will not need to specify a delimiter in your indices unless you add a third dimension. This is because general purpose arrays never need a delimiter specified, and the simple arrays are using commas, so they don't need a delimiter specified either.
 

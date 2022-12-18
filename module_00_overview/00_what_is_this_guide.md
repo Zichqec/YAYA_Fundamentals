@@ -19,7 +19,7 @@ HelloWorld
 }
 ```
 
-You can also download the companion ghost that goes with this guide, and click the links under each of the code boxes to run the code in the ghost and see the output. I also highly encourage you to look inside that ghost's files and play with the code examples in there, and see what you can make happen! Getting hands on with this stuff and exploring what you can do is a very good way to learn. All the sample code for each lesson will be separated into different files, and extra copies of the original code will be available so that you can undo any changes.
+You can also download the [companion ghost](https://github.com/Zichqec/ghost_guides) that goes with this guide, and click the links under each of the code boxes to run the code in the ghost and see the output. I also highly encourage you to look inside that ghost's files and play with the code examples in there, and see what you can make happen! Getting hands on with this stuff and exploring what you can do is a very good way to learn. All the sample code for each lesson will be separated into different files, and extra copies of the original code will be available so that you can undo any changes.
 
 If you don't have the companion ghost, I still encourage you to copy and paste the code into a ghost, and play with it there.
 

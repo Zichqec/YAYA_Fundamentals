@@ -19,7 +19,7 @@ OnSingleOperation
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.SingleOperation)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.SingleOperation)
 
 The above function will output a `1` when the hour is 0 (12AM). Otherwise, it will output a `0`. Again, in YAYA 1 represents true and 0 represents false.
 
@@ -35,7 +35,7 @@ OnSimpleIfCheck
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.SimpleIfCheck)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.SimpleIfCheck)
 
 The above function will output the string `It's midnight!` when the hour is 0 (12AM). Otherwise, this function will not return anything at all.
 
@@ -54,7 +54,7 @@ OnNestedIfCheck
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.NestedIfCheck)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.NestedIfCheck)
 
 The above function will output the string `It's 12:30AM!` when the hour is 0 (12AM), **and** the minute is 30. Otherwise, this function will not return anything at all.
 
@@ -76,7 +76,7 @@ OnIfWithElse
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.IfWithElse)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.IfWithElse)
 
 The above function will output the string `It's midnight!` if the hour is 0 (12AM). Otherwise, it will output the string `It's not midnight...`
 
@@ -100,7 +100,7 @@ OnIfElseifElse
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.IfElseifElse)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.IfElseifElse)
 
 The above function will output the string `It's midnight!` if the hour is 0 (12AM). Alternatively, it will output the string `It's noon!` if the hour is 12 (12PM). Otherwise, it will output the string `It's not midnight or noon...`
 
@@ -136,7 +136,7 @@ OnSeveralElseifs
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.SeveralElseifs)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.SeveralElseifs)
 
 In the above function, nothing will be returned if it's any hour other than the ones that are specified.
 
@@ -167,7 +167,7 @@ OnWithoutBrackets
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.WithoutBrackets)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.WithoutBrackets)
 
 Additionally, you can pair this mechanic with the semicolon, which makes YAYA continue reading code on the same line when it expects a linebreak. So we can reduce the above function even further.
 
@@ -183,7 +183,7 @@ OnWithSemicolons
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L0.WithSemicolons)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L0.WithSemicolons)
 
 This is purely an aesthetic choice, and makes no difference in how the code is run (provided the check only contains a single line of code, as mentioned). What formatting you go with is up to you and what is most readable for you. Just try to be consistent with your formatting choices.
 

@@ -20,7 +20,7 @@ OnCheckVariableExists
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M5.L2.CheckVariableExists)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L2.CheckVariableExists)
 
 The above function will output the current value of the `appreciation` variable.
 
@@ -40,7 +40,7 @@ OnEraseUnneededVariables
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M5.L2.EraseUnneededVariables)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L2.EraseUnneededVariables)
 
 The output of the above will change based on the value held in the `appreciation` variable. `ERASEVAR` itself has no return, but the `appreciation`, `j`, and `k` variables will no longer exist once it executes.
 

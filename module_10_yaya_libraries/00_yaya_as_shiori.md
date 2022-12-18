@@ -45,7 +45,7 @@ OnRaiseFriendshipBasedOnDialogue
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M10.L0.RaiseFriendshipBasedOnDialogue)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M10.L0.RaiseFriendshipBasedOnDialogue)
 
 In the above function, the friendship variable will only be incremented when the "I really like you, %username." dialogue is output.
 
@@ -59,7 +59,7 @@ OnRaiseFriendshipAlways
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M10.L0.RaiseFriendshipAlways)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M10.L0.RaiseFriendshipAlways)
 
 In the above code, friendship will always increment by 1 whenever the function is run, regardless of which dialogue is output.
 
@@ -81,7 +81,7 @@ likeuser
 }}CHAIN
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M10.L0.StartChain)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M10.L0.StartChain)
 
 In the above function, the dialogue "I really like you, %username." will start what is called a chain dialogue, with the name "likeuser". The dialogues will be output one at a time, from top to bottom, one at a time each time `OnAiTalk` is called, until the chain name is set to `end`. (In the companion ghost, you can press `T` while the ghost is selected to prompt `OnAiTalk`.)
 

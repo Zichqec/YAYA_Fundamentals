@@ -16,7 +16,7 @@ OnCreateSimpleArray
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L2.CreateSimpleArray)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L2.CreateSimpleArray)
 
 The output of the above function is `green`
 
@@ -30,7 +30,7 @@ OnSelectFromSimpleArray
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L2.SelectFromSimpleArray)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L2.SelectFromSimpleArray)
 
 The above function will output `green`
 
@@ -47,7 +47,7 @@ OnAddToSimpleArray
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L2.AddToSimpleArray)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L2.AddToSimpleArray)
 
 The output of the above function will be `red|green|blue|yellow`
 
@@ -62,7 +62,7 @@ OnInsertInSimpleArray
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M2.L2.InsertInSimpleArray)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L2.InsertInSimpleArray)
 
 The above function will output `red|green|yellow|blue`
 

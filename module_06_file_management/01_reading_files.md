@@ -35,7 +35,7 @@ OnReadFile
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M6.L1.ReadFile)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L1.ReadFile)
 
 The above function will output `Number of ""Hello, world!""s found in file: `, followed by the number of lines containing the string "Hello, world!" in the example file.
 

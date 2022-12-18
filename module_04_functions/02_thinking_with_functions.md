@@ -28,7 +28,7 @@ big_friendship_boost
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M4.L2.FriendshipChange)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L2.FriendshipChange)
 
 The above function will output the string `Current friendship points: `, and then the number of current points.
 
@@ -61,7 +61,7 @@ friendship_is_high
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M4.L2.CheckFriendship)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L2.CheckFriendship)
 
 The above function will output the string `Wow, thanks so much, bestie!` if the friendship variable is 100 or greater. Otherwise, it will output the string `Oh, thanks!`
 
@@ -95,7 +95,7 @@ OnCommentOnSeason
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M4.L2.CommentOnSeason)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L2.CommentOnSeason)
 
 In the case of the above code, this comments on the (meteorological) seasons. But what if we wanted to have some other code in the ghost check on the seasons? We would have to duplicate this check. Also, this is a little bulky when the purpose of this function is just to comment on the season. Instead, we can use a function specifically for getting the seasons, and then we will be able to easily check the season anywhere.
 
@@ -144,7 +144,7 @@ season
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M4.L2.CommentOnSeason2)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L2.CommentOnSeason2)
 
 Now we can easily check the season anywhere in the code, without having to write the case/when/others statement in multiple places.
 

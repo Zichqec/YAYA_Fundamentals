@@ -21,7 +21,7 @@ OnHalfRed
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.HalfRed)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.HalfRed)
 
 The above function will output `red` 50% of the time. Otherwise, it will choose between one of the two other options, resulting in a 25% chance to output `green` and a 25% chance to output `blue`
 
@@ -40,7 +40,7 @@ OnHalfRedExclamation
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.HalfRedExclamation)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.HalfRedExclamation)
 
 The above function will output `red` 50% of the time, `green!` 25% of the time, and `blue!` 25% of the time.
 
@@ -60,7 +60,7 @@ OnDeeperNesting
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.DeeperNesting)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.DeeperNesting)
 
 The above function will output `red` 50% of the time, `green` 25% of the time, `blue` 12.5% of the time, and `yellow` 12.5% of the time.
 
@@ -80,7 +80,7 @@ OnModifierOnFunction : all
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.ModifierOnFunction)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.ModifierOnFunction)
 
 The above function will output `redgreenblue`
 
@@ -100,7 +100,7 @@ OnModifierOnBrackets
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.ModifierOnBrackets)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.ModifierOnBrackets)
 
 The above function will output either `red` or `greenblue`, at random.
 
@@ -120,7 +120,7 @@ OnRandomModifier : random
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.RandomModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.RandomModifier)
 
 The above function will output `red`, `green`, or `blue`, at random each time it is run.
 
@@ -136,7 +136,7 @@ OnNonoverlapModifier : nonoverlap
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.NonoverlapModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.NonoverlapModifier)
 
 The above function will output `red`, `green`, or `blue`, in any order. However, you will always see one of each color before you see any of the colors output a second time.
 
@@ -153,7 +153,7 @@ OnNonoverlapWithBrackets : nonoverlap
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.NonoverlapWithBrackets)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.NonoverlapWithBrackets)
 
 The above function will have a 50% chance to output `red`, and a 50% chance to output either `green` or `blue`. But note that it will *always* pick `red` every other time, because once the set of brackets is chosen once, it will not be chosen again until the nonoverlap resets.
 
@@ -169,7 +169,7 @@ OnSequentialModifier : sequential
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.SequentialModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.SequentialModifier)
 
 The above function will first output `red`, then `green` when called again, and `blue` when called again. Then, it will restart from the top and output `red` next time it is called, etc.
 
@@ -187,7 +187,7 @@ OnSequentialWithBrackets : sequential
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.SequentialWithBrackets)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.SequentialWithBrackets)
 
 The above function will first output `red`, then either `green` or `yellow` when called again, then `blue` when called a third time. Then, it will restart from the top and output `red` the next time it is called, etc.
 
@@ -202,7 +202,7 @@ OnVoidModifier : void
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.VoidModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.VoidModifier)
 
 In the above function, `1` will be added to the value of i, but nothing will be output.
 
@@ -218,7 +218,7 @@ OnArrayModifier : array
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.ArrayModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.ArrayModifier)
 
 The above function will return the array `red,green,blue`
 
@@ -234,7 +234,7 @@ OnAllModifier : all
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.AllModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.AllModifier)
 
 The above function will output `redgreenblue`
 
@@ -250,7 +250,7 @@ OnLastModifier : last
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.LastModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.LastModifier)
 
 The above function will only ever output `blue`
 
@@ -272,7 +272,7 @@ OnHalfRed2
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.HalfRed2)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.HalfRed2)
 
 The above function is the example from before with how brackets affect probabilities. Each of the dialogues within the brackets have a 25% chance to be chosen.
 
@@ -287,7 +287,7 @@ OnPoolModifier : pool
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.PoolModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.PoolModifier)
 
 When we add `pool` to the function, all of the dialogues are given an equal chance to be chosen instead of it being affected by the brackets. So 33% of the time it will output `red`, 33% of the time it will output `green`, and 33% of the time it will output `blue`.
 
@@ -307,7 +307,7 @@ OnMeltModifier
 }
 ```
 
-[Click to run the above code in the YAYA Fundamentals companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DYAYA%20Fundamentals%26info%3DOnExample.M3.L8.MeltModifier)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.MeltModifier)
 
 This function will output `red`, `green`, `blue`, `yellow`, or `purple`, at random. (It is not a pool function, so 50% of the time the output will be `red`.)
 
