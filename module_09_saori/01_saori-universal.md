@@ -23,14 +23,14 @@ OnWindowInfoExample
 	_lessons_open = 0
 	foreach _open_windows; _window
 	{
-		if "\yaya_fundamentals\ghost\master\lessons\module_" _in_ _window; _lessons_open = 1
+		if "\ghost_guides_zi\ghost\master\yaya_lessons\module_" _in_ _window; _lessons_open = 1
 	}
 	
 	"You have %(_num) windows open!"
 	--
 	if _lessons_open
 	{
-		" Including a lesson file or folder from the YAYA Fundamentals ghost!"
+		" Including a lesson file or folder from the Ghost Guides ghost!"
 	}
 }
 ```
