@@ -28,6 +28,10 @@ OnOpenGraphs
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M9.L2.MakeGraph) \[Note: this may take a few seconds to run. This is normal for SAORI-basic.]
 
+The above function will output `Image output to the \_a[OnOpenGraphs]graphs\_a folder.`, and will create the following image:
+
+
+
 In the code above, we first specify the proxy SAORI, then the histomachine SAORI. Then, following the instructions of histomachine, we specify some colors, labels for each column, the height of each column, a name for the graph, a name for the file, and the size of the image.
 
 After the SAORI executes, we provide a link to where the image may be viewed. It would also be possible to display this image directly in the balloon with a `\_b` tag.
