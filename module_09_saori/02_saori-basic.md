@@ -34,7 +34,7 @@ The above function will output `Image output to the \_a[OnOpenGraphs]graphs\_a f
 
 In the code above, we first specify the proxy SAORI, then the histomachine SAORI. Then, following the instructions of histomachine, we specify some colors, labels for each column, the height of each column, a name for the graph, a name for the file, and the size of the image.
 
-After the SAORI executes, we provide a link to where the image may be viewed. It would also be possible to display this image directly in the balloon with a `\_b` tag.
+After the SAORI executes, we provide a link to where the image may be viewed. It would also be possible to display this image directly in the balloon with a `\_b` tag, as is mentioned in the SAORI's documentation.
 
 As you can see from this example compared to the window_info example, SAORI are extremely varied. YAYA's method of calling them will always be the same, but what sort of input you need to give and what sort of output you get will vary widely based on what SAORI you're using. That's because, in theory, you can do *anything* with SAORI. But that is, of course, outside the scope of a guide for learning YAYA.
 
