@@ -35,7 +35,7 @@ OnWindowInfoExample
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M9.L1.WindowInfoExample)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M9.L1.WindowInfoExample)
 
 The above function will get a list of what windows the user has open, then inform them of the number of windows. It will add an additional comment if the user has one of the lesson files/folders from the Ghost Guides ghost open.
 

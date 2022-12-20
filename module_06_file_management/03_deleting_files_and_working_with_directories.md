@@ -26,7 +26,7 @@ OnDeleteFile
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L3.DeleteFile)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L3.DeleteFile)
 
 The above function will attempt to delete the `destined_for_deletion.txt` file. It will then output a message based on whether the action was successful or not.
 
@@ -46,7 +46,7 @@ OnCreateFolder
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L3.CreateFolder)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L3.CreateFolder)
 
 The above function creates a new directory called playlists, and outputs a message based on if the operation was successful or not.
 
@@ -70,7 +70,7 @@ OnDeleteFolder
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L3.DeleteFolder)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L3.DeleteFolder)
 
 The above function will attempt to delete the playlists folder. It will output a message based on whether the operation was successful or not. If it was not successful, it will also use `FENUM` to check if there are files still in the directory, and if there are it will also output a note about needing to remove them.
 

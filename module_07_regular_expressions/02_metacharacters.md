@@ -21,7 +21,7 @@ OnMatchAny
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchAny)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchAny)
 
 The above function will output `1`, whether `_string` is chosen to be "Potato" or "Tomato". Other strings would also work, as long as they followed the same format. "Po7ato", "Momato", "|o$ato"; all of these would match.
 
@@ -36,7 +36,7 @@ OnMatchBeginning
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchBeginning)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchBeginning)
 
 The above function will output `0`. Even though the target string contains "the" in the word "breathe", the expression requires that "the" be at the start of the string. So "the end" matches, but "breathe" does not.
 
@@ -51,7 +51,7 @@ OnMatchEnd
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchEnd)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchEnd)
 
 The above function will output `1`. This time, it does match "the" in "breathe". However, this would *not* match "the end", since "the" is not at the end of the string.
 
@@ -66,7 +66,7 @@ OnMatchSet
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchSet)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchSet)
 
 The above function will output `1`, but it is not as broad as the previous examples of this kind. This expression can *only* match the strings Potato, Tomato, Pomato, and Totato.
 
@@ -81,7 +81,7 @@ OnMatchRange
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchRange)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchRange)
 
 The above function will output `0`, because the character class we defined will not match a number.
 
@@ -96,7 +96,7 @@ OnMatchNotInSet
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchNotInSet)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchNotInSet)
 
 The above function will output `0`. Potato, Tomato, Pomato, and Totato will not match, but any other characters at index 0 and 2 would match.
 
@@ -114,7 +114,7 @@ OnMatch0Or1
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.Match0Or1)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.Match0Or1)
 
 The above function will always output `1`, no matter if the chosen string is "Color" or "Colour".
 
@@ -129,7 +129,7 @@ OnMatch1OrMore
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.Match1OrMore)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.Match1OrMore)
 
 The above function will output `0`. "Hello" does not match the expression, but "Hello!", "Hello!!", "Hello!!!", etc., would all match.
 
@@ -144,7 +144,7 @@ OnMatch0OrMore
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.Match0OrMore)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.Match0OrMore)
 
 The above function will output `1`. As with the previous function, it will match with "Hello!", "Hello!!", "Hello!!!", etc.; but it will also match without any exclamation point at all.
 
@@ -159,7 +159,7 @@ OnMatchExactCount
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchExactCount)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchExactCount)
 
 The above function will output `1`. It would not match with "Hello!", "Hello!!", or "Hello!!!!".
 
@@ -175,7 +175,7 @@ OnMatchAOrB
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchAOrB)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchAOrB)
 
 The above function will output `1`. This expression will match either "Hello!" or "Goodbye!", but nothing else.
 
@@ -193,7 +193,7 @@ OnCaptureGroup
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.CaptureGroup)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.CaptureGroup)
 
 The above function will output `1`. As above, this expression will match either "Hello!" or "Goodbye!", but nothing else. But this time, we have captured either the text "Hello" or "Goodbye", and can make use of it in the next lesson.
 

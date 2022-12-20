@@ -26,7 +26,7 @@ OnWhile0to10
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L3.While0to10)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L3.While0to10)
 
 The above function will output the string `0123456789`
 
@@ -57,7 +57,7 @@ OnWhileInfinite
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L3.WhileInfinite) \[THIS MAY FREEZE THE GHOST AND SSP FOR A WHILE.]
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L3.WhileInfinite) \[THIS MAY FREEZE THE GHOST AND SSP FOR A WHILE.]
 
 In the code above, the condition will never be true, and thus the loop will run forever. Or, if the loop limit is in place, it will run 10000 times by default, and output the string `Hello, world!Hello, world!`... etc, with the words "Hello, world!" repeated 10000 times. 
 

@@ -98,7 +98,7 @@ OnRegexScrapingExample
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L4.RegexScrapingExample)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L4.RegexScrapingExample)
 
 The above function will capture the randomly assigned weather condition from the string, and output it in a dialogue to the user. For example, `Looks like the weather's gonna be sunny.`
 

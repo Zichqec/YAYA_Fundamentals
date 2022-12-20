@@ -20,7 +20,7 @@ OnLogicalAnd
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.LogicalAnd)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.LogicalAnd)
 
 The above function will output `1`, since `_i` is equal to `10` **and** `_j` is equal to `20`.
 
@@ -39,7 +39,7 @@ OnMultipleAnds
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.MultipleAnds)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.MultipleAnds)
 
 The above function will output `1`, since the values all match what the operation is checking for.
 
@@ -56,7 +56,7 @@ OnLogicalOr
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.LogicalOr)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.LogicalOr)
 
 The above function will output `1`. Even though `_j` is not equal to `10`, `_i` *is* equal to `10`.
 
@@ -75,7 +75,7 @@ OnMultipleOrs
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.MultipleOrs)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.MultipleOrs)
 
 The above function will output `1`, even though only one of the checks is true.
 
@@ -91,7 +91,7 @@ OnAndOr
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.AndOr)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.AndOr)
 
 The above function will output `1`, since the AND is evaluated first. `_hour == 10` is true, but `_hour == 20 && minute == 30` is not, because `_hour` is not `20` nor is `_minute` `30`.
 
@@ -107,7 +107,7 @@ OnAndOr2
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.AndOr2)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.AndOr2)
 
 The above function will output `0`. The OR check is true because the `_hour` is set to `10`, but the `_minute` is not also `30`.
 
@@ -123,7 +123,7 @@ OnLogicalNot
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.LogicalNot)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L8.LogicalNot)
 
 The above function will output `1`, since the operation `_i == 20` returns a `0` (False), which is then reversed to a `1` (True) by the `!` operator.
 

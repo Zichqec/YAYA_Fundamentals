@@ -41,7 +41,7 @@ OnSwitchHours
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L2.SwitchHours)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L2.SwitchHours)
 
 The above function will output a dialogue based on the current system time. If the hour were 5 (5AM), the output would be the string `It's 5AM!`
 
@@ -69,7 +69,7 @@ OnSwitchBrackets
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L2.SwitchBrackets)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L2.SwitchBrackets)
 
 The above function will output the string `It's me!`, since the set of brackets containing that dialogue is the second index. Note that both `_somevar` and `_someothervar` will contain the integer `1` here, because all of the expressions in the `switch` statement are evaluated *before* picking the output based on the index. This is different from if/else and case/when, so it is important to be aware of.
 

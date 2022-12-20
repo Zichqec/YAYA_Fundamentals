@@ -31,7 +31,7 @@ OnWriteToFile
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L2.WriteToFile)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L2.WriteToFile)
 
 The above function will output either `Playlist saved.` or `Saving playlist failed.`, depending on if the operation was successful or not.
 
