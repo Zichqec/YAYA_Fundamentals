@@ -10,29 +10,27 @@ Calling SAORI-basic is very similar to calling SAORI-universal. This is because 
 
 First, you need to have the proxy saori and your chosen SAORI-Basic in the same folder as your yaya.dll, or in a subfolder. Then, you can use `FUNCTIONEX` to call the proxy SAORI. The first argument will be the relative filepath to the proxy SAORI. Then, the second argument is the relative filepath to the SAORI-basic to call. The proxy SAORI will use this to run the SAORI-basic. After that, you can start writing any arguments that your chosen SAORI-basic needs.
 
-For this example, I will use the SAORI [ImageCompositor](https://zichqec.github.io/s-the-skeleton/saoris_plugins_tools#imagecompositor). This SAORI composites multiple images together and saves them as a .png file. (Note: if you get a warning about this file being a virus, please do let me know. I wrote it myself and there is nothing malicious in it, so I have to report it as a false positive to microsoft. The source code is available on my site if you want to look for yourself.)
+For this example, I will use the SAORI [histomachine](https://github.com/ecclysium/histomachine). This SAORI creates histograms from the data you input, and saves them as png files.
 
 ```c
-OnCompositeImages
+OnMakeGraph
 {
-	_i = FUNCTIONEX("saori/proxy_ex.dll","saori/ImageCompositor.exe","output.png","shape_square.png","shape_circle.png")
+	void FUNCTIONEX("saori/proxy_ex.dll","saori/histomachine.exe","darkslateblue","#71a6f0","95,98,2000,7,8,10","95,98,2000,7,8,10","Windows OS numbers","example_graph.png",75)
 	
-	if "Done" _in_ _i
-	{
-		"Composited images successfully."
-	}
-	else
-	{
-		"%(_i)"
-	}
+	"Image output to the \_a[OnOpenGraphs]graphs\_a folder."
+}
+
+OnOpenGraphs
+{
+	"\C\![open,explorer,ghost/master/graphs/]"
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M9.L2.CompositeImages)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M9.L2.MakeGraph) \[Note: this may take a few seconds to run. This is normal for SAORI-basic.]
 
-In the code above, we first specify the proxy SAORI, then the ImageCompositor SAORI. Then, following the instructions of ImageCompositor, we add the output file name, and a couple of input files.
+In the code above, we first specify the proxy SAORI, then the histomachine SAORI. Then, following the instructions of histomachine, we specify some colors, labels for each column, the height of each column, a name for the graph, a name for the file, and the size of the image.
 
-If the SAORI executes successfully, we output a message saying so. If it does not, we display the contents of `_i`, because this specific SAORI will output an error message.
+After the SAORI executes, we provide a link to where the image may be viewed. It would also be possible to display this image directly in the balloon with a `\_b` tag.
 
 As you can see from this example compared to the window_info example, SAORI are extremely varied. YAYA's method of calling them will always be the same, but what sort of input you need to give and what sort of output you get will vary widely based on what SAORI you're using. That's because, in theory, you can do *anything* with SAORI. But that is, of course, outside the scope of a guide for learning YAYA.
 
