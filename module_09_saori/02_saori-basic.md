@@ -30,6 +30,7 @@ OnOpenGraphs
 
 The above function will output `Image output to the \_a[OnOpenGraphs]graphs\_a folder.`, and will create the following image:
 
+![example_graph](https://user-images.githubusercontent.com/36972872/208625284-d5ccaa96-1700-4573-812a-01af6a979a17.png)
 
 
 In the code above, we first specify the proxy SAORI, then the histomachine SAORI. Then, following the instructions of histomachine, we specify some colors, labels for each column, the height of each column, a name for the graph, a name for the file, and the size of the image.
