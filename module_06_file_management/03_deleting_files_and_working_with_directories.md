@@ -28,7 +28,7 @@ OnDeleteFile
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L3.DeleteFile)
 
-The above function will attempt to delete the `destined_for_deletion.txt` file. It will then output a message based on whether the action was successful or not.
+The above function will attempt to delete the `myplaylist.txt` file. It will then output a message based on whether the action was successful or not.
 
 You can also create and delete directories (folders). To create a directory, use the `MKDIR` function. `MKDIR` takes 1 argument, the path where you want to create the directory (including the name of the directory) relative from yaya.dll, and returns `1` if the operation was successful, and `0` if not.
 
