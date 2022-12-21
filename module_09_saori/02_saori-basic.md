@@ -10,7 +10,7 @@ Calling SAORI-basic is very similar to calling SAORI-universal. This is because 
 
 First, you need to have the proxy saori and your chosen SAORI-Basic in the same folder as your yaya.dll, or in a subfolder. Then, you can use `FUNCTIONEX` to call the proxy SAORI. The first argument will be the relative filepath to the proxy SAORI. Then, the second argument is the relative filepath to the SAORI-basic to call. The proxy SAORI will use this to run the SAORI-basic. After that, you can start writing any arguments that your chosen SAORI-basic needs.
 
-For this example, I will use the SAORI [histomachine](https://github.com/ecclysium/histomachine). This SAORI creates histograms from the data you input, and saves them as png files.
+For this example, I will use the SAORI [histomachine](https://github.com/ecclysium/histomachine). This SAORI creates histograms from the data you input, and saves them as files. In this case we will save the output as png files, but other types are possible too.
 
 ```c
 OnMakeGraph
