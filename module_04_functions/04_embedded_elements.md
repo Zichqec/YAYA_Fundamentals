@@ -6,7 +6,7 @@
 
 [<< Previous lesson](../module_04_functions/03_pure_functions.md)
 
-There is one more way to call functions that we have not covered yet. It is called **embedded elements**, or sometimes **string expansion**. In other languages, this is often called **string interpolation**. In the English community, it is colloquially known as **envelopes**, though envelope also generally refers to lists of words. So, we will avoid that term here.
+There is one more way to call functions that we have not covered yet. It is called **embedded elements**, or sometimes **string expansion**. In other languages, this is often called **string interpolation**. In the English ukagaka community, it is colloquially known as **envelopes**, though envelope also generally refers to lists of words. So, we will avoid that term here.
 
 First, we will cover what is called a **ranged deployment**. In any script enclosed in double quotes, you can write a formula, function, or variable within parenthesis, preceded by a %. This will embed the result/returned value within the script.
 
