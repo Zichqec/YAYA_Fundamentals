@@ -81,7 +81,7 @@ OnListFiles
 	_display = ""
 	foreach _files; _file
 	{
-		_display += "\![*]%(_file)\n"
+		_display += "\![*]%(_file), "
 	}
 	"\_qExample Files:\n\n%(_display)"
 }
@@ -89,7 +89,7 @@ OnListFiles
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M6.L0.ListFiles)
 
-The above function will output the current list of files in the `examplefiles` directory, in a list formatted with choice markers and linebreaks.
+The above function will output the current list of files in the `examplefiles` directory, in a list formatted with choice markers and commas.
 
 The `|` character is not valid to use in filenames, so no matter what the names of the files are, this operation will split them up properly.
 

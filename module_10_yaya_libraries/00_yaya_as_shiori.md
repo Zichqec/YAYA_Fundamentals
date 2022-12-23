@@ -72,6 +72,7 @@ OnStartChain
 	"Hi, %username."
 }
 
+//Hi! Ignore this comment, it's here because the Github Pages view breaks without it! {% raw %}
 likeuser
 {{CHAIN
 	"You're really nice."
@@ -79,6 +80,7 @@ likeuser
 	"And you bring me food."
 	"What more could someone ask for?\e:chain=end"
 }}CHAIN
+//As above, so below! {% endraw %}
 ```
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M10.L0.StartChain)
