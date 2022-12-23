@@ -2,7 +2,7 @@ console.log("Hello, world! If I can see this, this is gonna work!!");
 
 function removeJump(link)
 {
-	link = link.replace("https://zichqec.github.io/s-the-skeleton/jump.html?url=","");
+	link = link.replace("https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=","");
 	
 	link = decodeURIComponent(link);
 	
