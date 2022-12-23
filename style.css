@@ -1,0 +1,268 @@
+p
+{ 
+    font-family: 'Calibri', sans-serif;
+    color: #000000; /*Text color*/
+    text-align: left;
+	font-size: 17px;
+}
+
+body
+{
+	background: #7396b5;
+}
+
+article
+{
+	background: #eff3f7;
+	border-radius: 2px;
+	padding: 10px 20px 10px 20px;
+}
+
+a
+{
+	font-family: 'Calibri', sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+/* a:visited */
+/* { */
+	/* color: #b200ff; */
+/* } */
+
+img
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1
+{
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Calibri', sans-serif;
+}
+
+h2
+{
+	font-size: 23px;
+	text-align: center;
+	font-family: 'Calibri', sans-serif;
+}
+
+h3
+{
+	font-family: 'Calibri', sans-serif;
+}
+
+#main pre > code
+{
+	font-family: monospace;
+	color: white;
+}
+
+.language-plaintext
+{
+	background-color: #d7e1e8;
+}
+
+.accordion {
+  color: #000000;
+  cursor: pointer;
+  padding: 10px 20px 10px 20px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
+.active, .accordion:hover {
+  background-color: #a7c7e2;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #000000;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+button
+{
+	background-color: #eff3f7;
+	font-family: 'Calibri', sans-serif;
+    color: #000000; /*Text color*/
+	font-size: 17px;
+}
+
+nav
+{
+	width: 300px;
+	position: fixed;
+	/*padding: 8px 0;*/
+	border-radius: 2px;
+	height: 100%;
+	pointer-events: none;
+	
+}
+
+.navbar
+{
+	background: #eff3f7;
+	border-radius: 2px;
+	height: 98%;
+	
+	overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+	pointer-events: auto;
+}
+
+.navbar a
+{
+	font-size: 16px;
+	color: #000000;
+	font-weight: normal;
+	display: block;
+	padding: 10px 20px 10px 20px;
+}
+
+.navbar a:hover
+{
+	background-color: #a7c7e2;
+}
+
+.main
+{
+	margin-left: 310px; /* Same width as the sidebar + left position in px - previously 175 */
+	min-width: 200px;
+	max-width: 1500px;
+	padding-top: 0px;
+	padding-bottom: 3px;
+}
+
+/* TEMP */
+code
+{
+	font-family: monospace;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #eff3f7;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #516a7f;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #415466;
+}
+
+.openbtn
+{
+	font-size: 17px;
+	cursor: pointer;
+	position: absolute;
+	right: 8px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 2px;
+	visibility: hidden;
+}
+
+.openbtn:hover
+{
+	background-color: #a7c7e2;
+	float: left;
+}
+
+.closebtn
+{
+	position: absolute;
+	top: 10px;
+	right: 0px;
+	visibility: hidden;
+}
+
+@media screen and (max-width: 600px) {
+
+	.navbar {
+		height: 0;
+		width: 100%;
+		position: fixed;
+		z-index: 1;
+		top: 0;
+		left: 0;
+		background-color: #eff3f7;
+		overflow-x: hidden;
+		transition: 0.5s;
+		padding-top: 0;
+		pointer-events: none;
+	}
+	
+	.navbar a {
+		text-decoration: none;
+		display: block;
+
+	}
+	
+	.navbar .closebtn {
+		position: absolute;
+		top: 10px;
+		right: 0px;
+		font-size: 17px;
+		background-color: #eff3f7;
+		z-index: 2;
+		font-weight: bold;
+		visibility: initial;
+	}
+	
+	.closebtn:hover{
+		background-color: #eff3f7;
+	}
+	
+	.openbtn
+	{
+		visibility: initial;
+	}
+	
+	.main
+	{
+		margin-left: 0px; /* Same width as the sidebar + left position in px - previously 175 */
+		min-width: 100%;
+		padding-top: 0px;
+		padding-bottom: 5px;
+	}
+
+	.navbar a
+	{
+		font-size: 17px;
+	}
+	
+	.navbar button
+	{
+		font-size: 17px;
+	}
+}

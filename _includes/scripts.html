@@ -1,0 +1,30 @@
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+<script>
+function openNav() {
+  document.getElementById("sidenav").style.height = "100%";
+  document.getElementById("sidenav").style.paddingTop = "10px";
+  document.getElementById("sidenav").style.pointerEvents = "auto";
+}
+
+function closeNav() {
+  document.getElementById("sidenav").style.height = "0";
+  document.getElementById("sidenav").style.paddingTop = "0px";
+  document.getElementById("sidenav").style.pointerEvents = "none";
+}
+</script>
