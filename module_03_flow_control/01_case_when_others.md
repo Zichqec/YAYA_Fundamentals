@@ -29,7 +29,7 @@ OnSimpleCase
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.SimpleCase)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.SimpleCase)
 
 The above function will output the string `It's midnight!` when the hour is 0 (12AM). Alternatively, if the hour is 12 (12PM), it will output the string `It's noon!`
 
@@ -55,7 +55,7 @@ OnMultipleStatements
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.MultipleStatements)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.MultipleStatements)
 
 The above function will output the string `RGB!`
 
@@ -78,7 +78,7 @@ OnMultipleStatementsAsIf
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.MultipleStatementsAsIf)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.MultipleStatementsAsIf)
 
 The above function will output the string `RGB!`. As you can see, this does the same thing as the case/when statement, but it is much longer to write, and takes longer to read.
 
@@ -101,7 +101,7 @@ OnCaseRanges
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.CaseRanges)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.CaseRanges)
 
 The above function will output either `It's sometime in the AM!` or `It's sometime in the PM!`, depending on the time of day.
 
@@ -126,7 +126,7 @@ OnMultipleRanges
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.MultipleRanges)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L1.MultipleRanges)
 
 And that is all there is to case/when/others. It's less flexible than if/elseif/else, but it can be much more readable depending on your needs.
 

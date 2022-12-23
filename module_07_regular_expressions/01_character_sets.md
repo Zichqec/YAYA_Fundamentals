@@ -19,7 +19,7 @@ OnMatchExample
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchExample)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchExample)
 
 The above function will output `1`, since the string matches the expression perfectly.
 
@@ -36,7 +36,7 @@ OnMatchWord
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchWord)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchWord)
 
 The above function will always output `1`, whether the string is chosen to be "Potato!" or "Tomato?". Other strings would also work, such as "Potato?", "Po7ato)", etc. As long as they match the expression.
 
@@ -54,7 +54,7 @@ OnMatchSpace
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchSpace)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchSpace)
 
 The above function will output `1`. If the string were "ABC", it would not match. This could also match other sequences, such as "X Y Z", "A A A", etc.
 
@@ -69,7 +69,7 @@ OnMatchDigit
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchDigit)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L1.MatchDigit)
 
 The above function will output `1`. This expression could work with any phone number that has a basic grouping of 3 numbers, 3 numbers, then 4 numbers. 123-456-7890, etc.
 

@@ -23,7 +23,7 @@ OnReplaceDialogueAndVarName
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L0.ReplaceDialogueAndVarName)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L0.ReplaceDialogueAndVarName)
 
 The above code will output `I like mustard`. It will also increment a variable called `mustard` by 1.
 
@@ -41,7 +41,7 @@ START
 END
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L0.ReplaceBrackets)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L0.ReplaceBrackets)
 
 The above code will output `Hello, world!`
 
@@ -63,7 +63,7 @@ OnReplaceOrder
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L0.ReplaceOrder)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L0.ReplaceOrder)
 
 The output of the above would be `corkboard`, since the `#define` runs first and creates "corkboard", and then the `#globaldefine` finds no instances of "card" to replace.
 

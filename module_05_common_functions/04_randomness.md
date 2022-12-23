@@ -19,7 +19,7 @@ OnRandomNumber
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.RandomNumber)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.RandomNumber)
 
 The above function will output a string like `I'm thinking of the number... 6`, but the number will be a random number from 0 to 9.
 
@@ -37,7 +37,7 @@ OnChangeRandomSeed
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.ChangeRandomSeed)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.ChangeRandomSeed)
 
 The above function will always output `I'm thinking of the number... 7`, because we are setting the seed each time before we run it. It is advised to be careful with this function, as some of the base dic files in various libraries may make use of `RAND`. (Again, we'll cover what libraries are later, but you will almost certainly be using one.)
 
@@ -53,7 +53,7 @@ OnRandomArrayElement
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.RandomArrayElement)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.RandomArrayElement)
 
 The above function will output either `My favorite color is red!`, `My favorite color is green!`, or `My favorite color is blue!`, at random.
 
@@ -72,7 +72,7 @@ OnTwoRandomElements
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.TwoRandomElements)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L4.TwoRandomElements)
 
 The above function will output the string with random colors chosen, such as `My favorite color is blue! Oh, but I also like red...`. However, because we erase the first color that is picked from the array, we prevent it from being chosen a second time. This prevents awkward outputs like `My favorite color is blue! Oh, but I also like blue...`
 

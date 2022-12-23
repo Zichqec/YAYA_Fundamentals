@@ -16,7 +16,7 @@ OnAssignAddition
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L6.AssignAddition)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L6.AssignAddition)
 
 The above function will output the integer `12`. This is because `10 + 2` is run first, resulting in 12, and *then* the 12 is assigned to `_i`.
 
@@ -30,7 +30,7 @@ OnAssignUninitializedVar
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L6.AssignUninitializedVar)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L6.AssignUninitializedVar)
 
 The above function will not output anything. `_j` will contain the integer `10`, but `_i` will be empty. This is because `_i = _j` is run first, but `_j` doesn't contain anything at this time. Then, `_j = 10` is run, and the value is assigned to `_j`.
 
@@ -45,7 +45,7 @@ OnAssignResult
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L6.AssignResult)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M1.L6.AssignResult)
 
 The above function will output the integer `10`. Both `_i` and `_j` will contain the integer `10`. Since these are both assignment operations they have the same priority, but the parenthesis raise the priority level of `_j = 10`. Therefore, `_j = 10` is run first, and `_i = _j` is run afterwards, assigning `_i` the value of `_j`.
 

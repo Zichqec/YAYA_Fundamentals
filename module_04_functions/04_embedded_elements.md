@@ -40,7 +40,7 @@ season2
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.RangedDeployment)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.RangedDeployment)
 
 The above function will output the string `It's autumn!` if the (meteorological) season is autumn, etc.
 
@@ -77,7 +77,7 @@ season3
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.DoesNotExpand)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.DoesNotExpand)
 
 The output of the above function will be the string `It's %(season3)!`, regardless of what month it is.
 
@@ -96,7 +96,7 @@ OnShowDrawback
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.ShowDrawback)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.ShowDrawback)
 
 The output of the above function will be the string `Hey, good to see you today friend!\e` or `Oh, hey.`, chosen at random. *Regardless of which one is output,* the friendship variable will always be incremented by 1.
 
@@ -113,7 +113,7 @@ OnWithoutParenthesis
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.WithoutParenthesis)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.WithoutParenthesis)
 
 The above function will always return the string `I like green`
 
@@ -130,7 +130,7 @@ OnChangingOutput
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.ChangingOutput)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.ChangingOutput)
 
 The above function will output `I like blueor I like green`. This is because, when the first string is reached, the best match is `%_col`, and the `or` from `%_color` is left as regular text, creating `blueor`. Afterwards, `_color` is created, and now `_color` is the best match when it reaches the next string.
 
@@ -157,7 +157,7 @@ food
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.RecallResult)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M4.L4.RecallResult)
 
 In the above function, the output might be something like: `I like red. Isn't red great? I like cheese too, I want some red cheese.` This will vary depending on which string is called from each embedded element, but you can see that recalling it with `%[]` syntax keeps it consistent through the script.
 

@@ -15,7 +15,7 @@ OnSystemFile
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L1.SystemFile)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L1.SystemFile)
 
 The above function will output the filepath of the file `OnSystemFile` is written in. This will vary based on your setup, but it will be in a format like `file.dic`, or `subfolder/file.dic`
 
@@ -28,7 +28,7 @@ OnSystemLine
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L1.SystemLine)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M8.L1.SystemLine)
 
 Like the previous example, the output of this function will vary depending on your setup.
 

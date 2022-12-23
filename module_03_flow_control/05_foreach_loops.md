@@ -22,7 +22,7 @@ OnForeachColors
 }
 ```
 
-[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/s-the-skeleton/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L5.ForeachColors)
+[Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L5.ForeachColors)
 
 The output of the above function will be the string `I like red! I like orange! I like yellow! I like green! I like cyan! I like blue! I like purple! I like magenta! `
 
