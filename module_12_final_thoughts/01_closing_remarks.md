@@ -2,7 +2,7 @@
 
 ## 01 - Closing Remarks
 
-[You did it! Congrats on reaching the end!]()
+[You did it! Congrats on reaching the end!](../README.md)
 
 [<< Previous lesson](../module_12_final_thoughts/00_what_to_do_next.md)
 
@@ -14,6 +14,6 @@ Please let me know if you found any issues in my guide, whether it be typos, unc
 
 Happy coding!
 
-[You did it! Congrats on reaching the end!]()
+[You did it! Congrats on reaching the end!](../README.md)
 
 [<< Previous lesson](../module_12_final_thoughts/00_what_to_do_next.md)
