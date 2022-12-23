@@ -60,7 +60,7 @@ OnStopAt10
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L6.StopAt10)
 
-The above function will output the string `0123456789`
+The above function will output the string `012345678910`
 
 The above loop is declared in such a way that it would create an infinite loop, but we use a `break` statement to stop it after just 10 loops.
 
