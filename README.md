@@ -16,7 +16,7 @@ The website for the guide was put together over the course of a few days, as my 
 
 ## Advent Calendar
 
-This guide was initially posted for the [伺的 Advent Calendar 2022](https://adventar.org/calendars/8310), on day 24. You can read the article about it [here](). The guide was created throughout the entirety of 2022 (though admittedly I only really worked on it in September and December...), and I used the Advent Calendar as a deadline to motivate me to finish.
+This guide was initially posted for the [伺的 Advent Calendar 2022](https://adventar.org/calendars/8310), on day 24. You can read the article about it [here](https://zichqec.github.io/s-the-skeleton/advent_calendar_2022_02). The guide was created throughout the entirety of 2022 (though admittedly I only really worked on it in September and December...), and I used the Advent Calendar as a deadline to motivate me to finish.
 
 
 ## Credits
