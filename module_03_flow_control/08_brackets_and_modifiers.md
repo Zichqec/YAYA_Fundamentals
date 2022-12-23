@@ -17,13 +17,16 @@ OnHalfRed
 	{
 		"green"
 		"blue"
+		"cyan"
+		"magenta"
+		"yellow"
 	}
 }
 ```
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.HalfRed)
 
-The above function will output `red` 50% of the time. Otherwise, it will choose between one of the two other options, resulting in a 25% chance to output `green` and a 25% chance to output `blue`
+The above function will have a 50% chance to output `red`. Otherwise, it will choose between one of the five other options, resulting in a 10% chance to output `green` a 10% chance to output `blue`, a 10% chance to output `cyan`, a 10% chance to output `magenta`, and a 10% chance to output `yellow`.
 
 Note that output determinants can also be contained in brackets, and if so, will only affect the output candidates within those brackets.
 
@@ -34,6 +37,9 @@ OnHalfRedExclamation
 	{
 		"green"
 		"blue"
+		"cyan"
+		"magenta"
+		"yellow"
 		--
 		"!"
 	}
@@ -42,7 +48,7 @@ OnHalfRedExclamation
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.HalfRedExclamation)
 
-The above function will output `red` 50% of the time, `green!` 25% of the time, and `blue!` 25% of the time.
+The above function will have a 50% chance to output `red`. Otherwise, it will choose between one of the five other options, resulting in a 10% chance to output `green!` a 10% chance to output `blue!`, a 10% chance to output `cyan!`, a 10% chance to output `magenta!`, and a 10% chance to output `yellow!`.
 
 Brackets can also be nested infinitely deep.
 
@@ -268,13 +274,16 @@ OnHalfRed2
 	{
 		"green"
 		"blue"
+		"cyan"
+		"magenta"
+		"yellow"
 	}
 }
 ```
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.HalfRed2)
 
-The above function is the example from before with how brackets affect probabilities. Each of the dialogues within the brackets have a 25% chance to be chosen.
+The above function is the example from before with how brackets affect probabilities. Each of the individual dialogues within the brackets have a 10% chance to be chosen when this function is called.
 
 ```c
 OnPoolModifier : pool
@@ -283,13 +292,16 @@ OnPoolModifier : pool
 	{
 		"green"
 		"blue"
+		"cyan"
+		"magenta"
+		"yellow"
 	}
 }
 ```
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.PoolModifier)
 
-When we add `pool` to the function, all of the dialogues are given an equal chance to be chosen instead of it being affected by the brackets. So 33% of the time it will output `red`, 33% of the time it will output `green`, and 33% of the time it will output `blue`.
+When we add `pool` to the function, all of the dialogues are given an equal chance to be chosen instead of it being affected by the brackets. So it has a 16.6% chance to output `red`, 16.6% chance to output `green`, 16.6% chance to output `blue`, etc. Each dialogue has a 16.6% chance to be chosen.
 
 There is also the `melt` modifier. This is similar to the `parallel` function mentioned in the previous lesson; any arrays within a function that has a melt modifier will have each element used as a separate output candidate. This is primarily used with the second way of writing function modifiers.
 
