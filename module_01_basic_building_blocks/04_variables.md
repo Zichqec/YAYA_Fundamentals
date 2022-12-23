@@ -57,7 +57,7 @@ Variable names are pretty flexible, but there are a few rules you must follow:
 * They cannot begin with a number
 * They cannot exactly match the names of reserved words (like if, else, etc)
 * They cannot match the names of existing functions
-* They cannot contain spaces or the following characters: `! " # $ % & ( ) * + , - / : ; < = > ? @ [ ] ` { | }`
+* They cannot contain spaces or the following characters: `! " # $ % & ( ) * + , - / : ; < = > ? @ [ ] \` { | }`
 
 In general, stick to alphanumeric characters, underscores, and periods. Also note that variable names are case sensitive, so MyVariable is a different variable from myvariable.
 
