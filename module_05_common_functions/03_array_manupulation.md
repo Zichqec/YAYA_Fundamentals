@@ -67,11 +67,11 @@ The above function will output `1,4,7`, the index numbers of each element that c
 
 ## Further Context
 
-ARRAYSIZE and ASEARCH are favorites of mine! These were what made me realize what kinds of things I could really pull off with arrays. I use them all the time, *especially* ASEARCH. I've used it several times throughout code examples in this guide, even!
+`ARRAYSIZE` and `ASEARCH` are favorites of mine! These were what made me realize what kinds of things I could really pull off with arrays. I use them all the time, *especially* `ASEARCH`. I've used it several times throughout code examples in this guide, even!
 
-Despite that, for some reason I can never keep the order of arguments in ASEARCH straight. The proper order is "key, array". And it makes sense if you think about it; it's like I mentioned in the last module, if you have an array as an argument, the length of it could be anything. So, the key has to go first, that way it knows which one it is. Or it's easier to handle that way, anyways.
+Despite that, for some reason I can never keep the order of arguments in `ASEARCH` straight. The proper order is "key, array". And it makes sense if you think about it; it's like I mentioned in the last module, if you have an array as an argument, the length of it could be anything. So, the key has to go first, that way it knows which one it is. Or it's easier to handle that way, anyways.
 
-Here's a practical example of ASEARCH. One of my WIP ghosts has a setup where you can interact with her in various ways (playing minigames, playing music, changing dressup items, etc.), and each day you will get bonus friendship/money the *first* time you do any of these actions. That way, it encourages the user to do lots of varied things, instead of spamming one option.
+Here's a practical example of `ASEARCH`. One of my WIP ghosts has a setup where you can interact with her in various ways (playing minigames, playing music, changing dressup items, etc.), and each day you will get bonus friendship/money the *first* time you do any of these actions. That way, it encourages the user to do lots of varied things, instead of spamming one option.
 
 The way this works is, she has an array of TodaysActions. When the user does an action, she will check if that action is *already* in the array. If it is, then she gives them the normal amount of points. If it is *not* in the array, then she will give extra points. And the array is reset every time she boots.
 
