@@ -100,7 +100,7 @@ The above function will output `1`
 
 `reference` vs `_argv` had me confused for a long while. If you're still confused, here's what you should take away from this lesson:
 
-`_argv` is a *local* array, generated when you make a *function call* with *parameters* attached. They are something made by YAYA. You will be using `_argv` if you are passing data this way: `SomeFunction("thing 1","thing 2","etc...")
+`_argv` is a *local* array, generated when you make a *function call* with *parameters* attached. They are something made by YAYA. You will be using `_argv` if you are passing data this way: `SomeFunction("thing 1","thing 2","etc...")`
 
 references are a *global array/variables*, generated when a *SHIORI event* is called. They are something made by the baseware. You will be using references if you are passing data by any Sakura Script tags, such as: `\![raise,OnSomeFunction,thing 1,thing 2,etc...]`
 
