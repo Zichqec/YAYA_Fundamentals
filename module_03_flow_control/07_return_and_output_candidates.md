@@ -186,7 +186,7 @@ OnRandomLoopOutput
 }
 ```
 
-So, of course, since all of these numbers aren't being assigned to anything... They are output candidates, and YAYA will cheerily pick from them at random, completely befuddling any poor dev that isn't already familiar with this concept.
+So, of course, since all of these numbers aren't being assigned to anything... They are output candidates, and YAYA will cheerily pick from them at random, completely befuddling any poor dev that isn't already familiar with this concept. (Me, circa 2020.)
 
 As I mentioned before, using a local variable to store your desired output is one way to get around this. We'll see another way around it in the next lesson.
 
