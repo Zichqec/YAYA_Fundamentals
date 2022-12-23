@@ -201,7 +201,7 @@ The above function will output `1`. As above, this expression will match either 
 
 # Futher Context
 
-The best uses I have found for regex are to simplify code that would otherwise be exceedingly long. For example, here is a function I use sometimes with ghost communication, which strips out SakuraScript tags for pauses and quicksections.
+The best uses I have found for regex are to simplify code that would otherwise be exceedingly long. For example, here is a function I use sometimes with ghost communication, which strips out Sakura Script tags for pauses and quicksections.
 
 ```c
 RemovePauses //Removes pauses and quicksections
@@ -214,7 +214,7 @@ RemovePauses //Removes pauses and quicksections
 }
 ```
 
-That very first `RE_REPLACE(_argv[0],"\\!\[quicksection,(true|false|1|0)\]","")` covers 4 different tags: `\![quicksection,true]`, `\![quicksection,false]`, `\![quicksection,1]`, and `\![quicksection,0]`. You can see here that we're using the logical OR in a capture group, to make sure that's the only part of the tag where we're checking for something different. Note also, that we have to escape the brackets for the SakuraScript tag so they are treated as literal characters and not a character class!
+That very first `RE_REPLACE(_argv[0],"\\!\[quicksection,(true|false|1|0)\]","")` covers 4 different tags: `\![quicksection,true]`, `\![quicksection,false]`, `\![quicksection,1]`, and `\![quicksection,0]`. You can see here that we're using the logical OR in a capture group, to make sure that's the only part of the tag where we're checking for something different. Note also, that we have to escape the brackets for the Sakura Script tag so they are treated as literal characters and not a character class!
 
 After that is a normal replace command, because `\_q` has no alternative ways of writing it.
 

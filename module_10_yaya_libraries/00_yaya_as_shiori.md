@@ -33,7 +33,7 @@ So, what can you do, if you want to keep auto type convert on? Thankfully, there
 Also worth noting is that auto type convert was on by default up until late 2022. Nowadays, it is set to off by default. So, if you import someone else's YAYA code into your ghost and it isn't working, and you have auto type convert off, that could be the reason, and you may need to go through and add explicit type conversions to references.
 
 
-Finally, there are some special operators that you can add to your scripts. In SakuraScript, the `\e` tag is used when you want to end a script and ignore everything that comes after it. Tags will not be executed, and text will not be displayed to the user. This means you can insert other things after it, like special tags your code can check for, or these special operators.
+Finally, there are some special operators that you can add to your scripts. In Sakura Script, the `\e` tag is used when you want to end a script and ignore everything that comes after it. Tags will not be executed, and text will not be displayed to the user. This means you can insert other things after it, like special tags your code can check for, or these special operators.
 
 First is **eval**. If you want to apply a change to a variable when a certain script is executed, you can use `:eval=` for that. Any text you write after it will be run through an `EVAL` function.
 

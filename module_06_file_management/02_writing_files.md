@@ -57,7 +57,7 @@ OnSaveDesignFile
 	_fname = REPLACE(_fname,"<","")
 	_fname = REPLACE(_fname,">","")
 	_fname = REPLACE(_fname,"|","")
-	_fname = REPLACE(_fname,"]","") //This one is because sakurascript
+	_fname = REPLACE(_fname,"]","") //This one is because sakura script
 	
 	_path = "/../../saved_data/designs/%(shellfld)/%(_fname).wgd"
 	if FOPEN(_path,"w") == 1 //Create a new file

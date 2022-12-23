@@ -119,7 +119,7 @@ OnPlaylistName //After the user types a name
 	_name = REPLACE(_name,"<","")
 	_name = REPLACE(_name,">","")
 	_name = REPLACE(_name,"|","")
-	_name = REPLACE(_name,"]","") //This one is because sakurascript
+	_name = REPLACE(_name,"]","") //This one is because sakura script
 	
 	
 	_playlists = FENUM("/../../playlists/","|")
