@@ -124,7 +124,7 @@ OnEditMultiArray
 }
 ```
 
-Here's a modified version of an example used back in the arrays module. You can see that this time, I use SPLIT and TOSTR to convert it to a general purpose array (so I can use IARRAY) and then back again.
+Here's a modified version of an example used back in the arrays module. You can see that this time, I use `SPLIT` and `TOSTR` to convert it to a general purpose array (so I can use `IARRAY`) and then back again.
 
 [Next lesson >>](../module_05_common_functions/02_variable_manipulation.md)
 
