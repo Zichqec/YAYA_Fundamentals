@@ -20,7 +20,7 @@ OnSelectFromMultiArray
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L3.SelectFromMultiArray)
 
-The output of the above function will be `B`. This is because `_array[1]` outputs `B|2|$`, and then we access that smaller string using | as the delimiter, and extract the `B` since it is element 0. Remember that if no delimiter is specified, it uses comma by default.
+The output of the above function will be `B`. This is because `_array[1]` outputs `B|2|$`, and then we access that smaller string using `|` as the delimiter, and extract the `B` since it is element 0. Remember that if no delimiter is specified, it uses comma by default.
 
 It may be helpful to think of two dimensional arrays like a grid. The above array can be visualized in this way:
 
