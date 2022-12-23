@@ -4,6 +4,8 @@
 
 [Next lesson >>](../module_00_overview/01_what_is_yaya.md)
 
+[Guide information](../README.md)
+
 This guide is intended to make the YAYA programming language accessible to more people. Whether you're completely new to programming and need to learn the basics of computer science, or you're experienced in programming but new to YAYA, or even if you have some experience in YAYA and want to learn more advanced features, I hope this guide will have something for you.
 
 I have run this guide past a few people to check for errors and ensure things are explained clearly. But if you find something confusing, or an error of any kind, do reach out and I will clarify and/or update the guide.
@@ -32,3 +34,5 @@ If you're already familiar with computer science and you just need to learn abou
 All that being said, I hope you have fun learning about YAYA! As a programming language it has some very strange features. But it is well adapted for creating ghosts, and if you're new to programming, a lot of the core concepts you learn here can be applied to other programming languages as well.
 
 [Next lesson >>](../module_00_overview/01_what_is_yaya.md)
+
+[Guide information](../README.md)
