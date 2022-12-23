@@ -111,7 +111,7 @@ The above function will output `4`
 
 Changing the types of variables isn't something you usually want to do too often. At least when global variables are involved, it's important to have them consistently be the same type. But sometimes, you do need to switch things around. Particularly references, and especially if you have auto type convert off (we'll cover that later). It is also very important for multidimensional arrays, if you are storing numbers in them, since the arrays can only actually hold information as strings.
 
-SPLIT and TOSTR for arrays is also very important. As mentioned previously, sometimes you need to make a general purpose array into a simple array, to avoid the nesting behavior. Or maybe you're working with part of a multidimensional array, and you really need it to be a general purpose array while you're modifying its elements.
+`SPLIT` and `TOSTR` for arrays is also very important. As mentioned previously, sometimes you need to make a general purpose array into a simple array, to avoid the nesting behavior. Or maybe you're working with part of a multidimensional array, and you really need it to be a general purpose array while you're modifying its elements.
 
 ```c
 OnEditMultiArray
