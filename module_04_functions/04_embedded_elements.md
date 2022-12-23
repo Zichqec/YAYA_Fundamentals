@@ -213,7 +213,7 @@ Yuck. How about this instead:
 
 This may look like a small difference, but believe me, I feel it every time I type a script with multiple of these things.
 
-Now of course, you must be mindful of the caveat I mentioned before. *Don't* try to put anything that changes variables into an embedded element. Just don't! Not even if you tuck it into a separate function; the envelope will still make the function run even if the envelope isn't in the script that is output! There are other ways to achieve this effect. I primarily recommend using the `raise` tag in Sakura Script, because Sakura Script tags don't execute until the dialogue they are in is actually displayed. But there is another method we'll see later on for simple variable changes.
+Now of course, you must be mindful of the caveat I mentioned before. *Don't* try to put anything that changes variables into an embedded element. Just don't! Not even if you tuck it into a separate function; the envelope will still make the function run even if the envelope isn't in the script that is output! There are other ways to achieve this effect. I primarily recommend using the `raise` Sakura Script tag, because Sakura Script tags don't execute until the dialogue they are in is actually displayed. But there is another method we'll see later on for simple variable changes.
 
 Anyways, here is how I would fix the example I used when I talked about this before, with a `raise` tag.
 
