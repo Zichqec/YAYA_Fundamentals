@@ -88,7 +88,7 @@ OnConvertArrayToString
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M5.L1.ConvertArrayToString)
 
-The above function will output `3` (General purpose arrays and simple arrays look the same when output to a ghost's balloon)
+The above function will output `3` (General purpose arrays and simple arrays look the same when output to a ghost's balloon, so it is easier to show this change with `GETTYPE`.)
 
 Finally, there is `SPLIT`. `SPLIT` converts a string to a general purpose array, by splitting up the string into different elements. You must specify which character/string it should split on (the character that the simple array is using as the delimiter). It takes 2 arguments; the string to split, and which character it should split on.
 
