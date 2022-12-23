@@ -167,7 +167,7 @@ season
 }
 ```
 
-This code gets the season, based on the current hemisphere. The initial hemisphere check is simple, so I use an if/else here to save on whitespace. When, I use case/when to express the ranges of numbers, since this is much cleaner and easier to read.
+This code gets the season, based on the current hemisphere. The initial hemisphere check is simple, so I use an if/else here to save on whitespace. Then, I use case/when to express the ranges of numbers, since this is much cleaner and easier to read.
 
 [Next lesson >>](../module_03_flow_control/02_switch.md)
 
