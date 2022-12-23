@@ -90,8 +90,10 @@ In the above function, the dialogue "I really like you, %username." will start w
 Chain dialogues are actually a switch statement in disguise. These are the preprocessor commands that make chains work:
 
 ```c
+//Hi! Ignore this comment also! Did you know GitHub pages uses this thing called Liquid to help you build websites easily? {% raw %}
 #globaldefine	{{CHAIN		{ switch CHAIN.Index {
 #globaldefine	}}CHAIN		} CHAIN.Index++ }
+//Liquid is really handy! But it uses {{ }} syntax for its tags, which is interfering with YAYA as SHIORI's chain syntax! These comments are here to make it output the raw text! I'm in hell! {% endraw %}
 ```
 
 If we break this down by adding line breaks, that means our chain above actually looks like this.
