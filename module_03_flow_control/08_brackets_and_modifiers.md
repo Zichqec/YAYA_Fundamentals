@@ -255,7 +255,7 @@ OnLastModifier : last
 The above function will only ever output `blue`
 
 
-Those are all of the basic modifiers. However, there are some additional modifiers that can be added to the `random`, `nonoverlap`, `sequential`, and array modifiers.
+Those are all of the basic modifiers. However, there are some additional modifiers that can be added to the `random`, `nonoverlap`, `sequential`, and `array` modifiers.
 
 First of all, the pool modifier. This can be attached to the modifiers I mentioned, like `random_pool` (can also be writted as just `pool`), `nonoverlap_pool`, `sequential_pool`, and `array_pool`.
 
