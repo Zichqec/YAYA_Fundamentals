@@ -23,7 +23,7 @@ OnRandomNumber
 
 The above function will output a string like `I'm thinking of the number... 6`, but the number will be a random number from 0 to 9.
 
-If you would like the numbers output in this example to be from 1 to 10, you could use RAND(10) + 1 instead. Use whichever feels more intuitive to you.
+If you would like the numbers output in this example to be from 1 to 10, you could use `RAND(10) + 1` instead. Use whichever feels more intuitive to you.
 
 Being that it is a pseudo-random number generator, you can change what seed it uses. If you don't specify a seed, it will use the system time. But if you want to specify one, you can use the `SRAND` option to set it to whatever you like; be it an integer, real number, or string.
 
