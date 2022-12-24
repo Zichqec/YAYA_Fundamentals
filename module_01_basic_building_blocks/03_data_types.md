@@ -23,7 +23,6 @@ OnInteger
 
 The above function will output `10`
 
-//I want to move this section to footnotes
 Integers may also be written as binary values by adding "0b" to the start of a value, or as hexadecimal values by adding "0x" to the start of a value.
 
 ```c
