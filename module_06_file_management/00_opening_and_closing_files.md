@@ -15,7 +15,7 @@ To open or close a file, you must pass the file path to the `FOPEN` and `FCLOSE`
 ```c
 OnFileOpenClose
 {
-	_file = "examplefiles/1.txt"
+	_file = "examplefiles/newfile.txt"
 	
 	void FOPEN(_file,"w")
 	
@@ -36,7 +36,7 @@ The `FOPEN` and `FCLOSE` functions will return a `1` if the operation is success
 ```c
 OnFileOpenCloseCheck
 {
-	_file = "examplefiles/2.txt"
+	_file = "examplefiles/anotherfile.txt"
 	
 	if FOPEN(_file,"w") == 1
 	{
