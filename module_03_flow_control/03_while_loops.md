@@ -30,7 +30,7 @@ OnWhile0to10
 
 The above function will output the string `0123456789`
 
-In this function, we create a local variable called `_output` to store our output. Then we initialize a variable called `_i` to `0`, and enter a loop that checks if `_i` is less than 10.
+In this function, we create a local variable called `_display` to store our output. Then we initialize a variable called `_i` to `0`, and enter a loop that checks if `_i` is less than 10.
 
 Since `_i` is less than 10, the code runs, adding the contents of `_i` to the `_display` variable. After this, we increment the value of `_i` by 1. Then, the end of the loop is reached. So, the condition is checked again. `_i` is now equal to `1`, which is still less than 10, so it runs the same code again. Rinse and repeat until `_i` is equal to 10, at which point the loop will be exited, and we output the string stored in `_display`.
 
