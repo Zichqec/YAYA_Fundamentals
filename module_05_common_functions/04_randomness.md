@@ -4,7 +4,7 @@
 
 [Next lesson >>](../module_05_common_functions/05_eval.md)
 
-[<< Previous lesson](../module_05_common_functions/03_array_manupulation.md)
+[<< Previous lesson](../module_05_common_functions/03_array_manipulation.md)
 
 There is no true randomness in programming. Not without using something like random.org's atmospheric noise randomness. However, YAYA has pseudo-randomness that gets close enough for most purposes that you'll probably be using this language for.
 
@@ -186,4 +186,4 @@ Much better, right? Now the number is consistent throughout.
 
 [Next lesson >>](../module_05_common_functions/05_eval.md)
 
-[<< Previous lesson](../module_05_common_functions/03_array_manupulation.md)
+[<< Previous lesson](../module_05_common_functions/03_array_manipulation.md)

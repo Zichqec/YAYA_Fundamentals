@@ -2,7 +2,7 @@
 
 ## Lesson 02 - Variable Manipulation
 
-[Next lesson >>](../module_05_common_functions/03_array_manupulation.md)
+[Next lesson >>](../module_05_common_functions/03_array_manipulation.md)
 
 [<< Previous lesson](../module_05_common_functions/01_type_manipulation.md)
 
@@ -52,6 +52,6 @@ The whole business with writing the variable names in these *as strings* has con
 
 If you think about it with our visualization technique, `ISVAR(appreciation)` would look something like `ISVAR(57)` (if the `appreciation` value was 57), which doesn't really make sense. So, make sure you use strings here. When you're looking up functions on AYAYA, keep an eye out for this sort of thing.
 
-[Next lesson >>](../module_05_common_functions/03_array_manupulation.md)
+[Next lesson >>](../module_05_common_functions/03_array_manipulation.md)
 
 [<< Previous lesson](../module_05_common_functions/01_type_manipulation.md)
