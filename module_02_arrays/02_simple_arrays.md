@@ -74,7 +74,7 @@ Ahh, simple arrays... some may not even want to call them arrays at all. However
 
 They are also a little quicker to write, if you don't need any data type other than strings, and don't need any of the more complicated operations.
 
-One of the ways you may already have seen simple arrays are in what is colloquially called "double envelopes"! These are simply an function where the result that is picked is a simple array. Then some code breaks down the simple array, and the different pieces can be used in dialogue.
+One of the ways you may already have seen simple arrays are in what is colloquially called "double envelopes"! These are simply a function where the result that is picked is a simple array. Then some code breaks down the simple array, and the different pieces can be used in dialogue.
 
 ```c
 RandomTalk : nonoverlap
