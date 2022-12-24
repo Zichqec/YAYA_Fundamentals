@@ -100,7 +100,7 @@ UsedAsIndex
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M2.L0.UseFunctionAsIndex)
 
-The above function SomeFunction will output `blue`, because SomeOtherFunction **returns** `2`, and index 2 of the `_colors` array is `blue`.
+The above function OnUseFunctionAsIndex will output `blue`, because  **returns** `2`, and index 2 of the `_colors` array is `blue`.
 
 Note that you also don't have to store your arrays with a name for this to work; you can also use indices if you write the array directly.
 
