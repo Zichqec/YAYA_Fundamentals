@@ -23,7 +23,7 @@ OnMatchAny
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M7.L2.MatchAny)
 
-The above function will output `1`, whether `_string` is chosen to be "Potato" or "Tomato". Other strings would also work, as long as they followed the same format. "Po7ato", "Momato", "|o$ato"; all of these would match.
+The above function will output `1`, whether `_string` is chosen to be "Potato" or "Tomato". Other strings would also work, as long as they followed the same format. "Po7ato", "Momato", "-o$ato"; all of these would match.
 
 Next is `^`. `^` matches the beginning of a string.
 
