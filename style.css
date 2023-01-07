@@ -56,6 +56,11 @@ h3
 	font-family: 'Calibri', sans-serif;
 }
 
+li
+{
+	font-family: 'Calibri', sans-serif;
+}
+
 #main pre > code
 {
 	font-family: monospace;

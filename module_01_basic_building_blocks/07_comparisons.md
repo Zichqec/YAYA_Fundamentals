@@ -125,9 +125,9 @@ The above function will output `1`, because the string "earth" is not found anyw
 
 If you're like me and you have trouble remembering which sign is greater than and which sign is less than, hi! I have a tip that may or may not help!
 
-I always read these signs from left to right, since that's the way English text is written. (If your language reads text from right to left, sorry!) So I think of the first part of the symbol, the left side, as matching with the first word in 'greater than' or 'less than'. Greater than has the wide end on the left! GREATER than. >. Less than has the small end on the left. less THAN. <. ... This makes a lot of sense in my head, I swear.
+I always read these signs from left to right, since that's the way English text is written. (If your language reads text from right to left, sorry!) The left side of the symbol is the one you want to pay attention to; is it wide, or is it narrow and pointy? If the wide side is first, then it's *greater* than. If the smaller side is first, it's *less* than. Similarly, some folks get confused whether the operators should be written like `>=` or `=>`. It's `>=`, because it's "greater than or equal to", and not "equal to or greater than"! ... These phrases stick in my brain and help me, but I can't guarantee they'll do anything for you.
 
-Anyways, something you might want some more context for is the `>=` vs `>`, and `<=` vs `<`. Basically, >= and <= are *inclusive*, while > and < are *exclusive*. So a range of >= 10 and <= 15 includes the numbers 10, 11, 12, 13, 14, and 15. A range of > 10 and < 15 includes the numbers 11, 12, 13, and 14.
+Anyways, something you might want some more context for is the `>=` vs `>`, and `<=` vs `<`. Basically, `>=` and `<=` are *inclusive*, while `>` and `<` are *exclusive*. So a range of >= 10 and <= 15 includes the numbers 10, 11, 12, 13, 14, and 15. A range of > 10 and < 15 includes the numbers 11, 12, 13, and 14.
 
 In general, you can pick whichever of these makes more sense to you. But sometimes, one just expresses an operation more clearly than the other.
 

@@ -57,7 +57,7 @@ These official resources are primarily in Japanese, which is a large part of why
 ### In English
 * [Ukagaka Dream Team Wiki](https://ukagakadreamteam.com/wiki/home) - An English wiki for Ukagaka, including some information about YAYA, and a large selection of ghosts written in YAYA.
 * [Zarla's Template Walkthrough](http://ashido.com/ukagaka/) - A walkthrough for creating ghosts from start to finish. The YAYA Fundamentals guide only covers YAYA, so if you're looking to make a whole ghost you may want to read up on the rest here.
-* [Zi's Ukagaka Hub](https://zichqec.github.io/s-the-skeleton/) - My main website. You can find more Ukagaka resources here, as well as a lot of snips of YAYA code, in cluding functions and minigames. Some of this code is rather old, so take it with a grain of salt if you use it for study. But hey, if you want to challenge yourself and see if you can improve my old code, then go for it.
+* [Zi's Ukagaka Hub](https://zichqec.github.io/s-the-skeleton/) - My main website. You can find more Ukagaka resources here, as well as a lot of snips of YAYA code, including functions and minigames. Some of this code is rather old, so take it with a grain of salt if you use it for study. But hey, if you want to challenge yourself and see if you can improve my old code, then go for it.
 
 
 ## Webring
