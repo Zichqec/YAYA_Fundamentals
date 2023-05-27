@@ -59,7 +59,7 @@ OnMenu1
 	"Reaction 1B"
 	"Reaction 1C"
 	--
-	"\n\n\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,]"
+	"\n\n\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,blank]"
 }
 
 OnMenu2
@@ -68,7 +68,7 @@ OnMenu2
 	"Reaction 2B"
 	"Reaction 2C"
 	--
-	"\n\n\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,]"
+	"\n\n\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,blank]"
 }
 
 OnMenu3
@@ -77,7 +77,7 @@ OnMenu3
 	"Reaction 3B"
 	"Reaction 3C"
 	--
-	"\n\n\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,]"
+	"\n\n\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,blank]"
 }
 ```
 
@@ -124,7 +124,7 @@ OnMenu1
 
 BackButtons
 {
-	"\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,]"
+	"\![*]\q[Back,OnMainMenu]  \![*]\q[Cancel,blank]"
 }
 ```
 

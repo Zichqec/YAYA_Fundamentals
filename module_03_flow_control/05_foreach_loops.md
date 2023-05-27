@@ -54,7 +54,7 @@ OnBIFFComplete
 	--
 	"Emails:\n\n%(_display)"
 	--
-	"\![*]\q[Done,]"
+	"\![*]\q[Done,blank]"
 }
 ```
 
