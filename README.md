@@ -6,6 +6,8 @@ The guide also comes with a companion ghost called [Ghost Guides](https://github
 
 Please note that if you are viewing the guide through GitHub's markdown viewer rather than on the GitHub Pages website, clicking on the links to run the code will redirect you to a jumper page that will send the event to the ghost. This is a workaround, because GitHub's markdown viewer does not support the type of links that the ghost uses. It is recommended to open these links in a new tab, by middle clicking or holding Ctrl when clicking. The additional tabs may simply be closed.
 
+Please note also that your browser security may block the links that run the code! If they aren't working for you, you may want to adjust your security settings to allow it through for this website.
+
 
 ## Work In Progress
 
