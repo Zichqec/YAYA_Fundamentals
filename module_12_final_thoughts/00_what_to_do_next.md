@@ -14,7 +14,7 @@ Do keep this guide handy and reference back to it as you need! As you write more
 
 I'd also recommend you go back and reread the code examples in the "Further Context" sections! If much of the code in those examples was over your head at the time, you may be surprised by how much of it you recognize/understand now!
 
-The other thing you can do is look at other people's code. If you're in the [Ukagaka Dream Team Discord server](https://ukagakadreamteam.com/wiki/info/ukagaka_dream_team#where_to_find_us), the `#free_code_snippets` channel is a great place to start. You could also try the [minigames and functions on my website](https://zichqec.github.io/s-the-skeleton/functions). Or, you might try looking at some ghosts that have cool functions, and peek inside to see what's going on.
+The other thing you can do is look at other people's code. If you're in the [Ukagaka Dream Team Discord server](https://ukagakadreamteam.com/wiki/info/ukagaka_dream_team#where_to_find_us), the `#free_code_snippets` channel is a great place to start. You could also try the [minigames and functions on my website](https://ukagaka.zichqec.com/function/index). Or, you might try looking at some ghosts that have cool functions, and peek inside to see what's going on.
 
 What I recommend is, find a function that looks interesting to you, and start reading through it. Try to break it down and understand what it's doing and why. And as you do, leave comments for yourself! This can help if you get confused as you go along and need to backtrack.
 

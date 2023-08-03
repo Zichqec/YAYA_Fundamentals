@@ -39,7 +39,7 @@ The above function will output either `Playlist saved.` or `Saving playlist fail
 
 ## Further Context
 
-You don't have to stick to `.txt` extensions, by the way! For my ghost [Warrior Generator](https://zichqec.github.io/s-the-skeleton/warrior_generator), I use `.wgc` for Warrior Generator Character, and `.wgd` for Warrior Generator Design. These are still just text files that you can open up in a text editor!
+You don't have to stick to `.txt` extensions, by the way! For my ghost [Warrior Generator](https://ukagaka.zichqec.com/ghost/warrior_generator), I use `.wgc` for Warrior Generator Character, and `.wgd` for Warrior Generator Design. These are still just text files that you can open up in a text editor!
 
 `.m3u` is another good example; this is just a text file you can open, which stores the filepaths of songs, and acts as a playlist. Most music player ghosts make use of these.
 

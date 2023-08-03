@@ -18,7 +18,7 @@ The website for the guide was put together over the course of a few days, as my 
 
 ## Advent Calendar
 
-This guide was initially posted for the [伺的 Advent Calendar 2022](https://adventar.org/calendars/8310), on day 24. You can read the article about it [here](https://zichqec.github.io/s-the-skeleton/advent_calendar_2022_02). The guide was created throughout the entirety of 2022 (though admittedly I only really worked on it in September and December...), and I used the Advent Calendar as a deadline to motivate me to finish.
+This guide was initially posted for the [伺的 Advent Calendar 2022](https://adventar.org/calendars/8310), on day 24. You can read the article about it [here](https://ukagaka.zichqec.com/blog/2022-12-24_advent_calendar_yaya_fundamentals_release). The guide was created throughout the entirety of 2022 (though admittedly I only really worked on it in September and December...), and I used the Advent Calendar as a deadline to motivate me to finish.
 
 
 ## Credits
@@ -59,7 +59,7 @@ These official resources are primarily in Japanese, which is a large part of why
 ### In English
 * [Ukagaka Dream Team Wiki](https://ukagakadreamteam.com/wiki/home) - An English wiki for Ukagaka, including some information about YAYA, and a large selection of ghosts written in YAYA.
 * [Zarla's Template Walkthrough](http://ashido.com/ukagaka/) - A walkthrough for creating ghosts from start to finish. The YAYA Fundamentals guide only covers YAYA, so if you're looking to make a whole ghost you may want to read up on the rest here.
-* [Zi's Ukagaka Hub](https://zichqec.github.io/s-the-skeleton/) - My main website. You can find more Ukagaka resources here, as well as a lot of snips of YAYA code, including functions and minigames. Some of this code is rather old, so take it with a grain of salt if you use it for study. But hey, if you want to challenge yourself and see if you can improve my old code, then go for it.
+* [Zi's Ukagaka Space](https://ukagaka.zichqec.com/) - My main website. You can find more Ukagaka resources here, as well as a lot of snips of YAYA code, including functions and minigames. Some of this code is rather old, so take it with a grain of salt if you use it for study. But hey, if you want to challenge yourself and see if you can improve my old code, then go for it.
 
 
 ## Webring
