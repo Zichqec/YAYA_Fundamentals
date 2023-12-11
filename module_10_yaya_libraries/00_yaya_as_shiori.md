@@ -39,7 +39,7 @@ Finally, there are some special operators that you can add to your scripts. In S
 
 First is **delayed eval**. If you want to apply a change to a variable when a certain script is executed, you can use `:eval=` for that. Any text you write after it will be run through an `EVAL` function.
 
-**NOTE: delayed eval was found to present a security risk after this guide was originally written. *You should not use delayed eval.* There is now a setting in the config.dic file to turn this option off. Please turn it off unless absolutely necessary. You can use \![raise] tags to generate SHIORI events to change your variables directly instead. Having access to EVAL in ordinary scripts is a bad idea!**
+**NOTE: delayed eval was found to present a security risk after this guide was originally written. *You should not use delayed eval.* There is now a setting in the config.dic file to turn this option off. Please turn it off unless absolutely necessary. You can use `\![raise]` tags to generate SHIORI events to change your variables directly instead. Having access to EVAL in ordinary scripts is a bad idea!**
 
 ```c
 OnRaiseFriendshipBasedOnDialogue
