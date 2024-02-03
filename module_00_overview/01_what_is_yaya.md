@@ -10,7 +10,7 @@ YAYA is a simplified programming language based on C for the purpose of creating
 
 Ghosts have many different moving parts; this guide exists to focus on YAYA specifically, and basic computer science concepts.
 
-If you're making a ghost, you will need to know how to write code for the shell in a language called SERIKO, and MAYUNA if you also want to make dressups. You will also need to know how to write Sakura Script. This guide will not be covering any of those languages, but you need to be able to tell them apart.
+If you're making a ghost, you will need to know how to write code for the shell in surfaces.txt, including SERIKO which is for animations, and MAYUNA which is for dressups. You will also need to know how to write SakuraScript. This guide will not be covering any of those languages, but you need to be able to tell them apart.
 
 YAYA code, as seen in the previous lesson, looks something like this:
 
@@ -23,7 +23,7 @@ HelloWorld
 
 It is written in files with the extension `.dic`. If you're in a dic file in a ghost made in YAYA, you're looking at YAYA code.
 
-As mentioned, SERIKO and MAYUNA are the languages used to make shells for ghosts. The code for animations is called SERIKO, and the code for dressups is called MAYUNA. If you're in surfaces.txt, you're looking at SERIKO and/or MAYUNA code. It'll look something like this:
+As mentioned, surfaces.txt has its own coding language. The code for animations is called SERIKO, and the code for dressups is called MAYUNA. If you're in surfaces.txt, that's code for the shell. It'll look something like this:
 
 ```c
 animation0.interval,random,4
@@ -39,15 +39,15 @@ It may also look like this:
 0pattern1,-1,10,overlay,0,0
 ```
 
-We will not be covering any SERIKO or MAYUNA in this guide.
+We will not be covering any shell related code in this guide.
 
-Sakura Script is a system of tags, which you can use in your scripts to make the baseware (SSP) do certain things, like changing surfaces, displaying images, opening input boxes, etc. It looks like this:
+SakuraScript is a system of tags, which you can use in your scripts to make the baseware (SSP) do certain things, like changing surfaces, displaying images, opening input boxes, etc. It looks like this:
 
 ```
 "\0\s[0]Hello,\w4 world!\e"
 ```
 
-We will have to go over a little SakuraScript at some points, but I'll explain it when we get there. For now, just know that text within double quotes `"` or single quotes `'` can contain Sakura Script.
+We will have to go over a little SakuraScript at some points, but I'll explain it when we get there. For now, just know that text within double quotes `"` or single quotes `'` can contain SakuraScript.
 
 [Next lesson >>](../module_00_overview/02_initial_setup.md)
 
