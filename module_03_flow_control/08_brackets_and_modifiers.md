@@ -210,7 +210,7 @@ OnVoidModifier : void
 
 [Click to run the above code in the Ghost Guides companion ghost.](https://zichqec.github.io/YAYA_Fundamentals/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DGhost%20Guides%26info%3DOnExample.M3.L8.VoidModifier)
 
-In the above function, `1` will be added to the value of i, but nothing will be output.
+In the above function, `1` will be added to the value of `i`, but nothing will be output.
 
 
 **array** is a modifier that returns all output candidates as a general purpose array.
