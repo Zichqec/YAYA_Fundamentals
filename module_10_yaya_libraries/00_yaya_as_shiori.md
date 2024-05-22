@@ -141,6 +141,19 @@ Quite the difference, isn't it? The CHAIN.Index variable is set to 0 elsewhere i
 There are some other useful functions you may find by peeking through the base dic files. You may also find several useful variables, such as `SHIORI3FW.ShellName`, which contains the name of the current shell, and `SHIORI3FW.BalloonName`, which contains the name of the current balloon. Also, `SHIORI3FW.LastTalk`, which contains the previous script.
 
 
+Something else you might find handy is the ability to display text in the SSTP section of the balloon. This section is usually at the bottom or top of the balloon, depending on how the balloon was set up. You'll notice SSP's default ghost, Emily/Phase4.5, displays the current version number of SSP and the version of YAYA she's using in the SSTP area of the balloon when you open her main menu. So how is this done?
+
+It's actually very simple. There is a variable used by YAYA as SHIORI called `marker`. Just set this variable to whatever string you want to display, and it'll show up for that script only.
+
+```c
+marker = "This text is displayed in the SSTP section"
+```
+
+Just keep in mind that some balloons are not terribly wide, so you may not want to put anything here that is critical or very long. There is no word wrapping or scrolling, so anything that goes outside the balloon area will simply not be seen.
+
+Note also that this means `marker` should be considered a reserved name, and you should not create your own variable or function with this name.
+
+
 Finally, a word about Select.options, if you know what they are. For many ghosts, writing a menu choice like `\q[Hello,sayhi]` will lead to a function called `Select.sayhi`. Select.options are *not a part of YAYA or the YAYA as SHIORI library.* These are created by a piece of code which was in a modified version of the library's dic files. This was included in the first English ghost templates that were made, and thus is present in nearly every single English ghost.
 
 ```c
