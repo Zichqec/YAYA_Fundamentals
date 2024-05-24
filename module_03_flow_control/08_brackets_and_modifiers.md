@@ -312,7 +312,7 @@ OnMeltModifier
 {
 	"red"
 	
-	melt_random: {
+	melt_random : {
 		("green","blue")
 		("yellow","purple")
 	}
