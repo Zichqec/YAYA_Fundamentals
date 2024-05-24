@@ -303,7 +303,7 @@ OnPoolModifier : pool
 
 When we add `pool` to the function, all of the dialogues are given an equal chance to be chosen instead of it being affected by the brackets. So it has a 16.6% chance to output `red`, 16.6% chance to output `green`, 16.6% chance to output `blue`, etc. Each dialogue has a 16.6% chance to be chosen.
 
-There is also the `melt` modifier. This is similar to the `parallel` function mentioned in the previous lesson; any arrays within a function that has a melt modifier will have each element used as a separate output candidate. This is primarily used with the second way of writing function modifiers.
+There is also the `melt` modifier. Just like the `pool` modifier, this attaches to other modifiers, like `melt_nonoverlap`, `melt_array`, etc. This is similar to the `parallel` function mentioned in the previous lesson; any arrays within a function that has a melt modifier will have each element used as a separate output candidate. This is primarily used with the second way of writing function modifiers.
 
 IMPORTANT NOTE: at the time of writing, this is currently bugged. So, take this one with a grain of salt. But what I am describing here is, to the best of my knowledge, the intended effect.
 
