@@ -471,7 +471,7 @@ RandomTalk : nonoverlap
 Yeah. If you've ever seen your ghost output the same dialogues over and over even though they have lots of dialogues available, this is why. Welcome to hell. Add the `pool` modifier, it'll save your life! With the `pool` modifier added, it would look like this instead, when friendship is high.
 
 ```c
-RandomTalk : nonoverlap
+RandomTalk : nonoverlap_pool
 {
 	"Hi!"
 	"You're such a cool friend!"
