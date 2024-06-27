@@ -64,4 +64,4 @@ These official resources are primarily in Japanese, which is a large part of why
 
 ## Webring
 
-This guide is a part of the [Ukagaka/Ghost Development and Download](https://ukagakawebring.netlify.com/) webring. You can find other cool ghosts and resources available here. Try browsing the ring, or [click here to go to a random page](https://ukagakawebring.netlify.com//random).
+This guide is a part of the [Ukagaka/Ghost Development and Download](https://ukagakawebring.netlify.app/) webring. You can find other cool ghosts and resources available here. Try browsing the ring, or [click here to go to a random page](https://ukagakawebring.netlify.app//random).
