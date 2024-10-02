@@ -8,7 +8,7 @@
 
 There is no true randomness in programming. Not without using something like random.org's atmospheric noise randomness. However, YAYA has pseudo-randomness that gets close enough for most purposes that you'll probably be using this language for.
 
-First, there is the `RAND` function. `RAND` takes 1 argument, an integer of **how many** random numbers you want it to draw from. If you specify `3`, the outputs can be `0`, `1`, or `2`. If you specify `5`, then the outputs can be `0`, `1`, `2`, `3`, or `4`. If you don't specify a maximum, it will use the maximum integer limit instead.
+First, there is the `RAND` function. `RAND` takes 1 argument, an integer of **how many** random numbers you want it to draw from. If you specify `3`, the outputs can be `0`, `1`, or `2`. If you specify `5`, then the outputs can be `0`, `1`, `2`, `3`, or `4`. If you don't specify a maximum, it will use 100 by default.
 
 ```c
 OnRandomNumber
