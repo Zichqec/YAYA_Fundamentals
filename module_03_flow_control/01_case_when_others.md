@@ -8,7 +8,7 @@
 
 case/when/others is a more niche structure than if/else. In other languages, this is often called switch/case. But in YAYA, switch means something else that we will go over in the next lesson.
 
-There is no speed difference bewteen case/when/others and if/elseif/else. case/when/others is also evaluated from top to bottom, just as if/elseif/else is. These are common misconceptions. (Also, if you are familiar with other languages like Ruby, there is no fallthrough here and no need to break your case statements.) As a matter of fact, case/when/others is converted to the equivalent if/elseif/else statement by YAYA before it is run. So, the only reason to use case/when/others is for readability. It's very good for ranges of numbers, or checking for many static options.
+There is no speed difference between case/when/others and if/elseif/else. case/when/others is also evaluated from top to bottom, just as if/elseif/else is. These are common misconceptions. (Also, if you are familiar with other languages like Ruby, there is no fallthrough here and no need to break your case statements.) As a matter of fact, case/when/others is converted to the equivalent if/elseif/else statement by YAYA before it is run. So, the only reason to use case/when/others is for readability. It's very good for ranges of numbers, or checking for many static options.
 
 When you write a `case` statement, you must write the variable or value that it will be checking. Then, inside of the brackets for the case, you write a series of `when` statements. These can be numbers, strings, or ranges, and you can write as many as you need.
 
